@@ -40,7 +40,7 @@ def get_dblp_ranked_title_noun_frequencies():
                         key=lambda item:
                         (1.0 * item[1] + 0.01 * ranked_nouns[item[0]]),
                         reverse=True)}
-    with open('data/dblp_noun_frequencies_2.csv', 'w') as f:
+    with open('data/dblp_noun_frequencies_3.csv', 'w') as f:
         f.write('noun_phrase,frequency,wiki,score\n')
         count = 0
         for key in noun_frequencies.keys():
@@ -49,7 +49,7 @@ def get_dblp_ranked_title_noun_frequencies():
             count += 1
             if noun_frequencies[key] > 1:
                 f.write(key + ',' + str(noun_frequencies[key]) + ',' +
-                        str(ranked_nouns[key]) + ',' + str(get_wiki_score(key)) + '\n')
+                        str(ranked_nouns[key]) + '\n')
         f.close()
 
 

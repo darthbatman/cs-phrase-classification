@@ -7,7 +7,7 @@ def compare_results():
             autophrase_terms[line.split('\t')[1]] = 1.0 - ((i + 1) / len(lines))
         f1.close()
     my_terms = {}
-    with open('data/dblp_noun_scored_frequencies.csv') as f2:
+    with open('data/scored_with_wiki.csv') as f2:
         lines = f2.readlines()
         for i, line in enumerate(lines):
             line = line.strip()
@@ -17,7 +17,7 @@ def compare_results():
             if i == len(autophrase_terms.keys()):
                 break
         f2.close()
-    with open('comparison.csv', 'w') as f:
+    with open('comparison_wiki.csv', 'w') as f:
         f.write('term,autophrase_rank,my_rank\n')
         for a_term in autophrase_terms.keys():
             if a_term in my_terms:

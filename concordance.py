@@ -1,4 +1,10 @@
 import nltk
+from itertools import islice
+
+
+def take(n, iterable):
+    "Return first n items of the iterable as a list"
+    return list(islice(iterable, n))
 
 
 def get_concordance():
@@ -12,8 +18,19 @@ def get_concordance():
         f1.close()
         print("Parsed Tokens")
         text = nltk.Text(tokens)
-        print("Got Text")
-        print(text.concordance('information'))
+        text.concordance('information', lines=10)
+        text.concordance('data', lines=10)
+        # c = nltk.ConcordanceIndex(text.tokens, key = lambda s: s.lower())
+        # my_list = [text.tokens[offset+1] for offset in c.offsets('information')]
+        # freq = {}
+        # for item in my_list:
+        #     if (item in freq):
+        #         freq[item] += 1
+        #     else:
+        #         freq[item] = 1
+      
+        # freq = {k: v for k, v in sorted(freq.items(), key=lambda item: item[1], reverse=True)}
+        # print(take(100, freq.items()))
         # with open('data/dblp_nouns_517756_titles_3_words.txt', 'r') as f2:
         #     line = f2.readline()
         #     while line:
