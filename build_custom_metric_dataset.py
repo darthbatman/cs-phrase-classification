@@ -3,7 +3,7 @@ import random
 
 def get_auto_phrase_results():
     results = {}
-    with open('data/auto_phrase_noun_phrases.txt', 'r') as f:
+    with open('data/auto-phrase/auto_phrase_noun_phrases.txt', 'r') as f:
         line = f.readline()[:-1]
         while line:
             line_parts = line.split('\t')
@@ -21,7 +21,7 @@ def get_auto_phrase_results():
 
 def get_wiki_scored_results():
     results = {}
-    with open('data/wiki_scored_phrases.txt', 'r') as f:
+    with open('data/noun_phrase_wiki_scores.csv', 'r') as f:
         line = f.readline()
         line = f.readline()[:-1]
         while line:

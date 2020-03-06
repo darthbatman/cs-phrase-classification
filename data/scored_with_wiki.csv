@@ -1,0 +1,2602 @@
+phrase,frequency,custom_metric_score,wiki_score,final_score
+big data,476.0,-39541.0,0.5,-3428.1000000000004
+an analysis,523.0,-39347.0,0.3,-3381.7000000000003
+its applications,517.0,-39101.0,0.2,-3373.1000000000004
+an overview,561.0,-38626.0,0.0,-3301.6000000000004
+feature selection,398.0,-37667.0,1.0,-3268.7000000000003
+social networks,520.0,-38112.0,0.5,-3241.2000000000003
+an approach,633.0,-38707.0,0.0,-3237.7000000000003
+machine learning,497.0,-38179.0,1.0,-3220.9
+deep learning,486.0,-37789.0,0.9,-3202.9
+performance evaluation,608.0,-37694.0,0.2,-3141.4
+face recognition,429.0,-35603.0,0.8,-3051.3
+wireless networks,695.0,-37734.0,0.3,-3048.4
+guest editorial,548.0,-35961.0,0.1,-3038.1000000000004
+an application,894.0,-39464.0,0.6,-2992.4
+an algorithm,508.0,-35724.0,0.9,-2974.4
+resource allocation,414.0,-33710.0,0.3,-2927.0
+sensor networks,431.0,-33795.0,0.4,-2908.5
+artificial intelligence,330.0,-31557.0,1.0,-2725.7000000000003
+performance analysis,1149.0,-38819.0,0.6,-2672.9
+genetic algorithm,515.0,-31409.0,0.4,-2585.9
+cloud computing,592.0,-32161.0,0.8,-2544.1000000000004
+special issue,1375.0,-39125.0,0.1,-2527.5
+neural network,378.0,-29997.0,1.0,-2521.7000000000003
+its application,1531.0,-39398.0,0.4,-2368.8
+genetic algorithms,580.0,-29532.0,0.5,-2323.2000000000003
+fuzzy logic,313.0,-27056.0,0.7,-2322.6000000000004
+hoc networks,461.0,-27738.0,0.3,-2282.8
+image segmentation,305.0,-23690.0,0.9,-1974.0
+neural networks,932.0,-28975.0,0.9,-1875.5
+heterogeneous networks,272.0,-21310.0,0.5,-1809.0
+a family,207.0,-19739.0,0.0,-1766.9
+the study,204.0,-19493.0,0.0,-1745.3000000000002
+the art,205.0,-19663.0,0.2,-1741.3000000000002
+students ',285.0,-19643.0,0.0,-1679.3000000000002
+ofdm systems,254.0,-19688.0,0.4,-1674.8000000000002
+the structure,216.0,-18802.0,0.2,-1644.2
+a system,331.0,-19865.0,0.2,-1635.5
+vehicular networks,217.0,-18669.0,0.2,-1629.9
+a case,338.0,-19714.0,0.1,-1623.4
+the application,294.0,-19492.0,0.5,-1605.2
+the theory,228.0,-18352.0,0.1,-1597.2
+multi-agent systems,278.0,-19688.0,1.0,-1590.8000000000002
+the evaluation,224.0,-18250.0,0.2,-1581.0
+the solution,320.0,-18910.0,0.1,-1561.0
+the future,379.0,-19360.0,0.0,-1557.0
+editor 's,307.0,-18781.0,0.2,-1551.1000000000001
+the relationship,283.0,-18286.0,0.1,-1535.6000000000001
+review of,440.0,-19830.0,0.1,-1533.0
+the accuracy,206.0,-17300.0,0.0,-1524.0
+the importance,181.0,-17055.0,0.1,-1514.5
+a tool,351.0,-18754.0,0.1,-1514.4
+the analysis,408.0,-19375.0,0.3,-1499.5
+the development,478.0,-19778.0,0.1,-1489.8000000000002
+the context,286.0,-17999.0,0.4,-1473.9
+the number,523.0,-19858.0,0.0,-1462.8000000000002
+the evolution,300.0,-16988.0,0.0,-1398.8000000000002
+the editor,445.0,-18781.0,0.4,-1393.1000000000001
+the detection,191.0,-15942.0,0.4,-1363.2
+cellular automata,198.0,-16302.0,0.7,-1362.2
+the web,555.0,-19928.0,0.9,-1347.8000000000002
+multi-objective optimization,166.0,-15665.0,0.7,-1330.5
+the effectiveness,219.0,-15398.0,0.0,-1320.8000000000002
+ieee 802.11,162.0,-14762.0,0.2,-1294.2
+a model,652.0,-19525.0,0.1,-1290.5
+the effects,594.0,-19024.0,0.2,-1288.4
+the design,690.0,-19756.0,0.1,-1275.6000000000001
+the dynamics,212.0,-15073.0,0.2,-1275.3000000000002
+the influence,453.0,-17058.0,0.0,-1252.8000000000002
+a graph,259.0,-15548.0,0.7,-1225.8000000000002
+a method,688.0,-19050.0,0.2,-1197.0
+a methodology,216.0,-14298.0,0.2,-1193.8000000000002
+the performance,818.0,-19444.0,0.0,-1126.4
+the effect,753.0,-18930.0,0.2,-1120.0
+a hybrid,366.0,-14978.0,0.2,-1111.8000000000002
+the cloud,312.0,-14380.0,0.2,-1106.0
+the prediction,129.0,-12089.0,0.4,-1039.9
+the case,925.0,-19714.0,0.1,-1036.4
+the internet,923.0,-19753.0,0.6,-992.3000000000002
+the use,997.0,-19940.0,0.2,-977.0
+a study,1013.0,-19493.0,0.0,-936.3000000000002
+the complexity,391.0,-14024.0,0.9,-921.4000000000001
+the estimation,154.0,-11036.0,0.4,-909.6000000000001
+case-based reasoning,132.0,-11078.0,0.7,-905.8
+the convergence,151.0,-10716.0,0.2,-900.6000000000001
+a characterization,142.0,-10526.0,0.2,-890.6000000000001
+a comparison,860.0,-17746.0,0.4,-874.6000000000001
+a review,1096.0,-19830.0,0.2,-867.0
+the computation,134.0,-10742.0,0.9,-850.2
+the presence,872.0,-17219.0,0.1,-839.9000000000001
+alzheimer 's,105.0,-9392.0,0.0,-834.2
+the role,1070.0,-18908.0,0.0,-820.8000000000002
+the impact,1092.0,-18665.0,0.1,-764.5
+a class,1253.0,-19613.0,0.2,-688.3000000000002
+a framework,1021.0,-17544.0,0.5,-683.4000000000001
+a taxonomy,99.0,-7772.0,0.0,-678.2
+simulated annealing,158.0,-8918.0,0.9,-643.8000000000001
+the emergence,94.0,-7469.0,0.2,-632.9000000000001
+petri nets,235.0,-9574.0,0.9,-632.4000000000001
+a note,1432.0,-19541.0,0.0,-522.1000000000001
+parkinson 's,80.0,-5477.0,0.0,-467.70000000000005
+bayesian inference,77.0,-5460.0,0.2,-449.0
+65-nm cmos,92.0,-4294.0,0.2,-317.40000000000003
+the equivalence,58.0,-2903.0,0.1,-222.3
+event-related potentials,37.0,-2398.999999982545,0.2,-182.89999999825451
+rayleigh fading,32.0,-2124.999999505235,0.0,-180.4999999505235
+the scalability,28.0,-1992.9999925754964,0.4,-131.29999925754964
+convex polygons,22.0,-1529.999635219574,0.2,-110.9999635219574
+robotic manipulators,42.0,-2036.9999999995368,0.7,-91.69999999995369
+the integers,23.0,-1537.9998166561127,0.4,-90.79998166561128
+corba,20.0,-1380.0,0.3,-88.0
+a survey,1805.0,-18713.0,0.0,-66.30000000000018
+the determinants,39.0,-966.999999998241,0.1,-47.699999999824115
+lilog-db,6.0,0.0,0.0,6.0
+presuppositions,6.0,0.0,0.0,6.0
+x-rays,6.0,0.0,0.0,6.0
+hyperbolic,6.0,0.0,0.0,6.0
+camellia,6.0,0.0,0.0,6.0
+substitutions,6.0,0.0,0.0,6.0
+-3,6.0,0.0,0.0,6.0
+primality,6.0,0.0,0.0,6.0
+droughts,6.0,0.0,0.0,6.0
+granular,6.0,0.0,0.0,6.0
+olfaction,6.0,0.0,0.0,6.0
+cortical,6.0,0.0,0.0,6.0
+interestingness,6.0,0.0,0.0,6.0
+sdi,6.0,0.0,0.0,6.0
+zernike,6.0,0.0,0.0,6.0
+aerosols,6.0,0.0,0.0,6.0
+viscosity,6.0,0.0,0.0,6.0
+impossibility,6.0,0.0,0.0,6.0
+constellation,6.0,0.0,0.0,6.0
+gratifications,6.0,0.0,0.0,6.0
+dtm,6.0,0.0,0.0,6.0
+freshness,6.0,0.0,0.0,6.0
+whither,6.0,0.0,0.0,6.0
+the multiplicity,6.0,0.0,0.0,6.0
+reactors,6.0,0.0,0.0,6.0
+sugarcane,6.0,0.0,0.0,6.0
+compressors,6.0,0.0,0.0,6.0
+renewables,6.0,0.0,0.0,6.0
+seawater,6.0,0.0,0.0,6.0
+presupposition,7.0,0.0,0.0,7.0
+synapses,7.0,0.0,0.0,7.0
+excitability,7.0,0.0,0.0,7.0
+permanents,7.0,0.0,0.0,7.0
+mediators,7.0,0.0,0.0,7.0
+epidemics,7.0,0.0,0.0,7.0
+subsidence,7.0,0.0,0.0,7.0
+trmm,7.0,0.0,0.0,7.0
+triage,7.0,0.0,0.0,7.0
+stereotypes,7.0,0.0,0.0,7.0
+imu,7.0,0.0,0.0,7.0
+standardisation,7.0,0.0,0.0,7.0
+ordinal,7.0,0.0,0.0,7.0
+macroeconomics,7.0,0.0,0.0,7.0
+qcd,7.0,0.0,0.0,7.0
+neuroethics,7.0,0.0,0.0,7.0
+biofuels,7.0,0.0,0.0,7.0
+unawareness,7.0,0.0,0.0,7.0
+biodiesel,7.0,0.0,0.0,7.0
+microalgae,7.0,0.0,0.0,7.0
+priori,7.0,0.0,0.0,7.0
+catalysts,7.0,0.0,0.0,7.0
+photovoltaics,7.0,0.0,0.0,7.0
+the hyperbolicity,7.0,0.0,0.0,7.0
+impatience,7.0,0.0,0.0,7.0
+u.s.,7.0,0.0,0.0,7.0
+quantile,7.0,0.0,0.0,7.0
+anza,7.0,0.0,0.0,7.0
+bise,7.0,0.0,0.0,7.0
+editor-in-chief,7.0,0.0,0.0,7.0
+j.,7.0,0.0,0.0,7.0
+tolerances,7.0,0.0,0.0,7.0
+offsets,7.0,0.0,0.0,7.0
+2.4,7.0,0.0,0.0,7.0
+valence,7.0,0.0,0.0,7.0
+ales,7.0,0.0,0.0,7.0
+a objetos,7.0,0.0,0.0,7.0
+mtc,7.0,0.0,0.0,7.0
+transceivers,7.0,0.0,0.0,7.0
+directionality,7.0,0.0,0.0,7.0
+two-tier hetnets,7.0,0.0,0.0,7.0
+permeability,7.0,0.0,0.0,7.0
+maneuvers,7.0,0.0,0.0,7.0
+phevs,7.0,0.0,0.0,7.0
+single-carrier,7.0,0.0,0.0,7.0
+manifestation,7.0,0.0,0.0,7.0
+materiality,7.0,0.0,0.0,7.0
+a rejoinder,7.0,0.0,0.0,7.0
+2nd,7.0,0.0,0.0,7.0
+chemists,7.0,0.0,0.0,7.0
+indifference,7.0,0.0,0.0,7.0
+plurality,7.0,0.0,0.0,7.0
+dvfs,7.0,0.0,0.0,7.0
+hyperrings,7.0,0.0,0.0,7.0
+legged locomotion,7.0,0.0,0.0,7.0
+hyperideals,7.0,0.0,0.0,7.0
+contractions,7.0,0.0,0.0,7.0
+stagnation,7.0,0.0,0.0,7.0
+e-healthcare,7.0,0.0,0.0,7.0
+representability,7.0,0.0,0.0,7.0
+injectivity,7.0,0.0,0.0,7.0
+pdl,7.0,0.0,0.0,7.0
+fortification,7.0,0.0,0.0,7.0
+shipbuilding,7.0,0.0,0.0,7.0
+uniformization,7.0,0.0,0.0,7.0
+m/g/c,7.0,0.0,0.0,7.0
+m-government,7.0,0.0,0.0,7.0
+multiplicities,7.0,0.0,0.0,7.0
+quadrilaterals,7.0,0.0,0.0,7.0
+derangements,7.0,0.0,0.0,7.0
+ell,7.0,0.0,0.0,7.0
+granger causality,7.0,0.0,0.0,7.0
+coils,7.0,0.0,0.0,7.0
+performability,7.0,0.0,0.0,7.0
+pwm rectifiers,7.0,0.0,0.0,7.0
+aring,7.0,0.0,0.0,7.0
+neue,7.0,0.0,0.0,7.0
+herausforderung,7.0,0.0,0.0,7.0
+preise,7.0,0.0,0.0,7.0
+informa,7.0,0.0,0.0,7.0
+multiples,7.0,0.0,0.0,7.0
+imperfections,7.0,0.0,0.0,7.0
+groupoids,7.0,0.0,0.0,7.0
+z-numbers,7.0,0.0,0.0,7.0
+interval-valued pythagorean,7.0,0.0,0.0,7.0
+soi,7.0,0.0,0.0,7.0
+$ ^,7.0,0.0,0.0,7.0
+a high-speed,7.0,0.0,0.0,7.0
+9/11,7.0,0.0,0.0,7.0
+$ $,7.0,0.0,0.0,7.0
+burn-in,7.0,0.0,0.0,7.0
+orchards,7.0,0.0,0.0,7.0
+the inadequacy,7.0,0.0,0.0,7.0
+the cerebellum,7.0,0.0,0.0,7.0
+gf-1,7.0,0.0,0.0,7.0
+radarsat-2,7.0,0.0,0.0,7.0
+externalism,7.0,0.0,0.0,7.0
+empiricism,7.0,0.0,0.0,7.0
+husserl 's,7.0,0.0,0.0,7.0
+carnap,7.0,0.0,0.0,7.0
+verisimilitude,7.0,0.0,0.0,7.0
+indiscernibles,7.0,0.0,0.0,7.0
+idealization,7.0,0.0,0.0,7.0
+laplace 's,7.0,0.0,0.0,7.0
+sheaves,7.0,0.0,0.0,7.0
+2000-2015,7.0,0.0,0.0,7.0
+cropland,7.0,0.0,0.0,7.0
+himawari-8,7.0,0.0,0.0,7.0
+e.,7.0,0.0,0.0,7.0
+forschungs,7.0,0.0,0.0,7.0
+informationen/meinungen,7.0,0.0,0.0,7.0
+reo,7.0,0.0,0.0,7.0
+zf,7.0,0.0,0.0,7.0
+g.,7.0,0.0,0.0,7.0
+ultraproducts,7.0,0.0,0.0,7.0
+constructibility,7.0,0.0,0.0,7.0
+vaught 's,7.0,0.0,0.0,7.0
+canceller,7.0,0.0,0.0,7.0
+warum,7.0,0.0,0.0,7.0
+mittels,7.0,0.0,0.0,7.0
+technik,7.0,0.0,0.0,7.0
+fosls,7.0,0.0,0.0,7.0
+tagungsbericht,7.0,0.0,0.0,7.0
+lwa,7.0,0.0,0.0,7.0
+icca,7.0,0.0,0.0,7.0
+nmij,7.0,0.0,0.0,7.0
+rogowski coils,7.0,0.0,0.0,7.0
+nfc,8.0,0.0,0.0,8.0
+hydrology,8.0,0.0,0.0,8.0
+neuromodulation,8.0,0.0,0.0,8.0
+sufficiency,8.0,0.0,0.0,8.0
+polarity,8.0,0.0,0.0,8.0
+co-registration,8.0,0.0,0.0,8.0
+wfs,8.0,0.0,0.0,8.0
+projective,8.0,0.0,0.0,8.0
+copula,8.0,0.0,0.0,8.0
+sns,8.0,0.0,0.0,8.0
+microaggregation,8.0,0.0,0.0,8.0
+asd,8.0,0.0,0.0,8.0
+rcr,8.0,0.0,0.0,8.0
+co-operation,8.0,0.0,0.0,8.0
+abstention,8.0,0.0,0.0,8.0
+self-control,8.0,0.0,0.0,8.0
+methanol,8.0,0.0,0.0,8.0
+inefficiencies,8.0,0.0,0.0,8.0
+metacognition,8.0,0.0,0.0,8.0
+stabilisation,8.0,0.0,0.0,8.0
+ligands,8.0,0.0,0.0,8.0
+fermions,8.0,0.0,0.0,8.0
+diagonalization,8.0,0.0,0.0,8.0
+islanded microgrid,8.0,0.0,0.0,8.0
+1 +1,8.0,0.0,0.0,8.0
+breakdowns,8.0,0.0,0.0,8.0
+scatterers,8.0,0.0,0.0,8.0
+aircrafts,8.0,0.0,0.0,8.0
+closed-form,8.0,0.0,0.0,8.0
+isi,8.0,0.0,0.0,8.0
+papr,8.0,0.0,0.0,8.0
+biomedicine,8.0,0.0,0.0,8.0
+novices,8.0,0.0,0.0,8.0
+f.,8.0,0.0,0.0,8.0
+valuations,8.0,0.0,0.0,8.0
+nanofluid,8.0,0.0,0.0,8.0
+nanoparticles,8.0,0.0,0.0,8.0
+observer-based,8.0,0.0,0.0,8.0
+insulators,8.0,0.0,0.0,8.0
+passivity,8.0,0.0,0.0,8.0
+obstructions,8.0,0.0,0.0,8.0
+the poset,8.0,0.0,0.0,8.0
+pluralism,8.0,0.0,0.0,8.0
+e-procurement,8.0,0.0,0.0,8.0
+genomes,8.0,0.0,0.0,8.0
+emg,8.0,0.0,0.0,8.0
+dempster 's,8.0,0.0,0.0,8.0
+non-normality,8.0,0.0,0.0,8.0
+supercapacitor,8.0,0.0,0.0,8.0
+chemotaxis,8.0,0.0,0.0,8.0
+epistasis,8.0,0.0,0.0,8.0
+dsr,8.0,0.0,0.0,8.0
+statcom,8.0,0.0,0.0,8.0
+deformations,8.0,0.0,0.0,8.0
+konferenzen/workshops,8.0,0.0,0.0,8.0
+datenbankgruppen vorgestellt,8.0,0.0,0.0,8.0
+ntica,8.0,0.0,0.0,8.0
+nullnorms,8.0,0.0,0.0,8.0
+a 4,8.0,0.0,0.0,8.0
+co-creation,8.0,0.0,0.0,8.0
+the rationality,8.0,0.0,0.0,8.0
+m2m,8.0,0.0,0.0,8.0
+hfswr,8.0,0.0,0.0,8.0
+meris,8.0,0.0,0.0,8.0
+dielectric,8.0,0.0,0.0,8.0
+dissipativity,8.0,0.0,0.0,8.0
+underdetermination,8.0,0.0,0.0,8.0
+exponentiality,8.0,0.0,0.0,8.0
+overdispersion,8.0,0.0,0.0,8.0
+categoricity,8.0,0.0,0.0,8.0
+vergleich,8.0,0.0,0.0,8.0
+phonology,8.0,0.0,0.0,8.0
+blaise,8.0,0.0,0.0,8.0
+fg-treffen,8.0,0.0,0.0,8.0
+electrophysiological correlates,8.0,0.0,0.0,8.0
+the icca,8.0,0.0,0.0,8.0
+aromaticity,8.0,0.0,0.0,8.0
+shrinking,9.0,0.0,0.0,9.0
+espionage,9.0,0.0,0.0,9.0
+atrial fibrillation,9.0,0.0,0.0,9.0
+insecurity,9.0,0.0,0.0,9.0
+advancements,9.0,0.0,0.0,9.0
+ais,9.0,0.0,0.0,9.0
+disaggregation,9.0,0.0,0.0,9.0
+generalised,9.0,0.0,0.0,9.0
+the impossibility,9.0,0.0,0.0,9.0
+lotteries,9.0,0.0,0.0,9.0
+the nonexistence,9.0,0.0,0.0,9.0
+non-existence,9.0,0.0,0.0,9.0
+coalitions,9.0,0.0,0.0,9.0
+correntropy,9.0,0.0,0.0,9.0
+lyapunov,9.0,0.0,0.0,9.0
+hedging,9.0,0.0,0.0,9.0
+vibrations,9.0,0.0,0.0,9.0
+pbl,9.0,0.0,0.0,9.0
+low-frequency,9.0,0.0,0.0,9.0
+e-democracy,9.0,0.0,0.0,9.0
+wcdma,9.0,0.0,0.0,9.0
+rician,9.0,0.0,0.0,9.0
+noncoherent,9.0,0.0,0.0,9.0
+cost-effectiveness,9.0,0.0,0.0,9.0
+tdma,9.0,0.0,0.0,9.0
+dyslexia,9.0,0.0,0.0,9.0
+interrelationships,9.0,0.0,0.0,9.0
+the unification,9.0,0.0,0.0,9.0
+dispositions,9.0,0.0,0.0,9.0
+rda,9.0,0.0,0.0,9.0
+rns,9.0,0.0,0.0,9.0
+microaneurysms,9.0,0.0,0.0,9.0
+a hybridization,9.0,0.0,0.0,9.0
+attenuation,9.0,0.0,0.0,9.0
+constructivism,9.0,0.0,0.0,9.0
+two-way,9.0,0.0,0.0,9.0
+deforestation,9.0,0.0,0.0,9.0
+airs,9.0,0.0,0.0,9.0
+trusses,9.0,0.0,0.0,9.0
+evidences,9.0,0.0,0.0,9.0
+mec,9.0,0.0,0.0,9.0
+schur,9.0,0.0,0.0,9.0
+standstill,9.0,0.0,0.0,9.0
+fachgruppen,9.0,0.0,0.0,9.0
+einsatz,9.0,0.0,0.0,9.0
+ncia,9.0,0.0,0.0,9.0
+hesitant,9.0,0.0,0.0,9.0
+desertification,9.0,0.0,0.0,9.0
+hypergroups,9.0,0.0,0.0,9.0
+radicals,9.0,0.0,0.0,9.0
+smote,9.0,0.0,0.0,9.0
+oscillators,9.0,0.0,0.0,9.0
+commutativity,9.0,0.0,0.0,9.0
+stratification,9.0,0.0,0.0,9.0
+circularity,9.0,0.0,0.0,9.0
+aster,9.0,0.0,0.0,9.0
+hume 's,9.0,0.0,0.0,9.0
+grounding,9.0,0.0,0.0,9.0
+the cofinality,9.0,0.0,0.0,9.0
+mangroves,9.0,0.0,0.0,9.0
+themenheft,9.0,0.0,0.0,9.0
+exponentials,9.0,0.0,0.0,9.0
+borel,9.0,0.0,0.0,9.0
+cyclostationarity,9.0,0.0,0.0,9.0
+kmu,9.0,0.0,0.0,9.0
+adolescence,9.0,0.0,0.0,9.0
+eigener sache,9.0,0.0,0.0,9.0
+boppard,9.0,0.0,0.0,9.0
+bist,10.0,0.0,0.0,10.0
+face-to-face,10.0,0.0,0.0,10.0
+inaccuracy,10.0,0.0,0.0,10.0
+azimuth,10.0,0.0,0.0,10.0
+oscillator,10.0,0.0,0.0,10.0
+structuralism,10.0,0.0,0.0,10.0
+ethylene,10.0,0.0,0.0,10.0
+crystallization,10.0,0.0,0.0,10.0
+t.,10.0,0.0,0.0,10.0
+a stabilized,10.0,0.0,0.0,10.0
+congruence,10.0,0.0,0.0,10.0
+reminiscences,10.0,0.0,0.0,10.0
+self-healing,10.0,0.0,0.0,10.0
+formalism,10.0,0.0,0.0,10.0
+imbalance,10.0,0.0,0.0,10.0
+shrinkage,10.0,0.0,0.0,10.0
+emd,10.0,0.0,0.0,10.0
+recognizability,10.0,0.0,0.0,10.0
+transversals,10.0,0.0,0.0,10.0
+-2,10.0,0.0,0.0,10.0
+formalisation,10.0,0.0,0.0,10.0
+chua 's,10.0,0.0,0.0,10.0
+lans,10.0,0.0,0.0,10.0
+conjectures,10.0,0.0,0.0,10.0
+a pmsm,10.0,0.0,0.0,10.0
+three-phase inverters,10.0,0.0,0.0,10.0
+urdu,10.0,0.0,0.0,10.0
+fallstudie,10.0,0.0,0.0,10.0
+articulation,10.0,0.0,0.0,10.0
+pythagorean,10.0,0.0,0.0,10.0
+third-order,10.0,0.0,0.0,10.0
+nocs,10.0,0.0,0.0,10.0
+the 1990s,10.0,0.0,0.0,10.0
+croplands,10.0,0.0,0.0,10.0
+grasslands,10.0,0.0,0.0,10.0
+isar,10.0,0.0,0.0,10.0
+gnss-r,10.0,0.0,0.0,10.0
+oli,10.0,0.0,0.0,10.0
+wittgenstein 's,10.0,0.0,0.0,10.0
+recollection,10.0,0.0,0.0,10.0
+alos palsar,10.0,0.0,0.0,10.0
+medizin,10.0,0.0,0.0,10.0
+alles,10.0,0.0,0.0,10.0
+vorwort,10.0,0.0,0.0,10.0
+anaphora,11.0,0.0,0.0,11.0
+nahmen,11.0,0.0,0.0,11.0
+well-being,11.0,0.0,0.0,11.0
+hippocampus,11.0,0.0,0.0,11.0
+imprecision,11.0,0.0,0.0,11.0
+e-participation,11.0,0.0,0.0,11.0
+utilitarianism,11.0,0.0,0.0,11.0
+payoffs,11.0,0.0,0.0,11.0
+diversification,11.0,0.0,0.0,11.0
+inertia,11.0,0.0,0.0,11.0
+a low-cost,11.0,0.0,0.0,11.0
+hopf bifurcation,11.0,0.0,0.0,11.0
+remanufacturing,11.0,0.0,0.0,11.0
+scopus,11.0,0.0,0.0,11.0
+a 1,11.0,0.0,0.0,11.0
+phenomenology,11.0,0.0,0.0,11.0
+correspondences,11.0,0.0,0.0,11.0
+fractional-order,11.0,0.0,0.0,11.0
+dialogues,11.0,0.0,0.0,11.0
+energetics,11.0,0.0,0.0,11.0
+noises,11.0,0.0,0.0,11.0
+fanets,11.0,0.0,0.0,11.0
+the combinatorics,11.0,0.0,0.0,11.0
+grid-connected inverters,11.0,0.0,0.0,11.0
+excitation,11.0,0.0,0.0,11.0
+buchbesprechungen,11.0,0.0,0.0,11.0
+fapar,11.0,0.0,0.0,11.0
+uwsns,11.0,0.0,0.0,11.0
+carnap 's,11.0,0.0,0.0,11.0
+1d,11.0,0.0,0.0,11.0
+commentaires,11.0,0.0,0.0,11.0
+cronin,11.0,0.0,0.0,11.0
+kurzfassung,11.0,0.0,0.0,11.0
+benzene,11.0,0.0,0.0,11.0
+uniformity,12.0,0.0,0.0,12.0
+aal,12.0,0.0,0.0,12.0
+dissociation,12.0,0.0,0.0,12.0
+hotelling 's,12.0,0.0,0.0,12.0
+opacity,12.0,0.0,0.0,12.0
+biases,12.0,0.0,0.0,12.0
+a nutshell,12.0,0.0,0.0,12.0
+cross-docking,12.0,0.0,0.0,12.0
+a case-study,12.0,0.0,0.0,12.0
+steady-state,12.0,0.0,0.0,12.0
+on a,12.0,0.0,0.0,12.0
+degenerate,12.0,0.0,0.0,12.0
+chameleon,12.0,0.0,0.0,12.0
+the inconsistency,12.0,0.0,0.0,12.0
+co-evolution,12.0,0.0,0.0,12.0
+reversals,12.0,0.0,0.0,12.0
+astrocytes,12.0,0.0,0.0,12.0
+bonferroni,12.0,0.0,0.0,12.0
+radiotherapy,12.0,0.0,0.0,12.0
+kant 's,12.0,0.0,0.0,12.0
+polypeptides,12.0,0.0,0.0,12.0
+dematel,12.0,0.0,0.0,12.0
+anp,12.0,0.0,0.0,12.0
+h.,12.0,0.0,0.0,12.0
+stator,12.0,0.0,0.0,12.0
+semilattices,12.0,0.0,0.0,12.0
+modulator,12.0,0.0,0.0,12.0
+tsv,12.0,0.0,0.0,12.0
+aphasia,12.0,0.0,0.0,12.0
+micrornas,12.0,0.0,0.0,12.0
+pseudovarieties,12.0,0.0,0.0,12.0
+boundedness,12.0,0.0,0.0,12.0
+chichester,12.0,0.0,0.0,12.0
+serviceteil,12.0,0.0,0.0,12.0
+broca 's,12.0,0.0,0.0,12.0
+erfahrungen,13.0,0.0,0.0,13.0
+ethnography,13.0,0.0,0.0,13.0
+tilings,13.0,0.0,0.0,13.0
+p-values,13.0,0.0,0.0,13.0
+gmm,13.0,0.0,0.0,13.0
+biomarkers,13.0,0.0,0.0,13.0
+resonances,13.0,0.0,0.0,13.0
+selectivity,13.0,0.0,0.0,13.0
+derivations,13.0,0.0,0.0,13.0
+narratives,13.0,0.0,0.0,13.0
+hiv/aids,13.0,0.0,0.0,13.0
+the mssm,13.0,0.0,0.0,13.0
+springer-verlag,13.0,0.0,0.0,13.0
+hydration,13.0,0.0,0.0,13.0
+auvs,13.0,0.0,0.0,13.0
+supercapacitors,13.0,0.0,0.0,13.0
+c-band,13.0,0.0,0.0,13.0
+waveforms,13.0,0.0,0.0,13.0
+reservoirs,13.0,0.0,0.0,13.0
+a formalism,13.0,0.0,0.0,13.0
+qfd,13.0,0.0,0.0,13.0
+the choquet,13.0,0.0,0.0,13.0
+$ -,13.0,0.0,0.0,13.0
+b.,13.0,0.0,0.0,13.0
+pmsms,13.0,0.0,0.0,13.0
+brushless,13.0,0.0,0.0,13.0
+capacitors,13.0,0.0,0.0,13.0
+q-rung orthopair,13.0,0.0,0.0,13.0
+laplace,13.0,0.0,0.0,13.0
+the epistemology,13.0,0.0,0.0,13.0
+stap,13.0,0.0,0.0,13.0
+informatik-patente,13.0,0.0,0.0,13.0
+zukunft,13.0,0.0,0.0,13.0
+isic,13.0,0.0,0.0,13.0
+macromolecules,13.0,0.0,0.0,13.0
+rigidity,14.0,0.0,0.0,14.0
+thermodynamics,14.0,0.0,0.0,14.0
+multiplicity,14.0,0.0,0.0,14.0
+self-regulation,14.0,0.0,0.0,14.0
+adsorption,14.0,0.0,0.0,14.0
+ccs,14.0,0.0,0.0,14.0
+rayleigh,14.0,0.0,0.0,14.0
+multichannel,14.0,0.0,0.0,14.0
+t-s,14.0,0.0,0.0,14.0
+glaucoma,14.0,0.0,0.0,14.0
+orbits,14.0,0.0,0.0,14.0
+positivity,14.0,0.0,0.0,14.0
+piezoelectric actuators,14.0,0.0,0.0,14.0
+pll,14.0,0.0,0.0,14.0
+vers,14.0,0.0,0.0,14.0
+pedagogy,14.0,0.0,0.0,14.0
+energy-efficiency,14.0,0.0,0.0,14.0
+metaphysics,14.0,0.0,0.0,14.0
+m-commerce,15.0,0.0,0.0,15.0
+seasonality,15.0,0.0,0.0,15.0
+self-adaptation,15.0,0.0,0.0,15.0
+cbr,15.0,0.0,0.0,15.0
+self-efficacy,15.0,0.0,0.0,15.0
+wittgenstein,15.0,0.0,0.0,15.0
+contagion,15.0,0.0,0.0,15.0
+v.,15.0,0.0,0.0,15.0
+in-situ,15.0,0.0,0.0,15.0
+accelerometers,15.0,0.0,0.0,15.0
+semihypergroups,15.0,0.0,0.0,15.0
+congruences,15.0,0.0,0.0,15.0
+a 2,15.0,0.0,0.0,15.0
+ipmsm,15.0,0.0,0.0,15.0
+datenbanksystemen,15.0,0.0,0.0,15.0
+plasticity,15.0,0.0,0.0,15.0
+editor-in-chief 's,15.0,0.0,0.0,15.0
+x-band,15.0,0.0,0.0,15.0
+cones,15.0,0.0,0.0,15.0
+dopamine,15.0,0.0,0.0,15.0
+the sigs,15.0,0.0,0.0,15.0
+tensor,16.0,0.0,0.0,16.0
+the antecedents,16.0,0.0,0.0,16.0
+or not,16.0,0.0,0.0,16.0
+hysteresis,16.0,0.0,0.0,16.0
+plasmas,16.0,0.0,0.0,16.0
+periodicity,16.0,0.0,0.0,16.0
+edca,16.0,0.0,0.0,16.0
+librarianship,16.0,0.0,0.0,16.0
+referees,16.0,0.0,0.0,16.0
+two-stage,16.0,0.0,0.0,16.0
+ultrafilters,16.0,0.0,0.0,16.0
+nonexistence,16.0,0.0,0.0,16.0
+explorations,16.0,0.0,0.0,16.0
+spektrum,16.0,0.0,0.0,16.0
+microelectronics,6.0,0.0,0.1,16.0
+retinal,6.0,0.0,0.1,16.0
+multicollinearity,6.0,0.0,0.1,16.0
+misconceptions,6.0,0.0,0.1,16.0
+goodness-of-fit,6.0,0.0,0.1,16.0
+gpp,6.0,0.0,0.1,16.0
+h. 263,6.0,0.0,0.1,16.0
+affordance,6.0,0.0,0.1,16.0
+metrology,6.0,0.0,0.1,16.0
+exoskeletons,6.0,0.0,0.1,16.0
+pseudoknots,6.0,0.0,0.1,16.0
+separators,6.0,0.0,0.1,16.0
+boldsymbol,6.0,0.0,0.1,16.0
+non-linear,6.0,0.0,0.1,16.0
+consortia,6.0,0.0,0.1,16.0
+rmi,6.0,0.0,0.1,16.0
+l1,6.0,0.0,0.1,16.0
+ambiguity aversion,6.0,0.0,0.1,16.0
+e-marketplaces,6.0,0.0,0.1,16.0
+rectification,6.0,0.0,0.1,16.0
+self-assembly,17.0,0.0,0.0,17.0
+a typology,17.0,0.0,0.0,17.0
+bose-einstein condensates,17.0,0.0,0.0,17.0
+x-ray,17.0,0.0,0.0,17.0
+clp,17.0,0.0,0.0,17.0
+qam,17.0,0.0,0.0,17.0
+causation,17.0,0.0,0.0,17.0
+delineation,17.0,0.0,0.0,17.0
+distributivity,17.0,0.0,0.0,17.0
+a microgrid,17.0,0.0,0.0,17.0
+islanded microgrids,17.0,0.0,0.0,17.0
+entwicklung,17.0,0.0,0.0,17.0
+energiewende,17.0,0.0,0.0,17.0
+sss,7.0,0.0,0.1,17.0
+introspection,7.0,0.0,0.1,17.0
+euclid 's,7.0,0.0,0.1,17.0
+fluency,7.0,0.0,0.1,17.0
+slas,7.0,0.0,0.1,17.0
+univariate,7.0,0.0,0.1,17.0
+yacute,7.0,0.0,0.1,17.0
+scala,7.0,0.0,0.1,17.0
+bandit,7.0,0.0,0.1,17.0
+adaption,7.0,0.0,0.1,17.0
+humanoids,7.0,0.0,0.1,17.0
+lcp,7.0,0.0,0.1,17.0
+arbitrage,7.0,0.0,0.1,17.0
+1.5,7.0,0.0,0.1,17.0
+microstructure,7.0,0.0,0.1,17.0
+word-of-mouth,7.0,0.0,0.1,17.0
+tactile,7.0,0.0,0.1,17.0
+distortions,7.0,0.0,0.1,17.0
+reductionism,7.0,0.0,0.1,17.0
+misspecification,7.0,0.0,0.1,17.0
+biosensors,7.0,0.0,0.1,17.0
+lot-sizing,7.0,0.0,0.1,17.0
+ceos,7.0,0.0,0.1,17.0
+asymmetries,7.0,0.0,0.1,17.0
+dropout,7.0,0.0,0.1,17.0
+orientations,7.0,0.0,0.1,17.0
+the a,7.0,0.0,0.1,17.0
+inclusions,7.0,0.0,0.1,17.0
+.0,7.0,0.0,0.1,17.0
+observables,7.0,0.0,0.1,17.0
+d.,7.0,0.0,0.1,17.0
+readability,7.0,0.0,0.1,17.0
+802.16,7.0,0.0,0.1,17.0
+amplify,7.0,0.0,0.1,17.0
+a compendium,7.0,0.0,0.1,17.0
+successors,7.0,0.0,0.1,17.0
+postures,7.0,0.0,0.1,17.0
+gep,7.0,0.0,0.1,17.0
+mems gyroscope,7.0,0.0,0.1,17.0
+vikor,7.0,0.0,0.1,17.0
+girth,7.0,0.0,0.1,17.0
+the universality,7.0,0.0,0.1,17.0
+bijections,7.0,0.0,0.1,17.0
+sumsets,7.0,0.0,0.1,17.0
+cayley,7.0,0.0,0.1,17.0
+a polyhedron,7.0,0.0,0.1,17.0
+evolvability,7.0,0.0,0.1,17.0
+the regularity,7.0,0.0,0.1,17.0
+bagging,7.0,0.0,0.1,17.0
+haar,7.0,0.0,0.1,17.0
+dcm,7.0,0.0,0.1,17.0
+real-time maude,7.0,0.0,0.1,17.0
+knn,7.0,0.0,0.1,17.0
+primal,7.0,0.0,0.1,17.0
+$ n$,7.0,0.0,0.1,17.0
+mathrm,7.0,0.0,0.1,17.0
+2000-2016,7.0,0.0,0.1,17.0
+a posteriori,7.0,0.0,0.1,17.0
+wsans,7.0,0.0,0.1,17.0
+re-use,7.0,0.0,0.1,17.0
+conductance,7.0,0.0,0.1,17.0
+quotient,7.0,0.0,0.1,17.0
+notations,7.0,0.0,0.1,17.0
+smap,7.0,0.0,0.1,17.0
+cios,7.0,0.0,0.1,17.0
+frege,7.0,0.0,0.1,17.0
+intuitionism,7.0,0.0,0.1,17.0
+flatness,7.0,0.0,0.1,17.0
+the transferability,7.0,0.0,0.1,17.0
+s5,7.0,0.0,0.1,17.0
+disjunction,7.0,0.0,0.1,17.0
+dynamo,7.0,0.0,0.1,17.0
+steuerung,7.0,0.0,0.1,17.0
+replications,7.0,0.0,0.1,17.0
+itu-t,7.0,0.0,0.1,17.0
+mm4,7.0,0.0,0.1,17.0
+weibull,18.0,0.0,0.0,18.0
+aco,18.0,0.0,0.0,18.0
+landslides,18.0,0.0,0.0,18.0
+recourse,18.0,0.0,0.0,18.0
+inconsistencies,18.0,0.0,0.0,18.0
+authorship,18.0,0.0,0.0,18.0
+collusion,18.0,0.0,0.0,18.0
+discounting,18.0,0.0,0.0,18.0
+radon,18.0,0.0,0.0,18.0
+modelo,18.0,0.0,0.0,18.0
+interdisciplinarity,18.0,0.0,0.0,18.0
+mems,18.0,0.0,0.0,18.0
+uninorms,18.0,0.0,0.0,18.0
+l-band,18.0,0.0,0.0,18.0
+foresight,18.0,0.0,0.0,18.0
+1.0,8.0,0.0,0.1,18.0
+semiotics,8.0,0.0,0.1,18.0
+regressions,8.0,0.0,0.1,18.0
+gpm,8.0,0.0,0.1,18.0
+l2,8.0,0.0,0.1,18.0
+choreography,8.0,0.0,0.1,18.0
+polyhedron,8.0,0.0,0.1,18.0
+vocabularies,8.0,0.0,0.1,18.0
+paas,8.0,0.0,0.1,18.0
+oligopoly,8.0,0.0,0.1,18.0
+frictions,8.0,0.0,0.1,18.0
+the perils,8.0,0.0,0.1,18.0
+complementarities,8.0,0.0,0.1,18.0
+deliberation,8.0,0.0,0.1,18.0
+the duality,8.0,0.0,0.1,18.0
+oscillation,8.0,0.0,0.1,18.0
+bilinear,8.0,0.0,0.1,18.0
+expanders,8.0,0.0,0.1,18.0
+interdependence,8.0,0.0,0.1,18.0
+fixed-wing uavs,8.0,0.0,0.1,18.0
+photons,8.0,0.0,0.1,18.0
+enabler,8.0,0.0,0.1,18.0
+the understandability,8.0,0.0,0.1,18.0
+802.15.4,8.0,0.0,0.1,18.0
+objectivity,8.0,0.0,0.1,18.0
+`` a,8.0,0.0,0.1,18.0
+high-accuracy,8.0,0.0,0.1,18.0
+impulses,8.0,0.0,0.1,18.0
+4-cycles,8.0,0.0,0.1,18.0
+event-b,8.0,0.0,0.1,18.0
+type-1,8.0,0.0,0.1,18.0
+asymptotic expansions,8.0,0.0,0.1,18.0
+a duality,8.0,0.0,0.1,18.0
+triangular,8.0,0.0,0.1,18.0
+gma,8.0,0.0,0.1,18.0
+0.25,8.0,0.0,0.1,18.0
+sige bicmos,8.0,0.0,0.1,18.0
+subthreshold,8.0,0.0,0.1,18.0
+the retina,8.0,0.0,0.1,18.0
+ct.,8.0,0.0,0.1,18.0
+echocardiograms,8.0,0.0,0.1,18.0
+torsion,8.0,0.0,0.1,18.0
+incompleteness,8.0,0.0,0.1,18.0
+csma/ca,8.0,0.0,0.1,18.0
+subalgebras,8.0,0.0,0.1,18.0
+landsat 7,8.0,0.0,0.1,18.0
+moea/d,8.0,0.0,0.1,18.0
+the rationals,8.0,0.0,0.1,18.0
+categorical,8.0,0.0,0.1,18.0
+irregularly,8.0,0.0,0.1,18.0
+c/c +,8.0,0.0,0.1,18.0
+vehicle-to-everything,8.0,0.0,0.1,18.0
+the determinant,8.0,0.0,0.1,18.0
+hypersurfaces,8.0,0.0,0.1,18.0
+datenbanken,8.0,0.0,0.1,18.0
+aeronautical telemetry,8.0,0.0,0.1,18.0
+reactivity,8.0,0.0,0.1,18.0
+mastermind,8.0,0.0,0.1,18.0
+the u.s.,19.0,0.0,0.0,19.0
+meta-analysis,19.0,0.0,0.0,19.0
+elasticity,19.0,0.0,0.0,19.0
+skeletons,19.0,0.0,0.0,19.0
+biomolecules,19.0,0.0,0.0,19.0
+distributive lattices,19.0,0.0,0.0,19.0
+choquet,19.0,0.0,0.0,19.0
+compactness,19.0,0.0,0.0,19.0
+microgrid,19.0,0.0,0.0,19.0
+sommaire,19.0,0.0,0.0,19.0
+ordinals,19.0,0.0,0.0,19.0
+eic,19.0,0.0,0.0,19.0
+inexact,9.0,0.0,0.1,19.0
+shamir 's,9.0,0.0,0.1,19.0
+binomial,9.0,0.0,0.1,19.0
+dendritic spines,9.0,0.0,0.1,19.0
+multistability,9.0,0.0,0.1,19.0
+magnetoencephalography,9.0,0.0,0.1,19.0
+capacitance,9.0,0.0,0.1,19.0
+mpeg-2,9.0,0.0,0.1,19.0
+determinant,9.0,0.0,0.1,19.0
+eigenspace,9.0,0.0,0.1,19.0
+actuators,9.0,0.0,0.1,19.0
+actuation,9.0,0.0,0.1,19.0
+prosody,9.0,0.0,0.1,19.0
+egovernment,9.0,0.0,0.1,19.0
+on-demand,9.0,0.0,0.1,19.0
+pontryagin 's,9.0,0.0,0.1,19.0
+dilation,9.0,0.0,0.1,19.0
+offshoring,9.0,0.0,0.1,19.0
+short-term,9.0,0.0,0.1,19.0
+reformulations,9.0,0.0,0.1,19.0
+e-readers,9.0,0.0,0.1,19.0
+hydrodynamics,9.0,0.0,0.1,19.0
+self-tuning,9.0,0.0,0.1,19.0
+lte-u,9.0,0.0,0.1,19.0
+dcf,9.0,0.0,0.1,19.0
+signalized intersections,9.0,0.0,0.1,19.0
+the readability,9.0,0.0,0.1,19.0
+condorcet,9.0,0.0,0.1,19.0
+cs1,9.0,0.0,0.1,19.0
+electroencephalogram,9.0,0.0,0.1,19.0
+gearbox,9.0,0.0,0.1,19.0
+agc,9.0,0.0,0.1,19.0
+electrocardiogram,9.0,0.0,0.1,19.0
+tarski,9.0,0.0,0.1,19.0
+behaviours,9.0,0.0,0.1,19.0
+benders ',9.0,0.0,0.1,19.0
+transceiver,9.0,0.0,0.1,19.0
+the trajectories,9.0,0.0,0.1,19.0
+a 0.13,9.0,0.0,0.1,19.0
+mosfets,9.0,0.0,0.1,19.0
+grid-connected,9.0,0.0,0.1,19.0
+dissipation,9.0,0.0,0.1,19.0
+cumulants,9.0,0.0,0.1,19.0
+bim,9.0,0.0,0.1,19.0
+quadrotor,9.0,0.0,0.1,19.0
+0.35,9.0,0.0,0.1,19.0
+cardinalities,9.0,0.0,0.1,19.0
+functors,9.0,0.0,0.1,19.0
+lst,9.0,0.0,0.1,19.0
+viirs,9.0,0.0,0.1,19.0
+courseware,9.0,0.0,0.1,19.0
+relaying,9.0,0.0,0.1,19.0
+ellipses,9.0,0.0,0.1,19.0
+s4,9.0,0.0,0.1,19.0
+multi-uav,9.0,0.0,0.1,19.0
+engagecsedu,9.0,0.0,0.1,19.0
+characterisation,20.0,0.0,0.0,20.0
+e-health,20.0,0.0,0.0,20.0
+retraction,20.0,0.0,0.0,20.0
+permanent-magnet,20.0,0.0,0.0,20.0
+orderings,20.0,0.0,0.0,20.0
+buchbesprechung,20.0,0.0,0.0,20.0
+ndvi,20.0,0.0,0.0,20.0
+chlorophyll,20.0,0.0,0.0,20.0
+insar,20.0,0.0,0.0,20.0
+lilog,10.0,0.0,0.1,20.0
+summation,10.0,0.0,0.1,20.0
+x.,10.0,0.0,0.1,20.0
+anns,10.0,0.0,0.1,20.0
+etl,10.0,0.0,0.1,20.0
+plausibility,10.0,0.0,0.1,20.0
+curation,10.0,0.0,0.1,20.0
+affective,10.0,0.0,0.1,20.0
+a trade-off,10.0,0.0,0.1,20.0
+detectability,10.0,0.0,0.1,20.0
+informetrics,10.0,0.0,0.1,20.0
+the zeros,10.0,0.0,0.1,20.0
+anova,10.0,0.0,0.1,20.0
+anisotropy,10.0,0.0,0.1,20.0
+dimensioning,10.0,0.0,0.1,20.0
+c/c,10.0,0.0,0.1,20.0
+modalities,10.0,0.0,0.1,20.0
+misclassification,10.0,0.0,0.1,20.0
+elan,10.0,0.0,0.1,20.0
+interval-valued,10.0,0.0,0.1,20.0
+svr,10.0,0.0,0.1,20.0
+coverings,10.0,0.0,0.1,20.0
+the discrepancy,10.0,0.0,0.1,20.0
+wmns,10.0,0.0,0.1,20.0
+sicherheit,10.0,0.0,0.1,20.0
+herausforderungen,10.0,0.0,0.1,20.0
+amygdala,10.0,0.0,0.1,20.0
+handwritten numerals,10.0,0.0,0.1,20.0
+polytopes,21.0,0.0,0.0,21.0
+imputation,21.0,0.0,0.0,21.0
+affine,21.0,0.0,0.0,21.0
+quantiles,21.0,0.0,0.0,21.0
+solitons,21.0,0.0,0.0,21.0
+epistemology,21.0,0.0,0.0,21.0
+telemedicine,21.0,0.0,0.0,21.0
+peirce 's,21.0,0.0,0.0,21.0
+hyperspectral unmixing,21.0,0.0,0.0,21.0
+anforderungen,21.0,0.0,0.0,21.0
+unternehmen,21.0,0.0,0.0,21.0
+urbanization,21.0,0.0,0.0,21.0
+tensors,21.0,0.0,0.0,21.0
+polytope,11.0,0.0,0.1,21.0
+logistic,11.0,0.0,0.1,21.0
+elliptic,11.0,0.0,0.1,21.0
+synaptic plasticity,11.0,0.0,0.1,21.0
+euclidean,11.0,0.0,0.1,21.0
+geodesics,11.0,0.0,0.1,21.0
+industrie,11.0,0.0,0.1,21.0
+spanners,11.0,0.0,0.1,21.0
+three-phase,11.0,0.0,0.1,21.0
+determinism,11.0,0.0,0.1,21.0
+obsolescence,11.0,0.0,0.1,21.0
+transshipment,11.0,0.0,0.1,21.0
+hla,11.0,0.0,0.1,21.0
+pragmatics,11.0,0.0,0.1,21.0
+attractors,11.0,0.0,0.1,21.0
+rotations,11.0,0.0,0.1,21.0
+jasis,11.0,0.0,0.1,21.0
+competences,11.0,0.0,0.1,21.0
+artefacts,11.0,0.0,0.1,21.0
+lyapunov exponents,11.0,0.0,0.1,21.0
+a digraph,11.0,0.0,0.1,21.0
+z.,11.0,0.0,0.1,21.0
+scaffolding,11.0,0.0,0.1,21.0
+ltl,11.0,0.0,0.1,21.0
+completions,11.0,0.0,0.1,21.0
+rework,11.0,0.0,0.1,21.0
+self-management,11.0,0.0,0.1,21.0
+inversions,11.0,0.0,0.1,21.0
+lcl,11.0,0.0,0.1,21.0
+icirc,11.0,0.0,0.1,21.0
+reversibility,11.0,0.0,0.1,21.0
+retransmission,11.0,0.0,0.1,21.0
+the trenches,11.0,0.0,0.1,21.0
+smos,11.0,0.0,0.1,21.0
+xcs,11.0,0.0,0.1,21.0
+the metaphysics,11.0,0.0,0.1,21.0
+divergences,11.0,0.0,0.1,21.0
+perceptual,11.0,0.0,0.1,21.0
+taxonomies,22.0,0.0,0.0,22.0
+evapotranspiration,22.0,0.0,0.0,22.0
+curvature,22.0,0.0,0.0,22.0
+ds-cdma,22.0,0.0,0.0,22.0
+hemirings,22.0,0.0,0.0,22.0
+gro,22.0,0.0,0.0,22.0
+polyominoes,12.0,0.0,0.1,22.0
+neuron,12.0,0.0,0.1,22.0
+conflation,12.0,0.0,0.1,22.0
+retina,12.0,0.0,0.1,22.0
+bandits,12.0,0.0,0.1,22.0
+multiphase,12.0,0.0,0.1,22.0
+conceptualization,12.0,0.0,0.1,22.0
+a real-time,12.0,0.0,0.1,22.0
+or/ms,12.0,0.0,0.1,22.0
+resilient,12.0,0.0,0.1,22.0
+imperfect csit,12.0,0.0,0.1,22.0
+ofdma,12.0,0.0,0.1,22.0
+dfig,12.0,0.0,0.1,22.0
+the torus,12.0,0.0,0.1,22.0
+fcm,12.0,0.0,0.1,22.0
+type-2,12.0,0.0,0.1,22.0
+nim,12.0,0.0,0.1,22.0
+tms,12.0,0.0,0.1,22.0
+webword,12.0,0.0,0.1,22.0
+doa,12.0,0.0,0.1,22.0
+bilinear pairings,23.0,0.0,0.0,23.0
+synchrony,23.0,0.0,0.0,23.0
+low-cost,23.0,0.0,0.0,23.0
+facets,23.0,0.0,0.0,23.0
+p.,23.0,0.0,0.0,23.0
++1,23.0,0.0,0.0,23.0
+iptv,23.0,0.0,0.0,23.0
+unifying,13.0,0.0,0.1,23.0
+inefficiency,13.0,0.0,0.1,23.0
+analogies,13.0,0.0,0.1,23.0
+two-way relaying,13.0,0.0,0.1,23.0
+two-tier,13.0,0.0,0.1,23.0
+symbiosis,13.0,0.0,0.1,23.0
+snarks,13.0,0.0,0.1,23.0
+synchronisation,13.0,0.0,0.1,23.0
+quotients,13.0,0.0,0.1,23.0
+wbans,13.0,0.0,0.1,23.0
+the radon,13.0,0.0,0.1,23.0
+zusammenfassung,13.0,0.0,0.1,23.0
+the hippocampus,24.0,0.0,0.0,24.0
+odes,24.0,0.0,0.0,24.0
+uwb,24.0,0.0,0.0,24.0
+buchtipp,24.0,0.0,0.0,24.0
+neuroimaging,14.0,0.0,0.1,24.0
+paradoxes,14.0,0.0,0.1,24.0
+affordances,14.0,0.0,0.1,24.0
+bivariate,14.0,0.0,0.1,24.0
+degeneracy,14.0,0.0,0.1,24.0
+reciprocity,14.0,0.0,0.1,24.0
+adaptability,14.0,0.0,0.1,24.0
+millimeter-wave,14.0,0.0,0.1,24.0
+petri,14.0,0.0,0.1,24.0
+involutions,14.0,0.0,0.1,24.0
+pedestrians,14.0,0.0,0.1,24.0
+a low-power,14.0,0.0,0.1,24.0
+normality,25.0,0.0,0.0,25.0
+pairings,25.0,0.0,0.0,25.0
+symmetries,25.0,0.0,0.0,25.0
+covariates,25.0,0.0,0.0,25.0
+s.,25.0,0.0,0.0,25.0
+a poset,25.0,0.0,0.0,25.0
+sentinel-1,25.0,0.0,0.0,25.0
+einwurf,25.0,0.0,0.0,25.0
+motifs,15.0,0.0,0.1,25.0
+subjectivity,15.0,0.0,0.1,25.0
+saas,15.0,0.0,0.1,25.0
+discontinuities,15.0,0.0,0.1,25.0
+metaphors,15.0,0.0,0.1,25.0
+poisson 's,15.0,0.0,0.1,25.0
+interferers,15.0,0.0,0.1,25.0
+handover,15.0,0.0,0.1,25.0
+coq,15.0,0.0,0.1,25.0
+monads,15.0,0.0,0.1,25.0
+icn,15.0,0.0,0.1,25.0
+backstepping,15.0,0.0,0.1,25.0
+minimalism,15.0,0.0,0.1,25.0
+variances,15.0,0.0,0.1,25.0
+schwerpunkt,15.0,0.0,0.1,25.0
+harmonics,26.0,0.0,0.0,26.0
+bericht,26.0,0.0,0.0,26.0
+homogenization,26.0,0.0,0.0,26.0
+aelig,16.0,0.0,0.1,26.0
+ary,16.0,0.0,0.1,26.0
+e-services,16.0,0.0,0.1,26.0
+hypercube,16.0,0.0,0.1,26.0
+nonconvex,16.0,0.0,0.1,26.0
+counterexamples,16.0,0.0,0.1,26.0
+infrastructures,16.0,0.0,0.1,26.0
+evs,16.0,0.0,0.1,26.0
+mppt,16.0,0.0,0.1,26.0
+setups,16.0,0.0,0.1,26.0
+terrasar-x,16.0,0.0,0.1,26.0
+1.40,16.0,0.0,0.1,26.0
+non-uniqueness,6.0,0.0,0.2,26.0
+polyhedral,6.0,0.0,0.2,26.0
+coevolutionary,6.0,0.0,0.2,26.0
+co-training,6.0,0.0,0.2,26.0
+coregistration,6.0,0.0,0.2,26.0
+webgis,6.0,0.0,0.2,26.0
+trilateration,6.0,0.0,0.2,26.0
+top-k,6.0,0.0,0.2,26.0
+internationalization,6.0,0.0,0.2,26.0
+cyclicity,6.0,0.0,0.2,26.0
+intentionality,6.0,0.0,0.2,26.0
+gist,6.0,0.0,0.2,26.0
+hpf,6.0,0.0,0.2,26.0
+nanotechnologies,6.0,0.0,0.2,26.0
+innovating,6.0,0.0,0.2,26.0
+a reformulation,6.0,0.0,0.2,26.0
+isat,6.0,0.0,0.2,26.0
+your,27.0,0.0,0.0,27.0
+externalities,27.0,0.0,0.0,27.0
+o.,27.0,0.0,0.0,27.0
+subgroups,27.0,0.0,0.0,27.0
+heteroscedasticity,17.0,0.0,0.1,27.0
+singularities,17.0,0.0,0.1,27.0
+praxis,17.0,0.0,0.1,27.0
+the coexistence,17.0,0.0,0.1,27.0
+empathy,17.0,0.0,0.1,27.0
+discrepancy,17.0,0.0,0.1,27.0
+diagnosability,17.0,0.0,0.1,27.0
+wban,17.0,0.0,0.1,27.0
+transients,17.0,0.0,0.1,27.0
+kerberos,7.0,0.0,0.2,27.0
+time-frequency,7.0,0.0,0.2,27.0
+mpeg-21,7.0,0.0,0.2,27.0
+bayes ',7.0,0.0,0.2,27.0
+learning-based,7.0,0.0,0.2,27.0
+entailment,7.0,0.0,0.2,27.0
+microdata,7.0,0.0,0.2,27.0
+multistage,7.0,0.0,0.2,27.0
+reflexivity,7.0,0.0,0.2,27.0
+the predictability,7.0,0.0,0.2,27.0
+interruptions,7.0,0.0,0.2,27.0
+informativeness,7.0,0.0,0.2,27.0
+one-dimensional,7.0,0.0,0.2,27.0
+ewom,7.0,0.0,0.2,27.0
+the editors-in-chief,7.0,0.0,0.2,27.0
+ultra-reliable,7.0,0.0,0.2,27.0
+hbox,7.0,0.0,0.2,27.0
+miso,7.0,0.0,0.2,27.0
+trellis,7.0,0.0,0.2,27.0
+encapsulation,7.0,0.0,0.2,27.0
+tukey 's,7.0,0.0,0.2,27.0
+the monoid,7.0,0.0,0.2,27.0
+extensionality,7.0,0.0,0.2,27.0
+soundness,7.0,0.0,0.2,27.0
+backhauls,7.0,0.0,0.2,27.0
+convergent,7.0,0.0,0.2,27.0
+s-transform,7.0,0.0,0.2,27.0
+e-banking,7.0,0.0,0.2,27.0
+dtn,7.0,0.0,0.2,27.0
+deds,7.0,0.0,0.2,27.0
+the linearity,7.0,0.0,0.2,27.0
+a generalisation,7.0,0.0,0.2,27.0
+ubiquity,7.0,0.0,0.2,27.0
+resiliency,7.0,0.0,0.2,27.0
+pert,7.0,0.0,0.2,27.0
+16-nm finfet,7.0,0.0,0.2,27.0
+the lasso,7.0,0.0,0.2,27.0
+enigma 's,7.0,0.0,0.2,27.0
+geobia,7.0,0.0,0.2,27.0
+co-founder,7.0,0.0,0.2,27.0
+ellipsoids,7.0,0.0,0.2,27.0
+pseudospectra,7.0,0.0,0.2,27.0
+landsat etm,7.0,0.0,0.2,27.0
+nanonetworks,7.0,0.0,0.2,27.0
+binocular rivalry,7.0,0.0,0.2,27.0
+cylindric algebras,7.0,0.0,0.2,27.0
+it-sicherheit,7.0,0.0,0.2,27.0
+type-ii censoring,7.0,0.0,0.2,27.0
+automatisierungstechnik,7.0,0.0,0.2,27.0
+cable-driven manipulators,7.0,0.0,0.2,27.0
+conjecture,28.0,0.0,0.0,28.0
+gnss,28.0,0.0,0.0,28.0
+covariance,18.0,0.0,0.1,28.0
+coevolution,18.0,0.0,0.1,28.0
+equivalences,18.0,0.0,0.1,28.0
+microcalcifications,18.0,0.0,0.1,28.0
+rectifier,18.0,0.0,0.1,28.0
+landsat-8,18.0,0.0,0.1,28.0
+ecm,8.0,0.0,0.2,28.0
+interception,8.0,0.0,0.2,28.0
+individuality,8.0,0.0,0.2,28.0
+crawling,8.0,0.0,0.2,28.0
+generalisation,8.0,0.0,0.2,28.0
+determinacy,8.0,0.0,0.2,28.0
+ergodicity,8.0,0.0,0.2,28.0
+long-term,8.0,0.0,0.2,28.0
+perturbed oscillators,8.0,0.0,0.2,28.0
+2n,8.0,0.0,0.2,28.0
+sc-fdma,8.0,0.0,0.2,28.0
+handoff,8.0,0.0,0.2,28.0
+sdma,8.0,0.0,0.2,28.0
+multi-cell,8.0,0.0,0.2,28.0
+erd,8.0,0.0,0.2,28.0
+prisms,8.0,0.0,0.2,28.0
+the asymmetric,8.0,0.0,0.2,28.0
+primes,8.0,0.0,0.2,28.0
+descents,8.0,0.0,0.2,28.0
+ambiguities,8.0,0.0,0.2,28.0
+rgb-d,8.0,0.0,0.2,28.0
+narrowband,8.0,0.0,0.2,28.0
+track-before-detect,8.0,0.0,0.2,28.0
+homogeneity,29.0,0.0,0.0,29.0
+combinatorics,29.0,0.0,0.0,29.0
+inconsistency,29.0,0.0,0.0,29.0
+disambiguation,19.0,0.0,0.1,29.0
+youtube,19.0,0.0,0.1,29.0
+bifurcation,19.0,0.0,0.1,29.0
+scatter,19.0,0.0,0.1,29.0
+gabor,19.0,0.0,0.1,29.0
+jamming,19.0,0.0,0.1,29.0
+asymmetry,19.0,0.0,0.1,29.0
+trade-off,19.0,0.0,0.1,29.0
+graphene,19.0,0.0,0.1,29.0
+functionals,19.0,0.0,0.1,29.0
+lotka 's,19.0,0.0,0.1,29.0
+k.,19.0,0.0,0.1,29.0
+corrigenda,19.0,0.0,0.1,29.0
+composants,19.0,0.0,0.1,29.0
+reordering,9.0,0.0,0.2,29.0
+cmc,9.0,0.0,0.2,29.0
+vehicular,9.0,0.0,0.2,29.0
+contextualization,9.0,0.0,0.2,29.0
+anwendung,9.0,0.0,0.2,29.0
+extremum,9.0,0.0,0.2,29.0
+misinformation,9.0,0.0,0.2,29.0
+bsp,9.0,0.0,0.2,29.0
+substructures,9.0,0.0,0.2,29.0
+matchmaking,9.0,0.0,0.2,29.0
+lotos,9.0,0.0,0.2,29.0
+cartesian,9.0,0.0,0.2,29.0
+tdd,9.0,0.0,0.2,29.0
+mc-cdma,9.0,0.0,0.2,29.0
+actuator,9.0,0.0,0.2,29.0
+the cybernetics,9.0,0.0,0.2,29.0
+medians,9.0,0.0,0.2,29.0
+b2c e-commerce,9.0,0.0,0.2,29.0
+cut-elimination,9.0,0.0,0.2,29.0
+papers/participation,9.0,0.0,0.2,29.0
+rssi,9.0,0.0,0.2,29.0
+$ -lcb-,9.0,0.0,0.2,29.0
+transferability,9.0,0.0,0.2,29.0
+downscaling,9.0,0.0,0.2,29.0
+erps,9.0,0.0,0.2,29.0
+the state-of-the-art,30.0,0.0,0.0,30.0
+two-dimensional,30.0,0.0,0.0,30.0
+microlaw,30.0,0.0,0.0,30.0
+rendezvous,20.0,0.0,0.1,30.0
+hardness,20.0,0.0,0.1,30.0
+parametrization,20.0,0.0,0.1,30.0
+invariance,20.0,0.0,0.1,30.0
+mrc,20.0,0.0,0.1,30.0
+fdd,20.0,0.0,0.1,30.0
+inverses,20.0,0.0,0.1,30.0
+isomorphisms,20.0,0.0,0.1,30.0
+multilevel inverters,20.0,0.0,0.1,30.0
+produkte,20.0,0.0,0.1,30.0
+smoothness,10.0,0.0,0.2,30.0
+exponentiation,10.0,0.0,0.2,30.0
+interpretability,10.0,0.0,0.2,30.0
+transducers,10.0,0.0,0.2,30.0
+repetitions,10.0,0.0,0.2,30.0
+ssd,10.0,0.0,0.2,30.0
+morphological,10.0,0.0,0.2,30.0
+invertibility,10.0,0.0,0.2,30.0
+sph,10.0,0.0,0.2,30.0
+a derivation,10.0,0.0,0.2,30.0
+a polygon,10.0,0.0,0.2,30.0
+the beholder,10.0,0.0,0.2,30.0
+1/2,10.0,0.0,0.2,30.0
+innovativeness,10.0,0.0,0.2,30.0
+cmps,10.0,0.0,0.2,30.0
+censoring,10.0,0.0,0.2,30.0
+antichains,10.0,0.0,0.2,30.0
+deletions,10.0,0.0,0.2,30.0
+triples,10.0,0.0,0.2,30.0
+on-chip,10.0,0.0,0.2,30.0
+the controllability,10.0,0.0,0.2,30.0
+socs,10.0,0.0,0.2,30.0
+testbed,10.0,0.0,0.2,30.0
+enablers,10.0,0.0,0.2,30.0
+sequent calculi,10.0,0.0,0.2,30.0
+anwendungen,10.0,0.0,0.2,30.0
+priors,31.0,0.0,0.0,31.0
+a meta-analysis,31.0,0.0,0.0,31.0
+integrals,31.0,0.0,0.0,31.0
+roughness,21.0,0.0,0.1,31.0
+n.,21.0,0.0,0.1,31.0
+first-principles,21.0,0.0,0.1,31.0
+disruptions,21.0,0.0,0.1,31.0
+orthogonal polynomials,21.0,0.0,0.1,31.0
+quadrotors,21.0,0.0,0.1,31.0
+microreview,21.0,0.0,0.1,31.0
+hyperplanes,11.0,0.0,0.2,31.0
+multiplicative,11.0,0.0,0.2,31.0
+cybercrime,11.0,0.0,0.2,31.0
+formalisms,11.0,0.0,0.2,31.0
+reflectance,11.0,0.0,0.2,31.0
+jacobians,11.0,0.0,0.2,31.0
+srm,11.0,0.0,0.2,31.0
+axiomatic,11.0,0.0,0.2,31.0
+'em,11.0,0.0,0.2,31.0
+reusability,11.0,0.0,0.2,31.0
+ofdma uplink,11.0,0.0,0.2,31.0
+pvs,11.0,0.0,0.2,31.0
+connectedness,11.0,0.0,0.2,31.0
+colourings,11.0,0.0,0.2,31.0
+disjoint,11.0,0.0,0.2,31.0
+confluence,11.0,0.0,0.2,31.0
+bootstrapping,11.0,0.0,0.2,31.0
+permutation trinomials,11.0,0.0,0.2,31.0
+a testbed,11.0,0.0,0.2,31.0
+endomorphisms,11.0,0.0,0.2,31.0
+u-net,11.0,0.0,0.2,31.0
+resting-state,11.0,0.0,0.2,31.0
+modal logics,31.0,-798.9999996279366,0.8,31.10000003720633
+802.11,32.0,0.0,0.0,32.0
+pmsm,32.0,0.0,0.0,32.0
+ecg,22.0,0.0,0.1,32.0
+orthogonal,22.0,0.0,0.1,32.0
+a.,22.0,0.0,0.1,32.0
+cuckoo,22.0,0.0,0.1,32.0
+reals,22.0,0.0,0.1,32.0
+a quadrotor,22.0,0.0,0.1,32.0
+maxima,12.0,0.0,0.2,32.0
+wiener,12.0,0.0,0.2,32.0
+time-dependent,12.0,0.0,0.2,32.0
+lod,12.0,0.0,0.2,32.0
+skeletonization,12.0,0.0,0.2,32.0
+singularity,12.0,0.0,0.2,32.0
+homophily,12.0,0.0,0.2,32.0
+aggregates,12.0,0.0,0.2,32.0
+morphisms,12.0,0.0,0.2,32.0
+blas,12.0,0.0,0.2,32.0
+differentiability,12.0,0.0,0.2,32.0
+lms,12.0,0.0,0.2,32.0
+non-orthogonal,12.0,0.0,0.2,32.0
+esprit,12.0,0.0,0.2,32.0
+offloading,12.0,0.0,0.2,32.0
+k-out-of-n,12.0,0.0,0.2,32.0
+rpl,12.0,0.0,0.2,32.0
+the blogosphere,10.0,-179.82421875,0.4,32.017578125
+inferences,23.0,0.0,0.1,33.0
+abduction,23.0,0.0,0.1,33.0
+topological,23.0,0.0,0.1,33.0
+gestures,23.0,0.0,0.1,33.0
+the trade-off,23.0,0.0,0.1,33.0
+beispiel,23.0,0.0,0.1,33.0
+asymptotic,13.0,0.0,0.2,33.0
+geostatistics,13.0,0.0,0.2,33.0
+bayes,13.0,0.0,0.2,33.0
+decoupling,13.0,0.0,0.2,33.0
+aversion,13.0,0.0,0.2,33.0
+s-boxes,13.0,0.0,0.2,33.0
+quaternion,13.0,0.0,0.2,33.0
+pipelined adcs,13.0,0.0,0.2,33.0
+e-governance,13.0,0.0,0.2,33.0
+\ infty,13.0,0.0,0.2,33.0
+gpr,13.0,0.0,0.2,33.0
+trade-offs,34.0,0.0,0.0,34.0
+a priori,34.0,0.0,0.0,34.0
+hybridization,34.0,0.0,0.0,34.0
+locomotion,24.0,0.0,0.1,34.0
+ica,24.0,0.0,0.1,34.0
+relaxations,24.0,0.0,0.1,34.0
+haskell,24.0,0.0,0.1,34.0
+second-order,24.0,0.0,0.1,34.0
+arcs,24.0,0.0,0.1,34.0
+the hardness,24.0,0.0,0.1,34.0
+bifurcations,14.0,0.0,0.2,34.0
+occlusions,14.0,0.0,0.2,34.0
+inductive,14.0,0.0,0.2,34.0
+preemption,14.0,0.0,0.2,34.0
+inc.,14.0,0.0,0.2,34.0
+post-processing,14.0,0.0,0.2,34.0
+swarms,14.0,0.0,0.2,34.0
+iov,14.0,0.0,0.2,34.0
+intermediaries,14.0,0.0,0.2,34.0
+on-line,14.0,0.0,0.2,34.0
+mammography,14.0,0.0,0.2,34.0
+tableaux,14.0,0.0,0.2,34.0
+superpixel,14.0,0.0,0.2,34.0
+counterfactuals,14.0,0.0,0.2,34.0
+the discretization,14.0,0.0,0.2,34.0
+pansharpening,14.0,0.0,0.2,34.0
+mm3,14.0,0.0,0.2,34.0
+theorems,35.0,0.0,0.0,35.0
+vagueness,25.0,0.0,0.1,35.0
+plagiarism,25.0,0.0,0.1,35.0
+a tabu,25.0,0.0,0.1,35.0
+cnns,25.0,0.0,0.1,35.0
+icts,25.0,0.0,0.1,35.0
+modality,25.0,0.0,0.1,35.0
+a hypercube,25.0,0.0,0.1,35.0
+dwt,15.0,0.0,0.2,35.0
+three-dimensional,15.0,0.0,0.2,35.0
+microprocessors,15.0,0.0,0.2,35.0
+acknowledgment,15.0,0.0,0.2,35.0
+robocup,15.0,0.0,0.2,35.0
+asymptotically,15.0,0.0,0.2,35.0
+the resilience,15.0,0.0,0.2,35.0
+reformulation,15.0,0.0,0.2,35.0
+noc,15.0,0.0,0.2,35.0
+superpixels,15.0,0.0,0.2,35.0
+vns,15.0,0.0,0.2,35.0
+pairing,15.0,0.0,0.2,35.0
+digitalisierung,15.0,0.0,0.2,35.0
+umts,36.0,0.0,0.0,36.0
+poisson,36.0,0.0,0.0,36.0
+countermeasures,36.0,0.0,0.0,36.0
+rejoinder,36.0,0.0,0.0,36.0
+-1,36.0,0.0,0.0,36.0
+reproducibility,26.0,0.0,0.1,36.0
+divergence,26.0,0.0,0.1,36.0
+zeros,26.0,0.0,0.1,36.0
+the decidability,26.0,0.0,0.1,36.0
+homomorphisms,26.0,0.0,0.1,36.0
+ultra-wideband,16.0,0.0,0.2,36.0
+criticality,16.0,0.0,0.2,36.0
+ocl,16.0,0.0,0.2,36.0
+homology,16.0,0.0,0.2,36.0
+not,16.0,0.0,0.2,36.0
+a permutation,16.0,0.0,0.2,36.0
+rectangles,16.0,0.0,0.2,36.0
+expressiveness,16.0,0.0,0.2,36.0
+2.5,16.0,0.0,0.2,36.0
+tarski 's,16.0,0.0,0.2,36.0
+masking,6.0,0.0,0.3,36.0
+haptics,6.0,0.0,0.3,36.0
+telepresence,6.0,0.0,0.3,36.0
+multi-dimensional,6.0,0.0,0.3,36.0
+gml,6.0,0.0,0.3,36.0
+anisotropic,6.0,0.0,0.3,36.0
+event-triggered,6.0,0.0,0.3,36.0
+decomposability,6.0,0.0,0.3,36.0
+multi-product,6.0,0.0,0.3,36.0
+start-up,6.0,0.0,0.3,36.0
+bi-objective,6.0,0.0,0.3,36.0
+state-of-the-art,37.0,0.0,0.0,37.0
+corpora,17.0,0.0,0.2,37.0
+indeterminacy,17.0,0.0,0.2,37.0
+e-books,17.0,0.0,0.2,37.0
+full-duplex relaying,17.0,0.0,0.2,37.0
+the uniqueness,17.0,0.0,0.2,37.0
+conditionals,17.0,0.0,0.2,37.0
+frege 's,17.0,0.0,0.2,37.0
+riemannian manifolds,17.0,0.0,0.2,37.0
+spike-timing-dependent plasticity,7.0,0.0,0.3,37.0
+identifiability,7.0,0.0,0.3,37.0
+stationarity,7.0,0.0,0.3,37.0
+video-based,7.0,0.0,0.3,37.0
+non-linearity,7.0,0.0,0.3,37.0
+interconnections,7.0,0.0,0.3,37.0
+just-in-time,7.0,0.0,0.3,37.0
+stm,7.0,0.0,0.3,37.0
+sinr,7.0,0.0,0.3,37.0
+multicarrier,7.0,0.0,0.3,37.0
+mmse,7.0,0.0,0.3,37.0
+synergies,7.0,0.0,0.3,37.0
+hol,7.0,0.0,0.3,37.0
+fsms,7.0,0.0,0.3,37.0
+a simplex,7.0,0.0,0.3,37.0
+trinomials,7.0,0.0,0.3,37.0
+multi-level,7.0,0.0,0.3,37.0
+autopoiesis,7.0,0.0,0.3,37.0
+srams,7.0,0.0,0.3,37.0
+silico,7.0,0.0,0.3,37.0
+the perturbation,7.0,0.0,0.3,37.0
+#x2014,7.0,0.0,0.3,37.0
+non-convex,7.0,0.0,0.3,37.0
+the centroid,7.0,0.0,0.3,37.0
+nonsubsampled contourlet,7.0,0.0,0.3,37.0
+backlogging,7.0,0.0,0.3,37.0
+time-series,28.0,0.0,0.1,38.0
+occlusion,28.0,0.0,0.1,38.0
+svd,28.0,0.0,0.1,38.0
+coalgebras,28.0,0.0,0.1,38.0
+euler 's,18.0,0.0,0.2,38.0
+mpeg-7,18.0,0.0,0.2,38.0
+pwm,18.0,0.0,0.2,38.0
+spatiotemporal,8.0,0.0,0.3,38.0
+lagrange,8.0,0.0,0.3,38.0
+admm,8.0,0.0,0.3,38.0
+scs,8.0,0.0,0.3,38.0
+bottlenecks,8.0,0.0,0.3,38.0
+vmd,8.0,0.0,0.3,38.0
+hamiltonian,8.0,0.0,0.3,38.0
+5g hetnets,8.0,0.0,0.3,38.0
+frequency-domain equalization,8.0,0.0,0.3,38.0
+cohesion,8.0,0.0,0.3,38.0
+2-factors,8.0,0.0,0.3,38.0
+the convexity,8.0,0.0,0.3,38.0
+re-engineering,8.0,0.0,0.3,38.0
+tcp/ip,8.0,0.0,0.3,38.0
+a smoothing,8.0,0.0,0.3,38.0
+sensorless,8.0,0.0,0.3,38.0
+multiplier,8.0,0.0,0.3,38.0
+nmf,8.0,0.0,0.3,38.0
+the formalization,8.0,0.0,0.3,38.0
+multi-channel,8.0,0.0,0.3,38.0
+projektmanagement,8.0,0.0,0.3,38.0
+sosym,8.0,0.0,0.3,38.0
+high-speed,39.0,0.0,0.0,39.0
+out-of,39.0,0.0,0.0,39.0
+landsat,39.0,0.0,0.0,39.0
+the expressiveness,19.0,0.0,0.2,39.0
+semirings,19.0,0.0,0.2,39.0
+serendipity,19.0,0.0,0.2,39.0
+nonlinearities,19.0,0.0,0.2,39.0
+spect,19.0,0.0,0.2,39.0
+reengineering,9.0,0.0,0.3,39.0
+eigenvalue,9.0,0.0,0.3,39.0
+fibonacci,9.0,0.0,0.3,39.0
+cost-sensitive,9.0,0.0,0.3,39.0
+occam 's,9.0,0.0,0.3,39.0
+two-phase,9.0,0.0,0.3,39.0
+pram,9.0,0.0,0.3,39.0
+monotonic,9.0,0.0,0.3,39.0
+the ubiquity,9.0,0.0,0.3,39.0
+scientometrics,9.0,0.0,0.3,39.0
+accelerators,9.0,0.0,0.3,39.0
+eavesdroppers,9.0,0.0,0.3,39.0
+retransmissions,9.0,0.0,0.3,39.0
+hsdpa,9.0,0.0,0.3,39.0
+ctl,9.0,0.0,0.3,39.0
+ansatz,9.0,0.0,0.3,39.0
+isscc,9.0,0.0,0.3,39.0
+wimax,30.0,0.0,0.1,40.0
+permutation,30.0,0.0,0.1,40.0
+lasso,30.0,0.0,0.1,40.0
+isomorphism,20.0,0.0,0.2,40.0
+uas,20.0,0.0,0.2,40.0
+femtocells,20.0,0.0,0.2,40.0
+a counterexample,20.0,0.0,0.2,40.0
+quine 's,20.0,0.0,0.2,40.0
+neuronal,10.0,0.0,0.3,40.0
+haptic,10.0,0.0,0.3,40.0
+a bayesian,10.0,0.0,0.3,40.0
+lbp,10.0,0.0,0.3,40.0
+finiteness,10.0,0.0,0.3,40.0
+pareto optimality,10.0,0.0,0.3,40.0
+the 2d,10.0,0.0,0.3,40.0
+harq,10.0,0.0,0.3,40.0
+amplify-and-forward relaying,10.0,0.0,0.3,40.0
+cosine,10.0,0.0,0.3,40.0
+the inversion,10.0,0.0,0.3,40.0
+well-posedness,10.0,0.0,0.3,40.0
+pruning,21.0,0.0,0.2,41.0
+openstreetmap,21.0,0.0,0.2,41.0
+predictability,21.0,0.0,0.2,41.0
+electroencephalography,11.0,0.0,0.3,41.0
+surrogate,11.0,0.0,0.3,41.0
+elicitation,11.0,0.0,0.3,41.0
+built-in self-test,11.0,0.0,0.3,41.0
+multi-criteria,11.0,0.0,0.3,41.0
+mde,11.0,0.0,0.3,41.0
+dissimilarity,11.0,0.0,0.3,41.0
+i/o,11.0,0.0,0.3,41.0
+continuous-time,11.0,0.0,0.3,41.0
+co-design,11.0,0.0,0.3,41.0
+corrigendum to,11.0,0.0,0.3,41.0
+esterel,11.0,0.0,0.3,41.0
+clique,11.0,0.0,0.3,41.0
+subsystems,11.0,0.0,0.3,41.0
+single-server queues,11.0,0.0,0.3,41.0
+topography,11.0,0.0,0.3,41.0
+a uav,11.0,0.0,0.3,41.0
+self-learning,11.0,0.0,0.3,41.0
+wissensmanagement,11.0,0.0,0.3,41.0
+pdes,42.0,0.0,0.0,42.0
+vom,32.0,0.0,0.1,42.0
+granularity,22.0,0.0,0.2,42.0
+lte-a,22.0,0.0,0.2,42.0
+econometrics,12.0,0.0,0.3,42.0
+residuals,12.0,0.0,0.3,42.0
+heaps,12.0,0.0,0.3,42.0
+co-location,12.0,0.0,0.3,42.0
+strategy-proofness,12.0,0.0,0.3,42.0
+decode-and-forward relaying,12.0,0.0,0.3,42.0
+v2x,12.0,0.0,0.3,42.0
+jitter,12.0,0.0,0.3,42.0
+transitivity,12.0,0.0,0.3,42.0
+branch-and-price,12.0,0.0,0.3,42.0
+high-efficiency,12.0,0.0,0.3,42.0
+1 queues,12.0,0.0,0.3,42.0
+antecedents,43.0,0.0,0.0,43.0
+noma,43.0,0.0,0.0,43.0
+swipt,43.0,0.0,0.0,43.0
+oscillations,33.0,0.0,0.1,43.0
+wdm,33.0,0.0,0.1,43.0
+otilde,33.0,0.0,0.1,43.0
+dirichlet,23.0,0.0,0.2,43.0
+geometries,23.0,0.0,0.2,43.0
+orchestration,23.0,0.0,0.2,43.0
+the derivation,23.0,0.0,0.2,43.0
+pareto,23.0,0.0,0.2,43.0
+hilbert,23.0,0.0,0.2,43.0
+compositionality,23.0,0.0,0.2,43.0
+mashups,13.0,0.0,0.3,43.0
+eavesdropping,13.0,0.0,0.3,43.0
+mpeg-4,13.0,0.0,0.3,43.0
+3.0,13.0,0.0,0.3,43.0
+augmented,13.0,0.0,0.3,43.0
+kdd,13.0,0.0,0.3,43.0
+decentralization,13.0,0.0,0.3,43.0
+low-rank,13.0,0.0,0.3,43.0
+multi-criteria decision-making,13.0,0.0,0.3,43.0
+mlp,13.0,0.0,0.3,43.0
+sinusoids,13.0,0.0,0.3,43.0
+the cardinality,13.0,0.0,0.3,43.0
+cramer-rao,13.0,0.0,0.3,43.0
+10 gb/s,13.0,0.0,0.3,43.0
+despeckling,13.0,0.0,0.3,43.0
+negation,44.0,0.0,0.0,44.0
+maude,44.0,0.0,0.0,44.0
+rezension,44.0,0.0,0.0,44.0
+high-performance,34.0,0.0,0.1,44.0
+assimilation,24.0,0.0,0.2,44.0
+survivability,24.0,0.0,0.2,44.0
+lte-advanced,24.0,0.0,0.2,44.0
+dtns,24.0,0.0,0.2,44.0
+subspaces,24.0,0.0,0.2,44.0
+pki,14.0,0.0,0.3,44.0
+4.0,14.0,0.0,0.3,44.0
+context-awareness,14.0,0.0,0.3,44.0
+admissibility,14.0,0.0,0.3,44.0
+multilevel,14.0,0.0,0.3,44.0
+analysing,14.0,0.0,0.3,44.0
+downlink,35.0,0.0,0.1,45.0
+prognostics,35.0,0.0,0.1,45.0
+the hypercube,35.0,0.0,0.1,45.0
+atanassov 's,35.0,0.0,0.1,45.0
+sentinel-2,35.0,0.0,0.1,45.0
+kalman,25.0,0.0,0.2,45.0
+abstractions,25.0,0.0,0.2,45.0
+quadratic,15.0,0.0,0.3,45.0
+enigma,15.0,0.0,0.3,45.0
+palmprint,15.0,0.0,0.3,45.0
+digitization,15.0,0.0,0.3,45.0
+liveness,15.0,0.0,0.3,45.0
+folksonomies,15.0,0.0,0.3,45.0
+solvability,15.0,0.0,0.3,45.0
+cardinality,15.0,0.0,0.3,45.0
+finitely,15.0,0.0,0.3,45.0
+superposition,15.0,0.0,0.3,45.0
+c#,15.0,0.0,0.3,45.0
+motivations,36.0,0.0,0.1,46.0
+the downlink,36.0,0.0,0.1,46.0
+contours,26.0,0.0,0.2,46.0
+testability,16.0,0.0,0.3,46.0
+geospatial,16.0,0.0,0.3,46.0
+triangulation,16.0,0.0,0.3,46.0
+swarm,16.0,0.0,0.3,46.0
+continuations,16.0,0.0,0.3,46.0
+inverters,16.0,0.0,0.3,46.0
+qoe,16.0,0.0,0.3,46.0
+adaptivity,16.0,0.0,0.3,46.0
+adcs,16.0,0.0,0.3,46.0
+side-channel,6.0,0.0,0.4,46.0
+iso/iec,6.0,0.0,0.4,46.0
+contactless,6.0,0.0,0.4,46.0
+fips,6.0,0.0,0.4,46.0
+luminance,6.0,0.0,0.4,46.0
+ad-hoc,6.0,0.0,0.4,46.0
+multilayer,6.0,0.0,0.4,46.0
+galerkin,6.0,0.0,0.4,46.0
+ahp,47.0,0.0,0.0,47.0
+cscl,47.0,0.0,0.0,47.0
+triangles,37.0,0.0,0.1,47.0
+formulations,37.0,0.0,0.1,47.0
+m-learning,27.0,0.0,0.2,47.0
+multivariate,27.0,0.0,0.2,47.0
+expansions,27.0,0.0,0.2,47.0
+the reals,27.0,0.0,0.2,47.0
+multispectral,17.0,0.0,0.3,47.0
+devs,17.0,0.0,0.3,47.0
+mathematica,17.0,0.0,0.3,47.0
+mimo radars,17.0,0.0,0.3,47.0
+comsoc 's,17.0,0.0,0.3,47.0
+rc4,7.0,0.0,0.4,47.0
+superresolution,7.0,0.0,0.4,47.0
+quality-of-service,7.0,0.0,0.4,47.0
+fractal,7.0,0.0,0.4,47.0
+t-norm,7.0,0.0,0.4,47.0
+non-uniformly,7.0,0.0,0.4,47.0
+the quantification,7.0,0.0,0.4,47.0
+videoconferencing,7.0,0.0,0.4,47.0
+time-delays,7.0,0.0,0.4,47.0
+wirtschaftsinformatik,7.0,0.0,0.4,47.0
+altmetrics,7.0,0.0,0.4,47.0
+tcam,7.0,0.0,0.4,47.0
+multihop,7.0,0.0,0.4,47.0
+zero-forcing,7.0,0.0,0.4,47.0
+downlink beamforming,7.0,0.0,0.4,47.0
+ekf,7.0,0.0,0.4,47.0
+connectionism,7.0,0.0,0.4,47.0
+alignments,7.0,0.0,0.4,47.0
+fine-grained,7.0,0.0,0.4,47.0
+separable,7.0,0.0,0.4,47.0
+bottleneck,7.0,0.0,0.4,47.0
+simplex,7.0,0.0,0.4,47.0
+epons,7.0,0.0,0.4,47.0
+the bottleneck,7.0,0.0,0.4,47.0
+gromacs,7.0,0.0,0.4,47.0
+frequency-domain,7.0,0.0,0.4,47.0
+stdp,7.0,0.0,0.4,47.0
+posets,48.0,0.0,0.0,48.0
+copulas,48.0,0.0,0.0,48.0
+ocirc,38.0,0.0,0.1,48.0
+interactivity,28.0,0.0,0.2,48.0
+interplay,18.0,0.0,0.3,48.0
+entanglement,18.0,0.0,0.3,48.0
+crosstalk,18.0,0.0,0.3,48.0
+high-resolution,18.0,0.0,0.3,48.0
+the newsstand,18.0,0.0,0.3,48.0
+modeldb,8.0,0.0,0.4,48.0
+chemometrics,8.0,0.0,0.4,48.0
+wayfinding,8.0,0.0,0.4,48.0
+power-aware,8.0,0.0,0.4,48.0
+codesign,8.0,0.0,0.4,48.0
+omnet,8.0,0.0,0.4,48.0
+ilp,8.0,0.0,0.4,48.0
+bicriteria,8.0,0.0,0.4,48.0
+sram-based fpgas,8.0,0.0,0.4,48.0
+esscirc,8.0,0.0,0.4,48.0
+schemas,8.0,0.0,0.4,48.0
+multi-path,8.0,0.0,0.4,48.0
+t-norms,8.0,0.0,0.4,48.0
+karmarkar 's,8.0,0.0,0.4,48.0
+charmm,8.0,0.0,0.4,48.0
+subsampling,8.0,0.0,0.4,48.0
+osi,8.0,0.0,0.4,48.0
+on the,49.0,0.0,0.0,49.0
+low-power,39.0,0.0,0.1,49.0
+dissertationen,39.0,0.0,0.1,49.0
+nonlinearity,29.0,0.0,0.2,49.0
+estimator,29.0,0.0,0.2,49.0
+propositions,29.0,0.0,0.2,49.0
+asymmetric,19.0,0.0,0.3,49.0
+timelines,19.0,0.0,0.3,49.0
+floorplanning,9.0,0.0,0.4,49.0
+associative,9.0,0.0,0.4,49.0
+predication,9.0,0.0,0.4,49.0
+markovian,9.0,0.0,0.4,49.0
+instagram,9.0,0.0,0.4,49.0
+byod,9.0,0.0,0.4,49.0
+multi-scale,9.0,0.0,0.4,49.0
+ultra-dense,9.0,0.0,0.4,49.0
+cd-rom,9.0,0.0,0.4,49.0
+axiomatization,9.0,0.0,0.4,49.0
+truncation,9.0,0.0,0.4,49.0
+subclasses,9.0,0.0,0.4,49.0
+acyclic,9.0,0.0,0.4,49.0
+estimations,9.0,0.0,0.4,49.0
+the axiomatization,9.0,0.0,0.4,49.0
+provability,9.0,0.0,0.4,49.0
+interconnects,9.0,0.0,0.4,49.0
+yager 's,9.0,0.0,0.4,49.0
+inter-comparison,9.0,0.0,0.4,49.0
+nakagami,50.0,0.0,0.0,50.0
+manifolds,30.0,0.0,0.2,50.0
+linearization,30.0,0.0,0.2,50.0
+context-aware,20.0,0.0,0.3,50.0
+fem,20.0,0.0,0.3,50.0
+predicates,20.0,0.0,0.3,50.0
+the eigenvalues,20.0,0.0,0.3,50.0
+i/q imbalance,20.0,0.0,0.3,50.0
+a swarm,10.0,0.0,0.4,50.0
+batches,10.0,0.0,0.4,50.0
+unicast,10.0,0.0,0.4,50.0
+axiom,10.0,0.0,0.4,50.0
+kriging,10.0,0.0,0.4,50.0
+on-chip interconnects,10.0,0.0,0.4,50.0
+a 2d,10.0,0.0,0.4,50.0
+manipulators,10.0,0.0,0.4,50.0
+the generalization,10.0,0.0,0.4,50.0
+emergent,10.0,0.0,0.4,50.0
+systeme,51.0,0.0,0.0,51.0
+intersections,51.0,0.0,0.0,51.0
+universality,41.0,0.0,0.1,51.0
+hyperspectral,31.0,0.0,0.2,51.0
+4g,21.0,0.0,0.3,51.0
+zipf 's,21.0,0.0,0.3,51.0
+full-duplex,21.0,0.0,0.3,51.0
+c-ran,21.0,0.0,0.3,51.0
+0-1,21.0,0.0,0.3,51.0
+network-on-chip,21.0,0.0,0.3,51.0
+boosting,11.0,0.0,0.4,51.0
+nlp,11.0,0.0,0.4,51.0
+atomicity,11.0,0.0,0.4,51.0
+mcdm,11.0,0.0,0.4,51.0
+trustworthy,11.0,0.0,0.4,51.0
+bci-algebras,11.0,0.0,0.4,51.0
+mv-algebras,11.0,0.0,0.4,51.0
+reducts,11.0,0.0,0.4,51.0
+informationssysteme,11.0,0.0,0.4,51.0
+the probabilistic,11.0,0.0,0.4,51.0
+modellierung,11.0,0.0,0.4,51.0
+systemen,11.0,0.0,0.4,51.0
+dickson polynomials,7.0,-58.5390625,0.5,51.14609375
+'s,52.0,0.0,0.0,52.0
+gait,32.0,0.0,0.2,52.0
+asymptotics,32.0,0.0,0.2,52.0
+simplification,22.0,0.0,0.3,52.0
+kinematics,22.0,0.0,0.3,52.0
+paradigms,22.0,0.0,0.3,52.0
+time-varying,22.0,0.0,0.3,52.0
+energy-aware,12.0,0.0,0.4,52.0
+solvers,12.0,0.0,0.4,52.0
+labelings,12.0,0.0,0.4,52.0
+trustworthiness,12.0,0.0,0.4,52.0
+ssds,12.0,0.0,0.4,52.0
+low-complexity,12.0,0.0,0.4,52.0
+rbf,12.0,0.0,0.4,52.0
+high-throughput,12.0,0.0,0.4,52.0
+time-interleaved adcs,12.0,0.0,0.4,52.0
+causality,53.0,0.0,0.0,53.0
+and,23.0,0.0,0.3,53.0
+linearity,23.0,0.0,0.3,53.0
+complementarity,23.0,0.0,0.3,53.0
+polyhedra,23.0,0.0,0.3,53.0
+colorings,23.0,0.0,0.3,53.0
+service-oriented,13.0,0.0,0.4,53.0
+location-based,13.0,0.0,0.4,53.0
+multicore,13.0,0.0,0.4,53.0
+realizations,13.0,0.0,0.4,53.0
+chebyshev,13.0,0.0,0.4,53.0
+a predictor,13.0,0.0,0.4,53.0
+multi-source,13.0,0.0,0.4,53.0
+axiomatizations,13.0,0.0,0.4,53.0
+multicores,13.0,0.0,0.4,53.0
+discretizations,13.0,0.0,0.4,53.0
+3d-hevc,13.0,0.0,0.4,53.0
+unsolvability,13.0,0.0,0.4,53.0
+modis,54.0,0.0,0.0,54.0
+subsets,44.0,0.0,0.1,54.0
+extrapolation,34.0,0.0,0.2,54.0
+intercomparison,24.0,0.0,0.3,54.0
+microblog,14.0,0.0,0.4,54.0
+sdes,14.0,0.0,0.4,54.0
+3gpp,14.0,0.0,0.4,54.0
+lagrange multipliers,14.0,0.0,0.4,54.0
+elliptic pdes,14.0,0.0,0.4,54.0
+outliers,55.0,0.0,0.0,55.0
+memoriam,55.0,0.0,0.0,55.0
+automorphisms,45.0,0.0,0.1,55.0
+equalization,35.0,0.0,0.2,55.0
+d2d,35.0,0.0,0.2,55.0
+wideband,25.0,0.0,0.3,55.0
+minimax,15.0,0.0,0.4,55.0
+precoding,15.0,0.0,0.4,55.0
+time-delay,15.0,0.0,0.4,55.0
+kullback-leibler divergence,15.0,0.0,0.4,55.0
+a probabilistic,15.0,0.0,0.4,55.0
+neuroinformatics,15.0,0.0,0.4,55.0
+mappings,26.0,0.0,0.3,56.0
+subspace,26.0,0.0,0.3,56.0
+calculi,26.0,0.0,0.3,56.0
+cliques,26.0,0.0,0.3,56.0
+the h-index,26.0,0.0,0.3,56.0
+crowdsensing,16.0,0.0,0.4,56.0
+interworking,16.0,0.0,0.4,56.0
+localisation,16.0,0.0,0.4,56.0
+oracles,6.0,0.0,0.5,56.0
+neurodynamics,6.0,0.0,0.5,56.0
+smartcards,6.0,0.0,0.5,56.0
+vision-based,6.0,0.0,0.5,56.0
+zero-one,6.0,0.0,0.5,56.0
+unmanned,6.0,0.0,0.5,56.0
+telerobotics,6.0,0.0,0.5,56.0
+subdifferentials,6.0,0.0,0.5,56.0
+interoperation,6.0,0.0,0.5,56.0
+space-time,47.0,0.0,0.1,57.0
+predictors,47.0,0.0,0.1,57.0
+ipv6,37.0,0.0,0.2,57.0
+outlier,17.0,0.0,0.4,57.0
+high-order,17.0,0.0,0.4,57.0
+percolation,17.0,0.0,0.4,57.0
+polymorphism,17.0,0.0,0.4,57.0
+k-anonymity,7.0,0.0,0.5,57.0
+structure-from-motion,7.0,0.0,0.5,57.0
+namd,7.0,0.0,0.5,57.0
+moodle,7.0,0.0,0.5,57.0
+strassen 's,7.0,0.0,0.5,57.0
+the maintainability,7.0,0.0,0.5,57.0
+awgn,7.0,0.0,0.5,57.0
+the parameterization,7.0,0.0,0.5,57.0
+feedforward,7.0,0.0,0.5,57.0
+reoptimization,7.0,0.0,0.5,57.0
+multi-attribute decision-making,7.0,0.0,0.5,57.0
+discrete-time queues,7.0,0.0,0.5,57.0
+system-on-chip,7.0,0.0,0.5,57.0
+delta-sigma modulator,7.0,0.0,0.5,57.0
+stt-ram,7.0,0.0,0.5,57.0
+low-latency,7.0,0.0,0.5,57.0
+self-localization,7.0,0.0,0.5,57.0
+the embedding,7.0,0.0,0.5,57.0
+anisotropic meshes,7.0,0.0,0.5,57.0
+vms,7.0,0.0,0.5,57.0
+microgrids,58.0,0.0,0.0,58.0
+this,58.0,0.0,0.0,58.0
+coexistence,48.0,0.0,0.1,58.0
+r.,48.0,0.0,0.1,58.0
+2-d,38.0,0.0,0.2,58.0
+lda,28.0,0.0,0.3,58.0
+monoids,28.0,0.0,0.3,58.0
+the pi-calculus,18.0,0.0,0.4,58.0
+the wavelet,18.0,0.0,0.4,58.0
+wearable,8.0,0.0,0.5,58.0
+folksonomy,8.0,0.0,0.5,58.0
+nonuniform,8.0,0.0,0.5,58.0
+the normalization,8.0,0.0,0.5,58.0
+diversity-multiplexing tradeoff,8.0,0.0,0.5,58.0
+manipulability,8.0,0.0,0.5,58.0
+extremal,8.0,0.0,0.5,58.0
+gaussians,8.0,0.0,0.5,58.0
+lsi,8.0,0.0,0.5,58.0
+biclusters,8.0,0.0,0.5,58.0
+obfuscation,8.0,0.0,0.5,58.0
+datenschutz,8.0,0.0,0.5,58.0
+erlang,8.0,0.0,0.5,58.0
+nonsmooth,8.0,0.0,0.5,58.0
+heterogeneity,49.0,0.0,0.1,59.0
+regularity,49.0,0.0,0.1,59.0
+topologies,39.0,0.0,0.2,59.0
+smoothing,29.0,0.0,0.3,59.0
+perturbation,29.0,0.0,0.3,59.0
+bibliometrics,29.0,0.0,0.3,59.0
+outage,29.0,0.0,0.3,59.0
+wi-fi,29.0,0.0,0.3,59.0
+multimodal,19.0,0.0,0.4,59.0
+networks-on-chip,19.0,0.0,0.4,59.0
+maintainability,9.0,0.0,0.5,59.0
+hyperlinks,9.0,0.0,0.5,59.0
+iaas,9.0,0.0,0.5,59.0
+cbir,9.0,0.0,0.5,59.0
+pi-calculus,9.0,0.0,0.5,59.0
+occam,9.0,0.0,0.5,59.0
+systemc,9.0,0.0,0.5,59.0
+vlc,9.0,0.0,0.5,59.0
+thesauri,9.0,0.0,0.5,59.0
+variational integrators,9.0,0.0,0.5,59.0
+a microcomputer,9.0,0.0,0.5,59.0
+bivariate interpolation,9.0,0.0,0.5,59.0
+m-sequences,9.0,0.0,0.5,59.0
+csit,9.0,0.0,0.5,59.0
+hardware/software partitioning,11.0,-318.84423828125,0.8,59.115576171875
+contextual grammars,10.0,-307.69921875,0.8,59.230078125
+drones,30.0,0.0,0.3,60.0
+polygons,30.0,0.0,0.3,60.0
+sram,20.0,0.0,0.4,60.0
+smt,20.0,0.0,0.4,60.0
+mcmc,20.0,0.0,0.4,60.0
+multiscale,20.0,0.0,0.4,60.0
+the uplink,20.0,0.0,0.4,60.0
+cluster-based,10.0,0.0,0.5,60.0
+anonymization,10.0,0.0,0.5,60.0
+pre-processing,10.0,0.0,0.5,60.0
+tunneling,10.0,0.0,0.5,60.0
+blockchains,10.0,0.0,0.5,60.0
+a wavelet,10.0,0.0,0.5,60.0
+bidirectional,10.0,0.0,0.5,60.0
+factorizations,10.0,0.0,0.5,60.0
+bgp,10.0,0.0,0.5,60.0
+provenance,51.0,0.0,0.1,61.0
+landsat 8,51.0,0.0,0.1,61.0
+convexity,31.0,0.0,0.3,61.0
+combinatorial,21.0,0.0,0.4,61.0
+perturbations,21.0,0.0,0.4,61.0
+realizability,21.0,0.0,0.4,61.0
+self-similarity,21.0,0.0,0.4,61.0
+content-based,11.0,0.0,0.5,61.0
+multicasting,11.0,0.0,0.5,61.0
+non-uniform,11.0,0.0,0.5,61.0
+high-dimensional,11.0,0.0,0.5,61.0
+gauss,11.0,0.0,0.5,61.0
+problem-solving,11.0,0.0,0.5,61.0
+the dimensionality,11.0,0.0,0.5,61.0
+aodv,11.0,0.0,0.5,61.0
+multiuser mimo,11.0,0.0,0.5,61.0
+finite-time,11.0,0.0,0.5,61.0
+hadamard,11.0,0.0,0.5,61.0
+comsoc,11.0,0.0,0.5,61.0
+or,52.0,0.0,0.1,62.0
+self-organization,52.0,0.0,0.1,62.0
+acirc,52.0,0.0,0.1,62.0
+argumentation,42.0,0.0,0.2,62.0
+invariants,42.0,0.0,0.2,62.0
+hierarchies,42.0,0.0,0.2,62.0
+monotonicity,42.0,0.0,0.2,62.0
+3g,32.0,0.0,0.3,62.0
+hilbert 's,32.0,0.0,0.3,62.0
+industrie 4.0,32.0,0.0,0.3,62.0
+the hough,32.0,0.0,0.3,62.0
+autocorrelation,22.0,0.0,0.4,62.0
+first-order,12.0,0.0,0.5,62.0
+dijkstra 's,12.0,0.0,0.5,62.0
+multisets,12.0,0.0,0.5,62.0
+branch-and-cut,12.0,0.0,0.5,62.0
+primitives,12.0,0.0,0.5,62.0
+lorawan,12.0,0.0,0.5,62.0
+e-science,23.0,0.0,0.4,63.0
+separability,23.0,0.0,0.4,63.0
+observability,23.0,0.0,0.4,63.0
+monotone,23.0,0.0,0.4,63.0
+postprocessing,13.0,0.0,0.5,63.0
+piecewise,13.0,0.0,0.5,63.0
+geolocation,13.0,0.0,0.5,63.0
+multicriteria,13.0,0.0,0.5,63.0
+makespan minimization,13.0,0.0,0.5,63.0
+higher-order,13.0,0.0,0.5,63.0
+end-users,13.0,0.0,0.5,63.0
+eigenvectors,13.0,0.0,0.5,63.0
+preconditioning,13.0,0.0,0.5,63.0
+tweets,34.0,0.0,0.3,64.0
+moocs,34.0,0.0,0.3,64.0
+saliency,34.0,0.0,0.3,64.0
+multidimensional,24.0,0.0,0.4,64.0
+digitalization,14.0,0.0,0.5,64.0
+3-uniform hypergraphs,14.0,0.0,0.5,64.0
+a hypergraph,14.0,0.0,0.5,64.0
+wearables,14.0,0.0,0.5,64.0
+reconfigurable meshes,14.0,0.0,0.5,64.0
+i.,65.0,0.0,0.0,65.0
+cybernetics,45.0,0.0,0.2,65.0
+uplink,35.0,0.0,0.3,65.0
+cross-correlation,25.0,0.0,0.4,65.0
+descriptors,25.0,0.0,0.4,65.0
+mimo-ofdm,25.0,0.0,0.4,65.0
+visualisation,15.0,0.0,0.5,65.0
+meta-learning,15.0,0.0,0.5,65.0
+unsupervised,15.0,0.0,0.5,65.0
+hmms,15.0,0.0,0.5,65.0
+self-calibration,15.0,0.0,0.5,65.0
+equilibria,56.0,0.0,0.1,66.0
+ensembles,56.0,0.0,0.1,66.0
+estimators,46.0,0.0,0.2,66.0
+c.,36.0,0.0,0.3,66.0
+randomization,26.0,0.0,0.4,66.0
+prototyping,16.0,0.0,0.5,66.0
+entropies,16.0,0.0,0.5,66.0
+solvation,16.0,0.0,0.5,66.0
+assertions,16.0,0.0,0.5,66.0
+memristors,6.0,0.0,0.6,66.0
+ogc,6.0,0.0,0.6,66.0
+voxel,6.0,0.0,0.6,66.0
+bpel,6.0,0.0,0.6,66.0
+pvm,6.0,0.0,0.6,66.0
+caches,6.0,0.0,0.6,66.0
+unification,67.0,0.0,0.0,67.0
+energy-efficient,67.0,0.0,0.0,67.0
+multipliers,57.0,0.0,0.1,67.0
+fmri,47.0,0.0,0.2,67.0
+e-business,37.0,0.0,0.3,67.0
+decentralized,27.0,0.0,0.4,67.0
+hypergraph,17.0,0.0,0.5,67.0
+laplacian,17.0,0.0,0.5,67.0
+anti-spoofing,17.0,0.0,0.5,67.0
+multi-label,7.0,0.0,0.6,67.0
+cartography,7.0,0.0,0.6,67.0
+visualizing,7.0,0.0,0.6,67.0
+variational,7.0,0.0,0.6,67.0
+schedulers,7.0,0.0,0.6,67.0
+backtracking,7.0,0.0,0.6,67.0
+facebook 's,7.0,0.0,0.6,67.0
+metamodel,7.0,0.0,0.6,67.0
+the complexities,7.0,0.0,0.6,67.0
+adjacency,7.0,0.0,0.6,67.0
+a meta-model,7.0,0.0,0.6,67.0
+v2i,7.0,0.0,0.6,67.0
+prentice-hall,7.0,0.0,0.6,67.0
+lagrangians,7.0,0.0,0.6,67.0
+meta-heuristics,7.0,0.0,0.6,67.0
+fmea,7.0,0.0,0.6,67.0
+proxies,7.0,0.0,0.6,67.0
+a reconfigurable,7.0,0.0,0.6,67.0
+multi-class,7.0,0.0,0.6,67.0
+rejewski 's,7.0,0.0,0.6,67.0
+gmpls,7.0,0.0,0.6,67.0
+iiot,7.0,0.0,0.6,67.0
+spline,7.0,0.0,0.6,67.0
+coinduction,7.0,0.0,0.6,67.0
+tomography,48.0,0.0,0.2,68.0
+dct,28.0,0.0,0.4,68.0
+the axiom,28.0,0.0,0.4,68.0
+mmwave,18.0,0.0,0.5,68.0
+semidefinite,8.0,0.0,0.6,68.0
+functionalities,8.0,0.0,0.6,68.0
+knowledge-based,8.0,0.0,0.6,68.0
+cross-language,8.0,0.0,0.6,68.0
+haar wavelet,8.0,0.0,0.6,68.0
+lagrange interpolation,8.0,0.0,0.6,68.0
+load-balancing,8.0,0.0,0.6,68.0
+siso,8.0,0.0,0.6,68.0
+subwords,8.0,0.0,0.6,68.0
+bayesian classifier,8.0,0.0,0.6,68.0
+iots,8.0,0.0,0.6,68.0
+wlans,69.0,0.0,0.0,69.0
+rationality,59.0,0.0,0.1,69.0
+0.13,59.0,0.0,0.1,69.0
+compressive,49.0,0.0,0.2,69.0
+definability,49.0,0.0,0.2,69.0
+microblogs,29.0,0.0,0.4,69.0
+wordnet,19.0,0.0,0.5,69.0
+reducibility,9.0,0.0,0.6,69.0
+mpsocs,9.0,0.0,0.6,69.0
+multicriteria decision-making,9.0,0.0,0.6,69.0
+integrators,9.0,0.0,0.6,69.0
+lsb,9.0,0.0,0.6,69.0
+informatik,9.0,0.0,0.6,69.0
+coap,9.0,0.0,0.6,69.0
+openflow,9.0,0.0,0.6,69.0
+single-image super-resolution,9.0,0.0,0.6,69.0
+tabu,60.0,0.0,0.1,70.0
+data-driven,20.0,0.0,0.5,70.0
+rewriting,20.0,0.0,0.5,70.0
+signcryption,10.0,0.0,0.6,70.0
+fpga-based,10.0,0.0,0.6,70.0
+centrality,10.0,0.0,0.6,70.0
+sequence-dependent setups,10.0,0.0,0.6,70.0
+multimodal biometrics,10.0,0.0,0.6,70.0
+haar wavelets,10.0,0.0,0.6,70.0
+0.18,51.0,0.0,0.2,71.0
+oslash,41.0,0.0,0.3,71.0
+a formalization,21.0,0.0,0.5,71.0
+superconvergence,21.0,0.0,0.5,71.0
+dependability,21.0,0.0,0.5,71.0
+cryptanalysts ',21.0,0.0,0.5,71.0
+component-based,11.0,0.0,0.6,71.0
+self-organizing,11.0,0.0,0.6,71.0
+sum-rate maximization,11.0,0.0,0.6,71.0
+complexities,11.0,0.0,0.6,71.0
+multigraphs,11.0,0.0,0.6,71.0
+nb-iot,11.0,0.0,0.6,71.0
+multigrid,11.0,0.0,0.6,71.0
+nfv,11.0,0.0,0.6,71.0
+game-tree,11.0,0.0,0.6,71.0
+constructions,62.0,0.0,0.1,72.0
+repositories,22.0,0.0,0.5,72.0
+simulink,12.0,0.0,0.6,72.0
+asymptotic optimality,12.0,0.0,0.6,72.0
+the 3d,12.0,0.0,0.6,72.0
+qos-aware,12.0,0.0,0.6,72.0
+a classifier,12.0,0.0,0.6,72.0
+a metamodel,12.0,0.0,0.6,72.0
+sift,12.0,0.0,0.6,72.0
+$ \,73.0,0.0,0.0,73.0
+formalization,33.0,0.0,0.4,73.0
+reconfiguration,33.0,0.0,0.4,73.0
+manipulator,23.0,0.0,0.5,73.0
+thresholding,13.0,0.0,0.6,73.0
+microprocessor,13.0,0.0,0.6,73.0
+axioms,44.0,0.0,0.3,74.0
+discretization,44.0,0.0,0.3,74.0
+topsis,34.0,0.0,0.4,74.0
+forensics,24.0,0.0,0.5,74.0
+traceability,24.0,0.0,0.5,74.0
+discriminative,14.0,0.0,0.6,74.0
+collocation,14.0,0.0,0.6,74.0
+6lowpan,14.0,0.0,0.6,74.0
+csp,35.0,0.0,0.4,75.0
+peer-to-peer,25.0,0.0,0.5,75.0
+triangulations,25.0,0.0,0.5,75.0
+re-identification,25.0,0.0,0.5,75.0
+cipher,25.0,0.0,0.5,75.0
+multipath,25.0,0.0,0.5,75.0
+inpainting,15.0,0.0,0.6,75.0
+the parallelization,15.0,0.0,0.6,75.0
+super-resolution,36.0,0.0,0.4,76.0
+teleoperation,26.0,0.0,0.5,76.0
+residuated lattices,26.0,0.0,0.5,76.0
+refinements,16.0,0.0,0.6,76.0
+metamodels,16.0,0.0,0.6,76.0
+low-resolution adcs,16.0,0.0,0.6,76.0
+multilevel thresholding,16.0,0.0,0.6,76.0
+coprocessor,6.0,0.0,0.7,76.0
+fingerprinting,6.0,0.0,0.7,76.0
+flowshops,6.0,0.0,0.7,76.0
+statecharts,6.0,0.0,0.7,76.0
+location-aware,6.0,0.0,0.7,76.0
+hardware/software codesign,6.0,0.0,0.7,76.0
+ergonomics,6.0,0.0,0.7,76.0
+wsdl,6.0,0.0,0.7,76.0
+manet,77.0,0.0,0.0,77.0
+a conjecture,77.0,0.0,0.0,77.0
+trajectories,67.0,0.0,0.1,77.0
+bayesian,47.0,0.0,0.3,77.0
+hough,47.0,0.0,0.3,77.0
+prioritization,37.0,0.0,0.4,77.0
+pitfalls,27.0,0.0,0.5,77.0
+quantifiers,27.0,0.0,0.5,77.0
+deconvolution,17.0,0.0,0.6,77.0
+chebyshev polynomials,17.0,0.0,0.6,77.0
+cographs,17.0,0.0,0.6,77.0
+nonuniform grids,7.0,0.0,0.7,77.0
+rnn,7.0,0.0,0.7,77.0
+the tradeoff,7.0,0.0,0.7,77.0
+multiclass,7.0,0.0,0.7,77.0
+a fault-tolerant,7.0,0.0,0.7,77.0
+histogram equalization,7.0,0.0,0.7,77.0
+lossless,7.0,0.0,0.7,77.0
+the p-version,7.0,0.0,0.7,77.0
+hbase,7.0,0.0,0.7,77.0
+subsequences,7.0,0.0,0.7,77.0
+rate-distortion,7.0,0.0,0.7,77.0
+webrtc,7.0,0.0,0.7,77.0
+multiresolution,7.0,0.0,0.7,77.0
+decidability,48.0,0.0,0.3,78.0
+decompositions,38.0,0.0,0.4,78.0
+fractals,28.0,0.0,0.5,78.0
+hpc,18.0,0.0,0.6,78.0
+bisimilarity,18.0,0.0,0.6,78.0
+irreducible polynomials,18.0,0.0,0.6,78.0
+timestamps,8.0,0.0,0.7,78.0
+hashing,8.0,0.0,0.7,78.0
+agent-based,8.0,0.0,0.7,78.0
+a dbms,8.0,0.0,0.7,78.0
+ws-bpel,8.0,0.0,0.7,78.0
+labview,8.0,0.0,0.7,78.0
+metamodeling,8.0,0.0,0.7,78.0
+multitasking,8.0,0.0,0.7,78.0
+multi-core,8.0,0.0,0.7,78.0
+iterative solvers,8.0,0.0,0.7,78.0
+takagi-sugeno,8.0,0.0,0.7,78.0
+a matroid,8.0,0.0,0.7,78.0
+resilience,59.0,0.0,0.2,79.0
+opportunistic,29.0,0.0,0.5,79.0
+zigbee,19.0,0.0,0.6,79.0
+arcgis,9.0,0.0,0.7,79.0
+co-occurrence,9.0,0.0,0.7,79.0
+self-stabilization,9.0,0.0,0.7,79.0
+subgraph,9.0,0.0,0.7,79.0
+cyber-attacks,9.0,0.0,0.7,79.0
+convolutions,9.0,0.0,0.7,79.0
+decode-and-forward,9.0,0.0,0.7,79.0
+xgboost,9.0,0.0,0.7,79.0
+diffserv,9.0,0.0,0.7,79.0
+exergames,9.0,0.0,0.7,79.0
+cfd,30.0,0.0,0.5,80.0
+binarization,10.0,0.0,0.7,80.0
+dbpedia,10.0,0.0,0.7,80.0
+dbms,10.0,0.0,0.7,80.0
+optimizer,10.0,0.0,0.7,80.0
+the approximability,10.0,0.0,0.7,80.0
+subroutines,10.0,0.0,0.7,80.0
+personas,10.0,0.0,0.7,80.0
+learnability,10.0,0.0,0.7,80.0
+logiciels,10.0,0.0,0.7,80.0
+pancyclicity,10.0,0.0,0.7,80.0
+espa,81.0,0.0,0.0,81.0
+inversion,61.0,0.0,0.2,81.0
+quantization,41.0,0.0,0.4,81.0
+olap,21.0,0.0,0.6,81.0
+fuzziness,21.0,0.0,0.6,81.0
+cross-layer,21.0,0.0,0.6,81.0
+lossy,11.0,0.0,0.7,81.0
+intranets,11.0,0.0,0.7,81.0
+hardware/software co-design,11.0,0.0,0.7,81.0
+ecirc,72.0,0.0,0.1,82.0
+mammograms,62.0,0.0,0.2,82.0
+categorization,52.0,0.0,0.3,82.0
+2.0,42.0,0.0,0.4,82.0
+matchings,42.0,0.0,0.4,82.0
+modularity,32.0,0.0,0.5,82.0
+ciphers,22.0,0.0,0.6,82.0
+hamiltonicity,22.0,0.0,0.6,82.0
+cryptosystems,12.0,0.0,0.7,82.0
+concatenation,12.0,0.0,0.7,82.0
+kinect,12.0,0.0,0.7,82.0
+decryption,12.0,0.0,0.7,82.0
+openstack,12.0,0.0,0.7,82.0
+ambiguity,63.0,0.0,0.2,83.0
+eigenvalues,53.0,0.0,0.3,83.0
+parameterization,33.0,0.0,0.5,83.0
+gabor wavelets,13.0,0.0,0.7,83.0
+multicomputers,13.0,0.0,0.7,83.0
+bl-algebras,13.0,0.0,0.7,83.0
+intuitionistic,13.0,0.0,0.7,83.0
+pca,54.0,0.0,0.3,84.0
+anfis,54.0,0.0,0.3,84.0
+maximization,44.0,0.0,0.4,84.0
+cryptosystem,24.0,0.0,0.6,84.0
+e-mail,24.0,0.0,0.6,84.0
+co-clustering,14.0,0.0,0.7,84.0
+github,14.0,0.0,0.7,84.0
+nondeterminism,14.0,0.0,0.7,84.0
+personalization,55.0,0.0,0.3,85.0
+discrete-time,25.0,0.0,0.6,85.0
+visualizations,25.0,0.0,0.6,85.0
+approximability,15.0,0.0,0.7,85.0
+deduplication,15.0,0.0,0.7,85.0
+tikhonov regularization,15.0,0.0,0.7,85.0
+meshes,36.0,0.0,0.5,86.0
+privacy-preserving,26.0,0.0,0.6,86.0
+the undecidability,26.0,0.0,0.6,86.0
+spatio-temporal,16.0,0.0,0.7,86.0
+kernelization,16.0,0.0,0.7,86.0
+speculative multithreading,6.0,0.0,0.8,86.0
+simulators,6.0,0.0,0.8,86.0
+variational inequalities,63.0,-369.0,0.6,86.1
+vlsi,47.0,0.0,0.4,87.0
+vhdl,17.0,0.0,0.7,87.0
+multivariate polynomials,17.0,0.0,0.7,87.0
+hyper-heuristics,7.0,0.0,0.8,87.0
+b-trees,7.0,0.0,0.8,87.0
+publish/subscribe,7.0,0.0,0.8,87.0
+a solver,7.0,0.0,0.8,87.0
+cyber-security,7.0,0.0,0.8,87.0
+ddos,7.0,0.0,0.8,87.0
+cross-entropy,7.0,0.0,0.8,87.0
+defuzzification,7.0,0.0,0.8,87.0
+conjugate gradients,7.0,0.0,0.8,87.0
+weakest preconditions,7.0,0.0,0.8,87.0
+parametric polymorphism,7.0,0.0,0.8,87.0
+broyden 's,7.0,0.0,0.8,87.0
+a tradeoff,7.0,0.0,0.8,87.0
+uniqueness,68.0,0.0,0.2,88.0
+hetnets,58.0,0.0,0.3,88.0
+preconditioners,38.0,0.0,0.5,88.0
+reconfigurable,18.0,0.0,0.7,88.0
+cyberinfrastructure,18.0,0.0,0.7,88.0
+gradients,18.0,0.0,0.7,88.0
+overfitting,8.0,0.0,0.8,88.0
+open-source,8.0,0.0,0.8,88.0
+wavelet denoising,8.0,0.0,0.8,88.0
+deterministic annealing,8.0,0.0,0.8,88.0
+ubicomp,8.0,0.0,0.8,88.0
+pso,59.0,0.0,0.3,89.0
+cscw,29.0,0.0,0.6,89.0
+microcomputers,19.0,0.0,0.7,89.0
+arq,19.0,0.0,0.7,89.0
+w3c,9.0,0.0,0.8,89.0
+lambda-calculus,9.0,0.0,0.8,89.0
+extensible,9.0,0.0,0.8,89.0
+bpmn,9.0,0.0,0.8,89.0
+mpsoc,9.0,0.0,0.8,89.0
+vizing 's,9.0,0.0,0.8,89.0
+android smartphones,9.0,0.0,0.8,89.0
+uav photogrammetry,9.0,0.0,0.8,89.0
+ransac,9.0,0.0,0.8,89.0
+hevc,50.0,0.0,0.4,90.0
+watermarking,30.0,0.0,0.6,90.0
+cross-validation,30.0,0.0,0.6,90.0
+embeddings,30.0,0.0,0.6,90.0
+elearning,30.0,0.0,0.6,90.0
+photogrammetry,20.0,0.0,0.7,90.0
+querying,20.0,0.0,0.7,90.0
+nsga-ii,20.0,0.0,0.7,90.0
+svms,20.0,0.0,0.7,90.0
+neuroevolution,10.0,0.0,0.8,90.0
+raster,10.0,0.0,0.8,90.0
+chatbots,10.0,0.0,0.8,90.0
+isabelle/hol,10.0,0.0,0.8,90.0
+curvelet,10.0,0.0,0.8,90.0
+combinators,10.0,0.0,0.8,90.0
+bisimulations,10.0,0.0,0.8,90.0
+polygonal meshes,10.0,0.0,0.8,90.0
+eeg,61.0,0.0,0.3,91.0
+parametric,51.0,0.0,0.4,91.0
+summarization,51.0,0.0,0.4,91.0
+generalizations,51.0,0.0,0.4,91.0
+h. 264,41.0,0.0,0.5,91.0
+p2p,31.0,0.0,0.6,91.0
+convolution,21.0,0.0,0.7,91.0
+delaunay triangulations,11.0,0.0,0.8,91.0
+metaheuristic,11.0,0.0,0.8,91.0
+opportunistic relaying,11.0,0.0,0.8,91.0
+multi-document summarization,11.0,0.0,0.8,91.0
+multi-view,11.0,0.0,0.8,91.0
+jpeg2000,11.0,0.0,0.8,91.0
+digraphs,72.0,0.0,0.2,92.0
+lidar,62.0,0.0,0.3,92.0
+reachability,32.0,0.0,0.6,92.0
+the makespan,32.0,0.0,0.6,92.0
+obdds,12.0,0.0,0.8,92.0
+on,73.0,0.0,0.2,93.0
+virtualization,43.0,0.0,0.5,93.0
+dimensionality,33.0,0.0,0.6,93.0
+r-trees,13.0,0.0,0.8,93.0
+wikis,13.0,0.0,0.8,93.0
+the optimality,44.0,0.0,0.5,94.0
+itemsets,14.0,0.0,0.8,94.0
+iterations,14.0,0.0,0.8,94.0
+fingerprints,35.0,0.0,0.6,95.0
+rbac,15.0,0.0,0.8,95.0
+datacenters,15.0,0.0,0.8,95.0
+subtyping,15.0,0.0,0.8,95.0
+recursively enumerable,15.0,0.0,0.8,95.0
+parallelism,56.0,0.0,0.4,96.0
+hadoop,36.0,0.0,0.6,96.0
+undecidability,36.0,0.0,0.6,96.0
+unstructured grids,16.0,0.0,0.8,96.0
+privacy-aware,6.0,0.0,0.9,96.0
+b-tree,6.0,0.0,0.9,96.0
+human-computer,6.0,0.0,0.9,96.0
+delaunay triangulation,17.0,0.0,0.8,97.0
+smalltalk,17.0,0.0,0.8,97.0
+pomdps,7.0,0.0,0.9,97.0
+extensibility,7.0,0.0,0.9,97.0
+aliasing,7.0,0.0,0.9,97.0
+ip/mpls,7.0,0.0,0.9,97.0
+the lambda-calculus,7.0,0.0,0.9,97.0
+expert-systems,7.0,0.0,0.9,97.0
+model-based,28.0,0.0,0.7,98.0
+modula-2,28.0,0.0,0.7,98.0
+minlp,18.0,0.0,0.8,98.0
+solver,18.0,0.0,0.8,98.0
+web-based,8.0,0.0,0.9,98.0
+vpns,8.0,0.0,0.9,98.0
+simd,8.0,0.0,0.9,98.0
+exascale,8.0,0.0,0.9,98.0
+rdbms,8.0,0.0,0.9,98.0
+transputers,8.0,0.0,0.9,98.0
+microcontrollers,8.0,0.0,0.9,98.0
+cobol,8.0,0.0,0.9,98.0
+software-forum,8.0,0.0,0.9,98.0
+k-means,49.0,0.0,0.5,99.0
+3-d,39.0,0.0,0.6,99.0
+splines,29.0,0.0,0.7,99.0
+fault-tolerant,29.0,0.0,0.7,99.0
+tradeoff,19.0,0.0,0.8,99.0
+quadtree,9.0,0.0,0.9,99.0
+r-tree,9.0,0.0,0.9,99.0
+multi-objectives,9.0,0.0,0.9,99.0
+tuples,9.0,0.0,0.9,99.0
+semigroups,90.0,0.0,0.1,100.0
+a 3d,40.0,0.0,0.6,100.0
+resampling,10.0,0.0,0.9,100.0
+amdahl 's,10.0,0.0,0.9,100.0
+lookahead,10.0,0.0,0.9,100.0
+sigplan,10.0,0.0,0.9,100.0
+qm/mm,10.0,0.0,0.9,100.0
+normalization,51.0,0.0,0.5,101.0
+makespan,41.0,0.0,0.6,101.0
+denoising,31.0,0.0,0.7,101.0
+gpgpus,21.0,0.0,0.8,101.0
+multi-user,11.0,0.0,0.9,101.0
+chromatic polynomials,11.0,0.0,0.9,101.0
+refactoring,11.0,0.0,0.9,101.0
+parsers,11.0,0.0,0.9,101.0
+sigcse,11.0,0.0,0.9,101.0
+embedding,42.0,0.0,0.6,102.0
+the iot,22.0,0.0,0.8,102.0
+sparql,12.0,0.0,0.9,102.0
+fault-tolerance,12.0,0.0,0.9,102.0
+quicksort,12.0,0.0,0.9,102.0
+betweenness centrality,12.0,0.0,0.9,102.0
+classifier ensembles,12.0,0.0,0.9,102.0
+retinex,12.0,0.0,0.9,102.0
+sigchi,12.0,0.0,0.9,102.0
+h. 264/avc,63.0,0.0,0.4,103.0
+bitcoin,23.0,0.0,0.8,103.0
+the minimization,23.0,0.0,0.8,103.0
+milp,13.0,0.0,0.9,103.0
+decoherence,13.0,0.0,0.9,103.0
+lte,84.0,0.0,0.2,104.0
+preprocessing,24.0,0.0,0.8,104.0
+the gpu,24.0,0.0,0.8,104.0
+object-oriented,14.0,0.0,0.9,104.0
+unstructured meshes,14.0,0.0,0.9,104.0
+biclustering,14.0,0.0,0.9,104.0
+contourlet,14.0,0.0,0.9,104.0
+uav,75.0,0.0,0.3,105.0
+tradeoffs,25.0,0.0,0.8,105.0
+fft,15.0,0.0,0.9,105.0
+branch-and-bound,15.0,0.0,0.9,105.0
+duality,96.0,0.0,0.1,106.0
+dft,36.0,0.0,0.7,106.0
+bisimulation,26.0,0.0,0.8,106.0
+multi-objective,16.0,0.0,0.9,106.0
+pseudorandom,6.0,0.0,1.0,106.0
+the ipad,6.0,0.0,1.0,106.0
+svm classifiers,6.0,0.0,1.0,106.0
+multiobjective metaheuristics,6.0,0.0,1.0,106.0
+modelica,6.0,0.0,1.0,106.0
+characterizations,87.0,0.0,0.2,107.0
+histogram,47.0,0.0,0.6,107.0
+quadtrees,17.0,0.0,0.9,107.0
+scale-space,7.0,0.0,1.0,107.0
+multiprocessor,7.0,0.0,1.0,107.0
+exploiting parallelism,7.0,0.0,1.0,107.0
+p-splines,7.0,0.0,1.0,107.0
+perceptrons,7.0,0.0,1.0,107.0
+derivation,88.0,0.0,0.2,108.0
+sparsity,58.0,0.0,0.5,108.0
+gpgpu,18.0,0.0,0.9,108.0
+supercomputing,8.0,0.0,1.0,108.0
+a multi-agent,8.0,0.0,1.0,108.0
+ransomware,8.0,0.0,1.0,108.0
+autoencoder,8.0,0.0,1.0,108.0
+errata,89.0,0.0,0.2,109.0
+large-scale,79.0,0.0,0.3,109.0
+markov,49.0,0.0,0.6,109.0
+hypermedia,19.0,0.0,0.9,109.0
+speedup,19.0,0.0,0.9,109.0
+lstm,19.0,0.0,0.9,109.0
+aspectj,9.0,0.0,1.0,109.0
+the interplay,60.0,0.0,0.5,110.0
+classifier,50.0,0.0,0.6,110.0
+biometric,20.0,0.0,0.9,110.0
+np-hard,20.0,0.0,0.9,110.0
+groupware,20.0,0.0,0.9,110.0
+multilayer perceptrons,20.0,0.0,0.9,110.0
+triangular meshes,10.0,0.0,1.0,110.0
+augmented lagrangians,10.0,0.0,1.0,110.0
+wsn,81.0,0.0,0.3,111.0
+permutation polynomials,51.0,0.0,0.6,111.0
+cuda,41.0,0.0,0.7,111.0
+histograms,31.0,0.0,0.8,111.0
+a gpu,31.0,0.0,0.8,111.0
+openfoam,11.0,0.0,1.0,111.0
+multi-layer perceptron,11.0,0.0,1.0,111.0
+shared-memory multiprocessors,11.0,0.0,1.0,111.0
+cryptologic,82.0,0.0,0.3,112.0
+recursion,32.0,0.0,0.8,112.0
+siglog,12.0,0.0,1.0,112.0
+autoencoders,12.0,0.0,1.0,112.0
+logics,73.0,0.0,0.4,113.0
+c++,73.0,0.0,0.4,113.0
+supercomputers,23.0,0.0,0.9,113.0
+multiuser,23.0,0.0,0.9,113.0
+multi-agents,13.0,0.0,1.0,113.0
+randomness,54.0,0.0,0.6,114.0
+workflows,34.0,0.0,0.8,114.0
+microservices,14.0,0.0,1.0,114.0
+svm classifier,14.0,0.0,1.0,114.0
+b-splines,14.0,0.0,1.0,114.0
+computability,35.0,0.0,0.8,115.0
+convolutional,25.0,0.0,0.9,115.0
+internet-of-things,25.0,0.0,0.9,115.0
+semi-supervised,15.0,0.0,1.0,115.0
+treewidth,15.0,0.0,1.0,115.0
+turing 's,15.0,0.0,1.0,115.0
+least-squares,15.0,0.0,1.0,115.0
+multilayer perceptron,16.0,0.0,1.0,116.0
+unconstrained minimization,16.0,0.0,1.0,116.0
+vanet,67.0,0.0,0.5,117.0
+iterative,27.0,0.0,0.9,117.0
+np-completeness,17.0,0.0,1.0,117.0
+botnets,17.0,0.0,1.0,117.0
+controllability,78.0,0.0,0.4,118.0
+anonymity,68.0,0.0,0.5,118.0
+ofdm,109.0,0.0,0.1,119.0
+pushdown automata,19.0,0.0,1.0,119.0
+backpropagation,19.0,0.0,1.0,119.0
+regularization,90.0,0.0,0.3,120.0
+a heuristic,80.0,0.0,0.4,120.0
+cryptology,40.0,0.0,0.8,120.0
+deterministic,40.0,0.0,0.8,120.0
+satisfiability,30.0,0.0,0.9,120.0
+datalog,20.0,0.0,1.0,120.0
+opencl,20.0,0.0,1.0,120.0
+grids,101.0,0.0,0.2,121.0
+parallelization,72.0,0.0,0.5,122.0
+factorization,62.0,0.0,0.6,122.0
+atilde,113.0,0.0,0.1,123.0
+grammars,43.0,0.0,0.8,123.0
+context-free grammars,23.0,0.0,1.0,123.0
+that,124.0,0.0,0.0,124.0
+q-learning,34.0,0.0,0.9,124.0
+comput,34.0,0.0,0.9,124.0
+subgraphs,45.0,0.0,0.8,125.0
+steganalysis,35.0,0.0,0.9,125.0
+decision-making,106.0,0.0,0.2,126.0
+the robustness,76.0,0.0,0.5,126.0
+matroids,26.0,0.0,1.0,126.0
+heuristic,97.0,0.0,0.3,127.0
+hci,87.0,0.0,0.4,127.0
+crowdsourcing,87.0,0.0,0.4,127.0
+adaboost,27.0,0.0,1.0,127.0
+concurrency,58.0,0.0,0.7,128.0
+gamification,48.0,0.0,0.8,128.0
+multi-agent,28.0,0.0,1.0,128.0
+steganography,39.0,0.0,0.9,129.0
+android,39.0,0.0,0.9,129.0
+cybersecurity,29.0,0.0,1.0,129.0
+lattices,130.0,0.0,0.0,130.0
+uavs,100.0,0.0,0.3,130.0
+2d,90.0,0.0,0.4,130.0
+openmp,43.0,0.0,0.9,133.0
+probabilistic,96.0,0.0,0.4,136.0
+hypercubes,128.0,0.0,0.1,138.0
+quantification,98.0,0.0,0.4,138.0
+e-commerce,131.0,0.0,0.1,141.0
+queues,92.0,0.0,0.5,142.0
+multiprocessors,52.0,0.0,0.9,142.0
+all,143.0,0.0,0.0,143.0
+beamforming,75.0,0.0,0.7,145.0
+mimo,106.0,0.0,0.4,146.0
+facebook,76.0,0.0,0.7,146.0
+hypergraphs,108.0,0.0,0.4,148.0
+artifact,98.0,0.0,0.5,148.0
+svm,78.0,0.0,0.7,148.0
+real-time,139.0,0.0,0.1,149.0
+algebras,151.0,0.0,0.0,151.0
+e-government,143.0,0.0,0.1,153.0
+biometrics,64.0,0.0,0.9,154.0
+wavelets,95.0,0.0,0.6,155.0
+computations,66.0,0.0,0.9,156.0
+optimality,99.0,0.0,0.6,159.0
+classifiers,120.0,0.0,0.4,160.0
+metaheuristics,70.0,0.0,0.9,160.0
+approximations,131.0,0.0,0.3,161.0
+blockchain,123.0,0.0,0.4,163.0
+smartphones,145.0,0.0,0.2,165.0
+generalization,125.0,0.0,0.4,165.0
+manets,167.0,0.0,0.0,167.0
+prolog,102.0,0.0,0.7,172.0
+fpgas,160.0,0.0,0.2,180.0
+permutations,154.0,0.0,0.3,184.0
+mapreduce,96.0,0.0,0.9,186.0
+wsns,173.0,0.0,0.2,193.0
+a generalization,157.0,0.0,0.4,197.0
+twitter,171.0,0.0,0.3,201.0
+wavelet,152.0,0.0,0.5,202.0
+interpolation,135.0,0.0,0.7,205.0
+erratum to,199.0,0.0,0.1,209.0
+fpga,173.0,0.0,0.4,213.0
+ontologies,154.0,0.0,0.6,214.0
+polynomials,144.0,0.0,0.7,214.0
+gpu,136.0,0.0,0.8,216.0
+automata,153.0,0.0,0.7,223.0
+e-learning,223.0,0.0,0.1,233.0
+gpus,156.0,0.0,0.8,236.0
+szlig,230.0,0.0,0.1,240.0
+vanets,201.0,0.0,0.4,241.0
+minimization,171.0,0.0,0.7,241.0
+ntilde,232.0,0.0,0.1,242.0
+robustness,215.0,0.0,0.5,265.0
+heuristics,237.0,0.0,0.4,277.0
+5g,260.0,0.0,0.2,280.0
+the editor-in-chief,298.0,0.0,0.0,298.0
+cryptanalysis,221.0,0.0,0.9,311.0
+3d,302.0,0.0,0.6,362.0
+corrigendum,334.0,0.0,0.4,374.0
+iot,297.0,0.0,0.9,387.0
+ccedil,395.0,0.0,0.1,405.0
+you,522.0,0.0,0.1,532.0
+erratum,579.0,0.0,0.1,589.0
+the,1162.0,0.0,0.1,1172.0
+it,1184.0,0.0,0.1,1194.0

@@ -1,3 +1,2 @@
 .DS_Store
-notes
-data
+data/dblp-raw/*
