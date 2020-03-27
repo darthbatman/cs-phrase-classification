@@ -83,16 +83,30 @@ def build_dataset():
 def get_hand_weighted_metric_ranking():
     dataset = build_dataset()
     ranked_phrases = {}
+    weights = [0.6, 0.01, 0.4, 0.8]
     for item in dataset:
-        ranked_phrases[item[0]] = \
-            0.1 * item[1] + \
-            0.01 * item[2] + \
-            0.4 * item[3] + \
-            0.4 * item[4]
+        ranked_phrases[item[0]] = (
+                weights[0] * item[1] +
+                weights[1] * item[2] +
+                weights[2] * item[3] +
+                weights[3] * item[4],
+                item[1], item[2], item[3], item[4])
     ranked_phrases = {k: v for k, v in sorted(ranked_phrases.items(),
                                               key=lambda item: item[1],
                                               reverse=True)}
-    print(ranked_phrases)
+    weights = [str(weight) for weight in weights]
+    with open('ranked_' + '_'.join(weights) + '.csv', 'w') as f:
+        features = ['concordance_score', 'frequency',
+                    'uniqueness', 'wiki_score']
+        f.write('phrase,' + ','.join(features) + ',total\n')
+        for phrase in ranked_phrases:
+            f.write(phrase + ',')
+            f.write(str(ranked_phrases[phrase][1]) + ',')
+            f.write(str(ranked_phrases[phrase][2]) + ',')
+            f.write(str(ranked_phrases[phrase][3]) + ',')
+            f.write(str(ranked_phrases[phrase][4]) + ',')
+            f.write(str(ranked_phrases[phrase][0]) + '\n')
+        f.close()
 
 
 if __name__ == '__main__':
