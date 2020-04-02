@@ -1,6 +1,11 @@
 import numpy as np
 
 
+def scale_to_range(l):
+    # Source: https://stackoverflow.com/questions/1735025/how-to-normalize-a-numpy-array-to-within-a-certain-range
+    return 2 * (l - np.min(l)) / np.ptp(l) - 1
+
+
 def build_dataset():
     noun_phrase_concordance_scores = {}
     with open('data/noun_phrase_concordance_scores.csv', 'r') as f:
@@ -13,11 +18,11 @@ def build_dataset():
                     float(components[-1])
             line = f.readline()[:-1]
         f.close()
-    mean = np.mean(list(noun_phrase_concordance_scores.values()))
-    std = np.std(list(noun_phrase_concordance_scores.values()))
+    scaled_values = scale_to_range(list(noun_phrase_concordance_scores.values()))
+    idx = 0
     for key in noun_phrase_concordance_scores:
-        noun_phrase_concordance_scores[key] -= mean
-        noun_phrase_concordance_scores[key] /= std
+        noun_phrase_concordance_scores[key] = scaled_values[idx]
+        idx += 1
     noun_phrase_frequencies = {}
     with open('data/noun_phrase_frequencies.csv', 'r') as f:
         line = f.readline()
@@ -29,11 +34,11 @@ def build_dataset():
                     float(components[-1])
             line = f.readline()[:-1]
         f.close()
-    mean = np.mean(list(noun_phrase_frequencies.values()))
-    std = np.std(list(noun_phrase_frequencies.values()))
+    scaled_values = scale_to_range(list(noun_phrase_frequencies.values()))
+    idx = 0
     for key in noun_phrase_frequencies:
-        noun_phrase_frequencies[key] -= mean
-        noun_phrase_frequencies[key] /= std
+        noun_phrase_frequencies[key] = scaled_values[idx]
+        idx += 1
     noun_phrase_uniquenesses = {}
     with open('data/noun_phrase_uniquenesses.csv', 'r') as f:
         line = f.readline()
@@ -45,11 +50,11 @@ def build_dataset():
                     float(components[-1])
             line = f.readline()[:-1]
         f.close()
-    mean = np.mean(list(noun_phrase_uniquenesses.values()))
-    std = np.std(list(noun_phrase_uniquenesses.values()))
+    scaled_values = scale_to_range(list(noun_phrase_uniquenesses.values()))
+    idx = 0
     for key in noun_phrase_uniquenesses:
-        noun_phrase_uniquenesses[key] -= mean
-        noun_phrase_uniquenesses[key] /= std
+        noun_phrase_uniquenesses[key] = scaled_values[idx]
+        idx += 1
     noun_phrase_wiki_scores = {}
     with open('data/noun_phrase_wiki_scores.csv', 'r') as f:
         line = f.readline()
@@ -61,11 +66,11 @@ def build_dataset():
                     float(components[-1])
             line = f.readline()[:-1]
         f.close()
-    mean = np.mean(list(noun_phrase_wiki_scores.values()))
-    std = np.std(list(noun_phrase_wiki_scores.values()))
+    scaled_values = scale_to_range(list(noun_phrase_wiki_scores.values()))
+    idx = 0
     for key in noun_phrase_wiki_scores:
-        noun_phrase_wiki_scores[key] -= mean
-        noun_phrase_wiki_scores[key] /= std
+        noun_phrase_wiki_scores[key] = scaled_values[idx]
+        idx += 1
     common_keys = set(noun_phrase_concordance_scores.keys()) \
         .intersection(set(noun_phrase_frequencies.keys())) \
         .intersection(set(noun_phrase_uniquenesses.keys())) \
@@ -83,7 +88,7 @@ def build_dataset():
 def get_hand_weighted_metric_ranking():
     dataset = build_dataset()
     ranked_phrases = {}
-    weights = [0.6, 0.01, 0.4, 0.8]
+    weights = [0.20, 0.05, 0.25, 0.5]
     for item in dataset:
         ranked_phrases[item[0]] = (
                 weights[0] * item[1] +
