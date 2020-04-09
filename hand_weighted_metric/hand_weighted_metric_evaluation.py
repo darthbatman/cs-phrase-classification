@@ -38,7 +38,7 @@ def evaluate_hand_weighted_metric(filename):
 
     print('Accuracy: ' + str(accuracy))
     print('Average Rank: ' + str(avg_rank))
-    print('misclassified: ' + str(misclassified))
+    print('Misclassified: ' + str(misclassified))
 
 
 if __name__ == '__main__':
