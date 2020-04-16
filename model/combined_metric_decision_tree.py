@@ -39,7 +39,7 @@ def generate_visualization(classifier_with_feature_names):
         classifier,
         out_file=dot_data,
         feature_names=feature_names,
-        class_names=["Low", "Medium", "High"],
+        class_names=["Bad", "Good"],
         filled=True,
         rounded=True,
         special_characters=True)
