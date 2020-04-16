@@ -10,7 +10,7 @@ def get_dataset():
     X = []
     y = []
     feature_names = []
-    with open('model/data/combined_metric_dataset.csv', 'r') as f:
+    with open('data/combined_metric_dataset.csv', 'r') as f:
         line = f.readline()[:-1]
         feature_names = line.split(',')[1:-1]
         line = f.readline()[:-1]

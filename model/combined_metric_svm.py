@@ -11,7 +11,7 @@ def read_dataset():
         f.readline()
         line = f.readline()[:-1]
         while line:
-            x.append(line.split(',')[0:-1])
+            x.append(line.split(',')[0:3] + line.split(',')[4:-1])
             y.append(line.split(',')[-1])
             line = f.readline()[:-1]
         f.close()
@@ -41,6 +41,7 @@ def evaluate_classifier(trained):
     y_test = np.asarray(y_test)
     misclassified = np.where(y_test != predictions)[0]
     for mis in misclassified:
+        continue
         print(test_phrases[mis] + ': ' + str(y_test[mis]))
 
 
