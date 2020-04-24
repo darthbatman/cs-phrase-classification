@@ -2,3 +2,4 @@
 data/dblp-raw/*
 data/stanford-core-nlp/stanford-corenlp-full-2018-10-05
 model/visualization.pdf
+results.txt

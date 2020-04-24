@@ -11,7 +11,7 @@ def read_dataset():
         f.readline()
         line = f.readline()[:-1]
         while line:
-            x.append(line.split(',')[0:3] + line.split(',')[4:-1])
+            x.append(line.split(',')[0:3] + line.split(',')[4:6])
             y.append(line.split(',')[-1])
             line = f.readline()[:-1]
         f.close()
