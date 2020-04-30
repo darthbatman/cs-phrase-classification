@@ -1,5 +1,5 @@
 from sklearn import svm
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score, precision_score, recall_score
 from sklearn.model_selection import train_test_split
 import numpy as np
 
@@ -38,11 +38,13 @@ def evaluate_classifier(trained):
     test_phrases = trained[3]
     predictions = classifier.predict(x_test)
     print('Accuracy: ' + str(accuracy_score(y_test, predictions)))
-    y_test = np.asarray(y_test)
-    misclassified = np.where(y_test != predictions)[0]
-    for mis in misclassified:
-        continue
-        print(test_phrases[mis] + ': ' + str(y_test[mis]))
+    print('Precision: ' + str(precision_score(y_test, predictions, pos_label='True')))
+    print('Recall: ' + str(recall_score(y_test, predictions, pos_label='True')))
+    # uncomment to show misclassified terms
+    # y_test = np.asarray(y_test)
+    # misclassified = np.where(y_test != predictions)[0]
+    # for mis in misclassified:
+    #     print(test_phrases[mis] + ': ' + str(y_test[mis]))
 
 
 def build_model():
