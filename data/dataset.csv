@@ -1,0 +1,2907 @@
+unlabeled data,19,None,None,None,0.0,0.0,None,None,False
+congruential generator,2,None,None,None,0.0,0.0,None,None,True
+human-robot interaction,46,None,None,None,0.0,0.0,None,None,True
+role-based access,6,None,None,None,0.0,0.0,None,None,True
+socket layer,3,None,None,None,0.0,0.0,None,None,True
+dimensionality reduction,101,None,None,None,0.0,0.0,None,None,True
+data-flow analysis,3,None,None,None,0.0,0.0,None,None,False
+botnet detection,7,None,None,None,0.0,0.0,None,None,True
+floating point,3,None,None,None,0.0,0.0,None,None,False
+semistructured data,10,None,None,None,0.0,0.0,None,None,False
+machine learning,497,None,None,None,0.0,0.0,None,None,True
+reinforcement learning,229,None,None,None,0.0,0.0,None,None,True
+case-based reasoning,132,None,None,None,0.0,0.0,None,None,False
+multiagent systems,77,None,None,None,0.0,0.0,None,None,True
+user-centered design,24,None,None,None,0.0,0.0,None,None,False
+interprocedural analysis,4,None,None,None,0.0,0.0,None,None,False
+operating systems,30,None,None,None,0.0,0.0,None,None,True
+unsupervised learning,56,None,None,None,0.0,0.0,None,None,True
+triangular mesh,2,None,None,None,0.0,0.0,None,None,True
+signal processing,100,None,None,None,0.0,0.0,None,None,True
+multi-agent systems,278,None,None,None,0.0,0.0,None,None,True
+artificial intelligence,330,None,None,None,0.0,0.0,None,None,True
+triangular meshes,10,None,None,None,0.0,0.0,None,None,True
+access control,126,None,None,None,0.0,0.0,None,None,True
+biometric systems,17,None,None,None,0.0,0.0,None,None,False
+software development,101,None,None,None,0.0,0.0,None,None,True
+satisfiability problems,4,None,None,None,0.0,0.0,None,None,True
+receptive fields,6,None,None,None,0.0,0.0,None,None,False
+discrete-event simulation,11,None,None,None,0.0,0.0,None,None,False
+pseudo-random number,1,None,None,None,0.0,0.0,None,None,True
+minimization problem,1,None,None,None,0.0,0.0,None,None,False
+security requirements,16,None,None,None,0.0,0.0,None,None,False
+side-channel attacks,10,None,None,None,0.0,0.0,None,None,False
+supervised learning,20,None,None,None,0.0,0.0,None,None,True
+discrete-event systems,33,None,None,None,0.0,0.0,None,None,False
+inclusive design,10,None,None,None,0.0,0.0,None,None,False
+exploiting parallelism,7,None,None,None,0.0,0.0,None,None,False
+tacit knowledge,17,None,None,None,0.0,0.0,None,None,False
+source code,29,None,None,None,0.0,0.0,None,None,True
+face recognition,429,None,None,None,0.0,0.0,None,None,True
+fine-grain parallelism,2,None,None,None,0.0,0.0,None,None,False
+granular computing,48,None,None,None,0.0,0.0,None,None,False
+knowledge-based systems,54,None,None,None,0.0,0.0,None,None,False
+deep learning,486,None,None,None,0.0,0.0,None,None,True
+elliptic curve,18,None,None,None,0.0,0.0,None,None,False
+automata theory,10,None,None,None,0.0,0.0,None,None,False
+training data,21,None,None,None,0.0,0.0,None,None,True
+software security,8,None,None,None,0.0,0.0,None,None,True
+network classifiers,1,None,None,None,0.0,0.0,None,None,False
+logarithm problem,2,None,None,None,0.0,0.0,None,None,False
+software requirements,16,None,None,None,0.0,0.0,None,None,True
+requirements engineering,68,None,None,None,0.0,0.0,None,None,False
+source software,10,None,None,None,0.0,0.0,None,None,False
+expert systems,199,None,None,None,0.0,0.0,None,None,False
+language model,2,None,None,None,0.0,0.0,None,None,True
+optimization problem,12,None,None,None,0.0,0.0,None,None,False
+image processing,193,None,None,None,0.0,0.0,None,None,True
+public key,8,None,None,None,0.0,0.0,None,None,True
+biometric technologies,1,None,None,None,0.0,0.0,None,None,False
+stopping rules,6,None,None,None,0.0,0.0,None,None,False
+object-oriented software,20,None,None,None,0.0,0.0,None,None,False
+text summarization,4,None,None,None,0.0,0.0,None,None,True
+secret key,5,None,None,None,0.0,0.0,None,None,False
+user requirements,17,None,None,None,0.0,0.0,None,None,False
+polygonal meshes,10,None,None,None,0.0,0.0,None,None,False
+security model,5,None,None,None,0.0,0.0,None,None,False
+integer programming,80,None,None,None,0.0,0.0,None,None,False
+polynomial time,41,None,None,None,0.0,0.0,None,None,True
+recursively enumerable,15,None,None,None,0.0,0.0,None,None,False
+software engineering,151,None,None,None,0.0,0.0,None,None,True
+visual programming,5,None,None,None,0.0,0.0,None,None,False
+enterprise applications,7,None,None,None,0.0,0.0,None,None,True
+injection attacks,11,None,None,None,0.0,0.0,None,None,False
+secured connections,3,None,None,None,0.0,0.0,None,None,False
+reconfigurable computing,23,None,None,None,0.0,0.0,None,None,True
+support vector,19,None,None,None,0.0,0.0,None,None,False
+computer graphics,16,None,None,None,0.0,0.0,None,None,True
+autonomic computing,11,None,None,None,0.0,0.0,None,None,False
+ad-hoc networks,47,None,None,None,0.0,0.0,None,None,False
+application development,10,None,None,None,0.0,0.0,None,None,True
+software testing,34,None,None,None,0.0,0.0,None,None,True
+simulated annealing,158,None,None,None,0.0,0.0,None,None,False
+software package,2,None,None,None,0.0,0.0,None,None,True
+mandatory access,3,None,None,None,0.0,0.0,None,None,False
+combinatorial optimization,69,None,None,None,0.0,0.0,None,None,True
+finite state,3,None,None,None,0.0,0.0,None,None,False
+range images,25,None,None,None,0.0,0.0,None,None,False
+user interfaces,46,None,None,None,0.0,0.0,None,None,True
+instant messaging,12,None,None,None,0.0,0.0,None,None,False
+geographic information,27,None,None,None,0.0,0.0,None,None,False
+functional programming,33,None,None,None,0.0,0.0,None,None,True
+training samples,8,None,None,None,0.0,0.0,None,None,True
+high-dimensional data,60,None,None,None,0.0,0.0,None,None,True
+parallel computing,73,None,None,None,0.0,0.0,None,None,True
+software tools,17,None,None,None,0.0,0.0,None,None,True
+embedded systems,91,None,None,None,0.0,0.0,None,None,True
+mobile games,11,None,None,None,0.0,0.0,None,None,False
+search space,3,None,None,None,0.0,0.0,None,None,False
+search algorithm,10,None,None,None,0.0,0.0,None,None,True
+logic programming,110,None,None,None,0.0,0.0,None,None,True
+stereo vision,29,None,None,None,0.0,0.0,None,None,True
+performance analysis,1149,None,None,None,0.0,0.0,None,None,False
+ubiquitous computing,63,None,None,None,0.0,0.0,None,None,False
+generative model,5,None,None,None,0.0,0.0,None,None,True
+wearable computing,19,None,None,None,0.0,0.0,None,None,False
+learning algorithm,24,None,None,None,0.0,0.0,None,None,False
+computer vision,125,None,None,None,0.0,0.0,None,None,True
+number generator,6,None,None,None,0.0,0.0,None,None,False
+key infrastructure,2,None,None,None,0.0,0.0,None,None,False
+combinatorial problems,17,None,None,None,0.0,0.0,None,None,False
+hardware/software co-design,11,None,None,None,0.0,0.0,None,None,False
+hardware/software codesign,6,None,None,None,0.0,0.0,None,None,False
+grid computing,75,None,None,None,0.0,0.0,None,None,True
+speech recognition,55,None,None,None,0.0,0.0,None,None,True
+computing systems,30,None,None,None,0.0,0.0,None,None,True
+data structures,37,None,None,None,0.0,0.0,None,None,True
+shared memory,26,None,None,None,0.0,0.0,None,None,True
+global optimization,235,None,None,None,0.0,0.0,None,None,False
+information security,95,None,None,None,0.0,0.0,None,None,True
+file systems,13,None,None,None,0.0,0.0,None,None,True
+internet security,10,None,None,None,0.0,0.0,None,None,True
+user experience,51,None,None,None,0.0,0.0,None,None,False
+software quality,29,None,None,None,0.0,0.0,None,None,False
+least squares,131,None,None,None,0.0,0.0,None,None,False
+software support,3,None,None,None,0.0,0.0,None,None,False
+algorithmic aspects,17,None,None,None,0.0,0.0,None,None,False
+markup languages,1,None,None,None,0.0,0.0,None,None,True
+web access,2,None,None,None,0.0,0.0,None,None,False
+deductive databases,22,None,None,None,0.0,0.0,None,None,False
+database systems,64,None,None,None,0.0,0.0,None,None,True
+micropayment systems,2,None,None,None,0.0,0.0,None,None,True
+fitness function,2,None,None,None,0.0,0.0,None,None,True
+dynamic programming,133,None,None,None,0.0,0.0,None,None,True
+vector machines,53,None,None,None,0.0,0.0,None,None,False
+agent-based systems,12,None,None,None,0.0,0.0,None,None,False
+feature extraction,172,None,None,None,0.0,0.0,None,None,True
+recognition techniques,3,None,None,None,0.0,0.0,None,None,False
+web services,266,None,None,None,0.0,0.0,None,None,True
+handheld devices,21,None,None,None,0.0,0.0,None,None,False
+image annotation,24,None,None,None,0.0,0.0,None,None,True
+algorithmic techniques,2,None,None,None,0.0,0.0,None,None,False
+physical security,10,None,None,None,0.0,0.0,None,None,False
+cryptographic protocols,20,None,None,None,0.0,0.0,None,None,True
+medical image,17,None,None,None,0.0,0.0,None,None,False
+concurrent programs,26,None,None,None,0.0,0.0,None,None,True
+optimization techniques,32,None,None,None,0.0,0.0,None,None,True
+distributed computing,34,None,None,None,0.0,0.0,None,None,True
+wavelet denoising,8,None,None,None,0.0,0.0,None,None,False
+user behavior,27,None,None,None,0.0,0.0,None,None,False
+machine intelligence,7,None,None,None,0.0,0.0,None,None,True
+computer science,115,None,None,None,0.0,0.0,None,None,True
+game interface,1,None,None,None,0.0,0.0,None,None,False
+end user,2,None,None,None,0.0,0.0,None,None,False
+virtual machine,16,None,None,None,0.0,0.0,None,None,True
+privacy protection,55,None,None,None,0.0,0.0,None,None,False
+software systems,30,None,None,None,0.0,0.0,None,None,True
+intelligent agents,61,None,None,None,0.0,0.0,None,None,False
+admission control,97,None,None,None,0.0,0.0,None,None,False
+mobile applications,101,None,None,None,0.0,0.0,None,None,True
+secure data,20,None,None,None,0.0,0.0,None,None,False
+pattern recognition,254,None,None,None,0.0,0.0,None,None,False
+game development,2,None,None,None,0.0,0.0,None,None,True
+key exchange,23,None,None,None,0.0,0.0,None,None,False
+parallel programs,45,None,None,None,0.0,0.0,None,None,True
+virtual environment,15,None,None,None,0.0,0.0,None,None,True
+log files,4,None,None,None,0.0,0.0,None,None,True
+suffix trees,3,None,None,None,0.0,0.0,None,None,False
+cellular automata,198,None,None,None,0.0,0.0,None,None,True
+assistive technology,10,None,None,None,0.0,0.0,None,None,False
+static code,1,None,None,None,0.0,0.0,None,None,False
+private key,2,None,None,None,0.0,0.0,None,None,True
+image classifiers,2,None,None,None,0.0,0.0,None,None,True
+optimization technique,4,None,None,None,0.0,0.0,None,None,True
+language processing,7,None,None,None,0.0,0.0,None,None,True
+conversational agents,18,None,None,None,0.0,0.0,None,None,False
+register allocation,4,None,None,None,0.0,0.0,None,None,False
+web document,1,None,None,None,0.0,0.0,None,None,False
+microarray data,48,None,None,None,0.0,0.0,None,None,False
+key management,27,None,None,None,0.0,0.0,None,None,True
+encrypted data,43,None,None,None,0.0,0.0,None,None,True
+security protocols,41,None,None,None,0.0,0.0,None,None,False
+dynamic program,3,None,None,None,0.0,0.0,None,None,False
+block ciphers,21,None,None,None,0.0,0.0,None,None,True
+reachability analysis,14,None,None,None,0.0,0.0,None,None,False
+security controls,3,None,None,None,0.0,0.0,None,None,False
+complexity theory,11,None,None,None,0.0,0.0,None,None,False
+web usage,1,None,None,None,0.0,0.0,None,None,False
+computational cost,2,None,None,None,0.0,0.0,None,None,True
+cryptographic schemes,1,None,None,None,0.0,0.0,None,None,False
+hidden layers,2,None,None,None,0.0,0.0,None,None,True
+software developers,5,None,None,None,0.0,0.0,None,None,False
+context-aware security,1,None,None,None,0.0,0.0,None,None,False
+data mining,334,None,None,None,0.0,0.0,None,None,True
+optimization algorithms,45,None,None,None,0.0,0.0,None,None,True
+user interactions,5,None,None,None,0.0,0.0,None,None,False
+computer games,44,None,None,None,0.0,0.0,None,None,False
+memory access,2,None,None,None,0.0,0.0,None,None,True
+decentralized systems,5,None,None,None,0.0,0.0,None,None,False
+mesh processing,1,None,None,None,0.0,0.0,None,None,False
+parallel computers,34,None,None,None,0.0,0.0,None,None,True
+user data,4,None,None,None,0.0,0.0,None,None,False
+security architecture,11,None,None,None,0.0,0.0,None,None,True
+distributed memory,12,None,None,None,0.0,0.0,None,None,True
+multimedia applications,51,None,None,None,0.0,0.0,None,None,False
+automatic parallelization,7,None,None,None,0.0,0.0,None,None,False
+knowledge representation,58,None,None,None,0.0,0.0,None,None,True
+network topologies,6,None,None,None,0.0,0.0,None,None,True
+spatiotemporal data,15,None,None,None,0.0,0.0,None,None,True
+practical algorithms,10,None,None,None,0.0,0.0,None,None,False
+parallel algorithms,86,None,None,None,0.0,0.0,None,None,True
+information privacy,8,None,None,None,0.0,0.0,None,None,False
+network computing,6,None,None,None,0.0,0.0,None,None,False
+wide web,4,None,None,None,0.0,0.0,None,None,False
+constraint programming,52,None,None,None,0.0,0.0,None,None,True
+context-aware applications,19,None,None,None,0.0,0.0,None,None,False
+images using,1,None,None,None,0.0,0.0,None,None,False
+computer interaction,2,None,None,None,0.0,0.0,None,None,False
+image data,35,None,None,None,0.0,0.0,None,None,False
+computer systems,27,None,None,None,0.0,0.0,None,None,True
+theorem proving,17,None,None,None,0.0,0.0,None,None,True
+user profiles,12,None,None,None,0.0,0.0,None,None,False
+maturity model,9,None,None,None,0.0,0.0,None,None,False
+embedded devices,7,None,None,None,0.0,0.0,None,None,True
+virtual environments,82,None,None,None,0.0,0.0,None,None,True
+optimization methods,16,None,None,None,0.0,0.0,None,None,False
+reverse engineering,33,None,None,None,0.0,0.0,None,None,True
+machine translation,50,None,None,None,0.0,0.0,None,None,True
+mobile computers,8,None,None,None,0.0,0.0,None,None,False
+component analysis,40,None,None,None,0.0,0.0,None,None,False
+case study,335,None,None,None,0.0,0.0,None,None,False
+write operations,1,None,None,None,0.0,0.0,None,None,False
+computational resources,3,None,None,None,0.0,0.0,None,None,True
+vehicular networks,217,None,None,None,0.0,0.0,None,None,False
+version 2.0,3,None,None,None,0.0,0.0,None,None,False
+ambient intelligence,70,None,None,None,0.0,0.0,None,None,True
+local minima,6,None,None,None,0.0,0.0,None,None,False
+external memory,8,None,None,None,0.0,0.0,None,None,False
+mobile computing,63,None,None,None,0.0,0.0,None,None,False
+scientific computing,41,None,None,None,0.0,0.0,None,None,True
+agent software,1,None,None,None,0.0,0.0,None,None,False
+congestion control,65,None,None,None,0.0,0.0,None,None,False
+networks using,1,None,None,None,0.0,0.0,None,None,False
+cross site,1,None,None,None,0.0,0.0,None,None,False
+approximation algorithm,19,None,None,None,0.0,0.0,None,None,True
+key agreement,23,None,None,None,0.0,0.0,None,None,False
+scheduling problems,43,None,None,None,0.0,0.0,None,None,False
+optimization algorithm,62,None,None,None,0.0,0.0,None,None,True
+computational time,3,None,None,None,0.0,0.0,None,None,False
+number generators,2,None,None,None,0.0,0.0,None,None,False
+equality constraints,15,None,None,None,0.0,0.0,None,None,False
+multi-core systems,13,None,None,None,0.0,0.0,None,None,False
+formal methods,65,None,None,None,0.0,0.0,None,None,False
+background subtraction,29,None,None,None,0.0,0.0,None,None,False
+signal analysis,14,None,None,None,0.0,0.0,None,None,True
+image classification,175,None,None,None,0.0,0.0,None,None,True
+feature vectors,5,None,None,None,0.0,0.0,None,None,True
+game world,1,None,None,None,0.0,0.0,None,None,False
+translation system,2,None,None,None,0.0,0.0,None,None,False
+peer-to-peer computing,3,None,None,None,0.0,0.0,None,None,False
+input data,8,None,None,None,0.0,0.0,None,None,False
+text processing,2,None,None,None,0.0,0.0,None,None,True
+computational methods,42,None,None,None,0.0,0.0,None,None,True
+dictionary attack,3,None,None,None,0.0,0.0,None,None,True
+sensor networks,431,None,None,None,0.0,0.0,None,None,True
+computational analysis,27,None,None,None,0.0,0.0,None,None,True
+information theory,70,None,None,None,0.0,0.0,None,None,False
+runtime systems,2,None,None,None,0.0,0.0,None,None,True
+attribute values,9,None,None,None,0.0,0.0,None,None,False
+approximation algorithms,90,None,None,None,0.0,0.0,None,None,True
+optimization models,21,None,None,None,0.0,0.0,None,None,False
+knowledge bases,27,None,None,None,0.0,0.0,None,None,False
+runtime performance,1,None,None,None,0.0,0.0,None,None,False
+service attacks,22,None,None,None,0.0,0.0,None,None,False
+step size,4,None,None,None,0.0,0.0,None,None,False
+transaction processing,14,None,None,None,0.0,0.0,None,None,False
+kernel methods,27,None,None,None,0.0,0.0,None,None,False
+tree structures,7,None,None,None,0.0,0.0,None,None,True
+software fault,1,None,None,None,0.0,0.0,None,None,False
+association rules,93,None,None,None,0.0,0.0,None,None,False
+image analysis,105,None,None,None,0.0,0.0,None,None,True
+particle swarm,27,None,None,None,0.0,0.0,None,None,False
+hash functions,9,None,None,None,0.0,0.0,None,None,True
+software metrics,20,None,None,None,0.0,0.0,None,None,False
+private information,26,None,None,None,0.0,0.0,None,None,False
+chosen plaintext,4,None,None,None,0.0,0.0,None,None,False
+network model,24,None,None,None,0.0,0.0,None,None,False
+object-oriented analysis,9,None,None,None,0.0,0.0,None,None,False
+malicious code,10,None,None,None,0.0,0.0,None,None,True
+model checking,118,None,None,None,0.0,0.0,None,None,False
+network architecture,21,None,None,None,0.0,0.0,None,None,True
+computational systems,6,None,None,None,0.0,0.0,None,None,True
+evolutionary algorithms,229,None,None,None,0.0,0.0,None,None,True
+transitive closure,7,None,None,None,0.0,0.0,None,None,False
+active contours,51,None,None,None,0.0,0.0,None,None,False
+input space,4,None,None,None,0.0,0.0,None,None,False
+digital images,100,None,None,None,0.0,0.0,None,None,False
+knowledge base,13,None,None,None,0.0,0.0,None,None,False
+multimodal biometrics,10,None,None,None,0.0,0.0,None,None,False
+computational complexity,51,None,None,None,0.0,0.0,None,None,True
+signature schemes,9,None,None,None,0.0,0.0,None,None,False
+privacy enhancing,2,None,None,None,0.0,0.0,None,None,False
+robot path,1,None,None,None,0.0,0.0,None,None,False
+data access,7,None,None,None,0.0,0.0,None,None,False
+management support,2,None,None,None,0.0,0.0,None,None,False
+computational models,60,None,None,None,0.0,0.0,None,None,True
+security breaches,3,None,None,None,0.0,0.0,None,None,False
+sensitivity analysis,169,None,None,None,0.0,0.0,None,None,False
+object recognition,97,None,None,None,0.0,0.0,None,None,True
+computational efficiency,9,None,None,None,0.0,0.0,None,None,True
+smart cards,61,None,None,None,0.0,0.0,None,None,False
+parallel scheduling,5,None,None,None,0.0,0.0,None,None,False
+autonomous agents,44,None,None,None,0.0,0.0,None,None,True
+missing data,81,None,None,None,0.0,0.0,None,None,False
+data storage,8,None,None,None,0.0,0.0,None,None,True
+ensemble methods,17,None,None,None,0.0,0.0,None,None,False
+usability engineering,6,None,None,None,0.0,0.0,None,None,False
+video games,44,None,None,None,0.0,0.0,None,None,False
+object management,5,None,None,None,0.0,0.0,None,None,False
+rapid prototyping,36,None,None,None,0.0,0.0,None,None,False
+decision support,171,None,None,None,0.0,0.0,None,None,False
+configuration management,13,None,None,None,0.0,0.0,None,None,False
+activation functions,2,None,None,None,0.0,0.0,None,None,False
+network function,1,None,None,None,0.0,0.0,None,None,False
+error detection,17,None,None,None,0.0,0.0,None,None,False
+terrorist networks,3,None,None,None,0.0,0.0,None,None,False
+social networks,520,None,None,None,0.0,0.0,None,None,True
+logic programs,136,None,None,None,0.0,0.0,None,None,False
+stream processing,34,None,None,None,0.0,0.0,None,None,True
+recognition performance,2,None,None,None,0.0,0.0,None,None,False
+genetic algorithms,580,None,None,None,0.0,0.0,None,None,True
+large networks,31,None,None,None,0.0,0.0,None,None,False
+log n,25,None,None,None,0.0,0.0,None,None,False
+risk management,44,None,None,None,0.0,0.0,None,None,False
+systems development,10,None,None,None,0.0,0.0,None,None,False
+network approach,7,None,None,None,0.0,0.0,None,None,False
+artificial data,1,None,None,None,0.0,0.0,None,None,False
+functional specification,1,None,None,None,0.0,0.0,None,None,False
+user inputs,1,None,None,None,0.0,0.0,None,None,False
+domain experts,7,None,None,None,0.0,0.0,None,None,False
+serious games,58,None,None,None,0.0,0.0,None,None,False
+image segmentation,305,None,None,None,0.0,0.0,None,None,True
+image understanding,7,None,None,None,0.0,0.0,None,None,False
+spam filtering,14,None,None,None,0.0,0.0,None,None,True
+digital signature,5,None,None,None,0.0,0.0,None,None,True
+network traffic,37,None,None,None,0.0,0.0,None,None,True
+information systems,260,None,None,None,0.0,0.0,None,None,True
+computer worms,2,None,None,None,0.0,0.0,None,None,True
+conceptual model,12,None,None,None,0.0,0.0,None,None,False
+network theory,8,None,None,None,0.0,0.0,None,None,False
+numerical methods,88,None,None,None,0.0,0.0,None,None,True
+model databases,1,None,None,None,0.0,0.0,None,None,False
+group key,1,None,None,None,0.0,0.0,None,None,False
+feature space,16,None,None,None,0.0,0.0,None,None,False
+proof system,5,None,None,None,0.0,0.0,None,None,False
+spatial data,62,None,None,None,0.0,0.0,None,None,False
+channel coding,9,None,None,None,0.0,0.0,None,None,False
+gesture recognition,39,None,None,None,0.0,0.0,None,None,True
+extract features,1,None,None,None,0.0,0.0,None,None,False
+social network,79,None,None,None,0.0,0.0,None,None,True
+performance modeling,63,None,None,None,0.0,0.0,None,None,False
+fuzzy logic,313,None,None,None,0.0,0.0,None,None,True
+large graphs,24,None,None,None,0.0,0.0,None,None,False
+information gain,3,None,None,None,0.0,0.0,None,None,False
+usability evaluation,14,None,None,None,0.0,0.0,None,None,False
+visual interfaces,11,None,None,None,0.0,0.0,None,None,False
+remote access,13,None,None,None,0.0,0.0,None,None,False
+hash function,9,None,None,None,0.0,0.0,None,None,True
+cache management,6,None,None,None,0.0,0.0,None,None,False
+network models,20,None,None,None,0.0,0.0,None,None,False
+model optimization,4,None,None,None,0.0,0.0,None,None,False
+dynamic scheduling,36,None,None,None,0.0,0.0,None,None,False
+hoc networks,461,None,None,None,0.0,0.0,None,None,False
+hardware description,2,None,None,None,0.0,0.0,None,None,False
+integrity checks,1,None,None,None,0.0,0.0,None,None,False
+sample images,1,None,None,None,0.0,0.0,None,None,False
+data set,3,None,None,None,0.0,0.0,None,None,False
+complex systems,134,None,None,None,0.0,0.0,None,None,False
+image domain,2,None,None,None,0.0,0.0,None,None,False
+network design,45,None,None,None,0.0,0.0,None,None,False
+parallel architectures,26,None,None,None,0.0,0.0,None,None,True
+loss functions,3,None,None,None,0.0,0.0,None,None,True
+morphological filtering,8,None,None,None,0.0,0.0,None,None,False
+virtual world,4,None,None,None,0.0,0.0,None,None,False
+outsourced data,8,None,None,None,0.0,0.0,None,None,False
+higher order,93,None,None,None,0.0,0.0,None,None,False
+temporal logic,30,None,None,None,0.0,0.0,None,None,True
+fuzzy sets,154,None,None,None,0.0,0.0,None,None,False
+tool environments,1,None,None,None,0.0,0.0,None,None,False
+formal analysis,28,None,None,None,0.0,0.0,None,None,False
+entertainment applications,1,None,None,None,0.0,0.0,None,None,False
+visual analysis,27,None,None,None,0.0,0.0,None,None,False
+decision trees,99,None,None,None,0.0,0.0,None,None,True
+application areas,2,None,None,None,0.0,0.0,None,None,False
+motion planning,49,None,None,None,0.0,0.0,None,None,True
+parallel data,12,None,None,None,0.0,0.0,None,None,False
+network based,1,None,None,None,0.0,0.0,None,None,False
+wireless networks,695,None,None,None,0.0,0.0,None,None,True
+audit logs,2,None,None,None,0.0,0.0,None,None,False
+efficient data,36,None,None,None,0.0,0.0,None,None,False
+network protocols,11,None,None,None,0.0,0.0,None,None,False
+nearest neighbors,30,None,None,None,0.0,0.0,None,None,True
+queueing system,9,None,None,None,0.0,0.0,None,None,False
+block cipher,9,None,None,None,0.0,0.0,None,None,True
+scheduling model,1,None,None,None,0.0,0.0,None,None,False
+financial applications,8,None,None,None,0.0,0.0,None,None,False
+external networks,3,None,None,None,0.0,0.0,None,None,False
+information modeling,7,None,None,None,0.0,0.0,None,None,False
+video content,16,None,None,None,0.0,0.0,None,None,False
+soft computing,72,None,None,None,0.0,0.0,None,None,False
+mining algorithms,7,None,None,None,0.0,0.0,None,None,False
+classification problems,43,None,None,None,0.0,0.0,None,None,True
+nonlinear programming,73,None,None,None,0.0,0.0,None,None,True
+computational modeling,33,None,None,None,0.0,0.0,None,None,True
+classification accuracy,14,None,None,None,0.0,0.0,None,None,True
+random number,7,None,None,None,0.0,0.0,None,None,False
+static program,1,None,None,None,0.0,0.0,None,None,False
+markup language,5,None,None,None,0.0,0.0,None,None,True
+generic algorithms,5,None,None,None,0.0,0.0,None,None,False
+genetic programming,192,None,None,None,0.0,0.0,None,None,True
+model-based design,12,None,None,None,0.0,0.0,None,None,False
+multivariate techniques,1,None,None,None,0.0,0.0,None,None,False
+content distribution,20,None,None,None,0.0,0.0,None,None,False
+adaptive web,3,None,None,None,0.0,0.0,None,None,False
+dynamical systems,85,None,None,None,0.0,0.0,None,None,False
+mobile environments,39,None,None,None,0.0,0.0,None,None,False
+feature representation,8,None,None,None,0.0,0.0,None,None,False
+adaptive hypermedia,5,None,None,None,0.0,0.0,None,None,False
+reconstruction error,1,None,None,None,0.0,0.0,None,None,False
+digital environment,2,None,None,None,0.0,0.0,None,None,False
+balanced binary,1,None,None,None,0.0,0.0,None,None,False
+dialogue systems,6,None,None,None,0.0,0.0,None,None,False
+security architectures,2,None,None,None,0.0,0.0,None,None,False
+information assurance,13,None,None,None,0.0,0.0,None,None,False
+program transformation,17,None,None,None,0.0,0.0,None,None,False
+text classification,43,None,None,None,0.0,0.0,None,None,True
+memory architectures,2,None,None,None,0.0,0.0,None,None,True
+feature matching,12,None,None,None,0.0,0.0,None,None,False
+virtual memory,10,None,None,None,0.0,0.0,None,None,True
+formal verification,61,None,None,None,0.0,0.0,None,None,False
+compression codes,1,None,None,None,0.0,0.0,None,None,False
+smart phones,16,None,None,None,0.0,0.0,None,None,False
+learning systems,5,None,None,None,0.0,0.0,None,None,False
+data sets,13,None,None,None,0.0,0.0,None,None,False
+location information,17,None,None,None,0.0,0.0,None,None,False
+game loop,1,None,None,None,0.0,0.0,None,None,False
+automatic classification,54,None,None,None,0.0,0.0,None,None,False
+social networking,42,None,None,None,0.0,0.0,None,None,True
+bilinear pairings,23,None,None,None,0.0,0.0,None,None,False
+interaction techniques,3,None,None,None,0.0,0.0,None,None,False
+data centers,57,None,None,None,0.0,0.0,None,None,True
+electron microscopy,9,None,None,None,0.0,0.0,None,None,False
+interactive computer,1,None,None,None,0.0,0.0,None,None,False
+systems management,6,None,None,None,0.0,0.0,None,None,False
+speech signal,10,None,None,None,0.0,0.0,None,None,False
+formal requirements,2,None,None,None,0.0,0.0,None,None,False
+coding techniques,5,None,None,None,0.0,0.0,None,None,False
+content information,1,None,None,None,0.0,0.0,None,None,False
+digital signatures,16,None,None,None,0.0,0.0,None,None,True
+sequence learning,5,None,None,None,0.0,0.0,None,None,False
+life cycle,7,None,None,None,0.0,0.0,None,None,False
+discrete time,28,None,None,None,0.0,0.0,None,None,False
+network capabilities,1,None,None,None,0.0,0.0,None,None,True
+language generation,2,None,None,None,0.0,0.0,None,None,False
+location-based service,3,None,None,None,0.0,0.0,None,None,True
+web intelligence,7,None,None,None,0.0,0.0,None,None,False
+basic data,1,None,None,None,0.0,0.0,None,None,False
+security risk,1,None,None,None,0.0,0.0,None,None,False
+data points,7,None,None,None,0.0,0.0,None,None,False
+interactive systems,28,None,None,None,0.0,0.0,None,None,False
+image description,4,None,None,None,0.0,0.0,None,None,False
+image translation,2,None,None,None,0.0,0.0,None,None,False
+word sequence,1,None,None,None,0.0,0.0,None,None,False
+logic design,2,None,None,None,0.0,0.0,None,None,False
+information visualization,31,None,None,None,0.0,0.0,None,None,False
+semiconductor manufacturing,40,None,None,None,0.0,0.0,None,None,False
+wireless security,6,None,None,None,0.0,0.0,None,None,True
+object tracking,83,None,None,None,0.0,0.0,None,None,True
+workflow management,30,None,None,None,0.0,0.0,None,None,False
+drug design,7,None,None,None,0.0,0.0,None,None,False
+sequential data,13,None,None,None,0.0,0.0,None,None,False
+application domains,3,None,None,None,0.0,0.0,None,None,False
+network structure,11,None,None,None,0.0,0.0,None,None,True
+color models,1,None,None,None,0.0,0.0,None,None,False
+language understanding,1,None,None,None,0.0,0.0,None,None,False
+input devices,2,None,None,None,0.0,0.0,None,None,False
+energy minimization,39,None,None,None,0.0,0.0,None,None,False
+data analysis,77,None,None,None,0.0,0.0,None,None,False
+network performance,16,None,None,None,0.0,0.0,None,None,True
+casual users,2,None,None,None,0.0,0.0,None,None,False
+binary decision,7,None,None,None,0.0,0.0,None,None,False
+virtual computing,1,None,None,None,0.0,0.0,None,None,False
+electronic signatures,3,None,None,None,0.0,0.0,None,None,True
+medical imaging,33,None,None,None,0.0,0.0,None,None,False
+location-based services,76,None,None,None,0.0,0.0,None,None,True
+digital rights,6,None,None,None,0.0,0.0,None,None,False
+database machine,1,None,None,None,0.0,0.0,None,None,False
+numerical solution,185,None,None,None,0.0,0.0,None,None,False
+multiple solutions,8,None,None,None,0.0,0.0,None,None,False
+represent data,1,None,None,None,0.0,0.0,None,None,False
+vision systems,9,None,None,None,0.0,0.0,None,None,False
+existing approaches,4,None,None,None,0.0,0.0,None,None,False
+spatial databases,30,None,None,None,0.0,0.0,None,None,False
+dynamic reconfiguration,19,None,None,None,0.0,0.0,None,None,False
+communication protocols,30,None,None,None,0.0,0.0,None,None,False
+binary images,41,None,None,None,0.0,0.0,None,None,False
+network complexity,1,None,None,None,0.0,0.0,None,None,False
+speech processing,12,None,None,None,0.0,0.0,None,None,True
+accessible design,5,None,None,None,0.0,0.0,None,None,False
+multidimensional databases,4,None,None,None,0.0,0.0,None,None,False
+security policies,13,None,None,None,0.0,0.0,None,None,False
+availability constraints,9,None,None,None,0.0,0.0,None,None,False
+single sign-on,6,None,None,None,0.0,0.0,None,None,True
+third party,3,None,None,None,0.0,0.0,None,None,False
+image search,7,None,None,None,0.0,0.0,None,None,False
+management tools,5,None,None,None,0.0,0.0,None,None,False
+mobile agents,90,None,None,None,0.0,0.0,None,None,False
+action selection,11,None,None,None,0.0,0.0,None,None,False
+internet usage,11,None,None,None,0.0,0.0,None,None,False
+real-time tasks,14,None,None,None,0.0,0.0,None,None,False
+mobile systems,26,None,None,None,0.0,0.0,None,None,False
+educational games,24,None,None,None,0.0,0.0,None,None,False
+resource discovery,21,None,None,None,0.0,0.0,None,None,False
+control problem,4,None,None,None,0.0,0.0,None,None,False
+decision making,144,None,None,None,0.0,0.0,None,None,False
+ray tracing,7,None,None,None,0.0,0.0,None,None,False
+numerical integration,29,None,None,None,0.0,0.0,None,None,False
+image restoration,83,None,None,None,0.0,0.0,None,None,False
+distributed environment,7,None,None,None,0.0,0.0,None,None,False
+covert channels,9,None,None,None,0.0,0.0,None,None,False
+model parameters,6,None,None,None,0.0,0.0,None,None,False
+word representations,1,None,None,None,0.0,0.0,None,None,False
+knowledge integration,11,None,None,None,0.0,0.0,None,None,False
+information flow,26,None,None,None,0.0,0.0,None,None,False
+on-chip interconnects,10,None,None,None,0.0,0.0,None,None,False
+information technology,158,None,None,None,0.0,0.0,None,None,True
+building secure,2,None,None,None,0.0,0.0,None,None,False
+multimedia documents,10,None,None,None,0.0,0.0,None,None,False
+security policy,4,None,None,None,0.0,0.0,None,None,False
+network architectures,6,None,None,None,0.0,0.0,None,None,True
+interconnection networks,31,None,None,None,0.0,0.0,None,None,False
+keyword-based retrieval,1,None,None,None,0.0,0.0,None,None,False
+compression technique,2,None,None,None,0.0,0.0,None,None,False
+data semantics,1,None,None,None,0.0,0.0,None,None,False
+virtual worlds,47,None,None,None,0.0,0.0,None,None,False
+non-rigid objects,6,None,None,None,0.0,0.0,None,None,False
+network technologies,7,None,None,None,0.0,0.0,None,None,False
+program verification,8,None,None,None,0.0,0.0,None,None,True
+quantum cryptography,9,None,None,None,0.0,0.0,None,None,True
+false data,5,None,None,None,0.0,0.0,None,None,False
+communication networks,57,None,None,None,0.0,0.0,None,None,True
+cluster analysis,76,None,None,None,0.0,0.0,None,None,True
+neural field,1,None,None,None,0.0,0.0,None,None,False
+data representation,8,None,None,None,0.0,0.0,None,None,False
+data replication,12,None,None,None,0.0,0.0,None,None,False
+evaluation criteria,16,None,None,None,0.0,0.0,None,None,False
+buffer overflow,3,None,None,None,0.0,0.0,None,None,True
+real-time systems,81,None,None,None,0.0,0.0,None,None,True
+knowledge discovery,100,None,None,None,0.0,0.0,None,None,False
+system design,71,None,None,None,0.0,0.0,None,None,False
+control systems,61,None,None,None,0.0,0.0,None,None,False
+sparse representation,146,None,None,None,0.0,0.0,None,None,True
+image tagging,4,None,None,None,0.0,0.0,None,None,False
+relational databases,75,None,None,None,0.0,0.0,None,None,True
+computational geometry,11,None,None,None,0.0,0.0,None,None,True
+classification models,17,None,None,None,0.0,0.0,None,None,True
+distributed real-time,1,None,None,None,0.0,0.0,None,None,False
+hierarchical memory,3,None,None,None,0.0,0.0,None,None,False
+peer-to-peer systems,41,None,None,None,0.0,0.0,None,None,True
+universal access,42,None,None,None,0.0,0.0,None,None,False
+finite element,20,None,None,None,0.0,0.0,None,None,False
+object classification,15,None,None,None,0.0,0.0,None,None,True
+still images,6,None,None,None,0.0,0.0,None,None,False
+query algebra,2,None,None,None,0.0,0.0,None,None,False
+incremental construction,5,None,None,None,0.0,0.0,None,None,False
+risk analysis,39,None,None,None,0.0,0.0,None,None,False
+information retrieval,189,None,None,None,0.0,0.0,None,None,False
+design problems,12,None,None,None,0.0,0.0,None,None,False
+power management,37,None,None,None,0.0,0.0,None,None,False
+system architectures,9,None,None,None,0.0,0.0,None,None,False
+statistical analysis,151,None,None,None,0.0,0.0,None,None,False
+knowledge repositories,1,None,None,None,0.0,0.0,None,None,False
+security issues,31,None,None,None,0.0,0.0,None,None,False
+related problems,23,None,None,None,0.0,0.0,None,None,False
+sixth edition,1,None,None,None,0.0,0.0,None,None,False
+optical networks,85,None,None,None,0.0,0.0,None,None,False
+parameter settings,3,None,None,None,0.0,0.0,None,None,False
+service-oriented architectures,23,None,None,None,0.0,0.0,None,None,False
+phrase structure,1,None,None,None,0.0,0.0,None,None,False
+resource allocation,414,None,None,None,0.0,0.0,None,None,False
+error reduction,3,None,None,None,0.0,0.0,None,None,False
+large databases,18,None,None,None,0.0,0.0,None,None,False
+location management,22,None,None,None,0.0,0.0,None,None,False
+online reputation,1,None,None,None,0.0,0.0,None,None,False
+feature detectors,1,None,None,None,0.0,0.0,None,None,False
+intellectual property,27,None,None,None,0.0,0.0,None,None,False
+continuous time,29,None,None,None,0.0,0.0,None,None,False
+planning agent,1,None,None,None,0.0,0.0,None,None,False
+face verification,18,None,None,None,0.0,0.0,None,None,False
+data streams,116,None,None,None,0.0,0.0,None,None,False
+ongoing development,1,None,None,None,0.0,0.0,None,None,False
+2.0 technologies,9,None,None,None,0.0,0.0,None,None,False
+information extraction,40,None,None,None,0.0,0.0,None,None,False
+independent component,9,None,None,None,0.0,0.0,None,None,False
+transfer function,8,None,None,None,0.0,0.0,None,None,False
+uniform random,1,None,None,None,0.0,0.0,None,None,False
+routing protocols,20,None,None,None,0.0,0.0,None,None,False
+arbitrary data,2,None,None,None,0.0,0.0,None,None,False
+temporal databases,23,None,None,None,0.0,0.0,None,None,False
+design techniques,17,None,None,None,0.0,0.0,None,None,False
+smart space,3,None,None,None,0.0,0.0,None,None,False
+stability analysis,188,None,None,None,0.0,0.0,None,None,False
+real-time scheduling,17,None,None,None,0.0,0.0,None,None,False
+storage systems,29,None,None,None,0.0,0.0,None,None,False
+similarity search,7,None,None,None,0.0,0.0,None,None,False
+structure visualization,1,None,None,None,0.0,0.0,None,None,False
+approximation schemes,14,None,None,None,0.0,0.0,None,None,False
+word alignment,1,None,None,None,0.0,0.0,None,None,False
+processing concepts,1,None,None,None,0.0,0.0,None,None,False
+performance issues,11,None,None,None,0.0,0.0,None,None,False
+portable devices,12,None,None,None,0.0,0.0,None,None,False
+information processing,32,None,None,None,0.0,0.0,None,None,True
+performance evaluation,608,None,None,None,0.0,0.0,None,None,False
+grid environment,9,None,None,None,0.0,0.0,None,None,False
+electronic commerce,128,None,None,None,0.0,0.0,None,None,False
+enhancing security,12,None,None,None,0.0,0.0,None,None,False
+virtual communities,57,None,None,None,0.0,0.0,None,None,False
+dynamic modeling,32,None,None,None,0.0,0.0,None,None,False
+efficient sets,2,None,None,None,0.0,0.0,None,None,False
+sequence alignment,16,None,None,None,0.0,0.0,None,None,False
+control rules,2,None,None,None,0.0,0.0,None,None,False
+value iteration,1,None,None,None,0.0,0.0,None,None,False
+digital archives,12,None,None,None,0.0,0.0,None,None,False
+two levels,9,None,None,None,0.0,0.0,None,None,False
+neural representation,4,None,None,None,0.0,0.0,None,None,False
+physical design,5,None,None,None,0.0,0.0,None,None,False
+geometric modeling,7,None,None,None,0.0,0.0,None,None,False
+thermal management,17,None,None,None,0.0,0.0,None,None,False
+data classification,21,None,None,None,0.0,0.0,None,None,True
+disaster recovery,12,None,None,None,0.0,0.0,None,None,False
+critical business,1,None,None,None,0.0,0.0,None,None,False
+broadcast authentication,8,None,None,None,0.0,0.0,None,None,False
+wide area,7,None,None,None,0.0,0.0,None,None,False
+advanced techniques,8,None,None,None,0.0,0.0,None,None,False
+basic structures,2,None,None,None,0.0,0.0,None,None,False
+simulation techniques,8,None,None,None,0.0,0.0,None,None,True
+pervasive computing,24,None,None,None,0.0,0.0,None,None,False
+human interaction,16,None,None,None,0.0,0.0,None,None,False
+immersive visualization,1,None,None,None,0.0,0.0,None,None,False
+data quality,32,None,None,None,0.0,0.0,None,None,False
+new media,14,None,None,None,0.0,0.0,None,None,False
+coding theory,8,None,None,None,0.0,0.0,None,None,True
+interactive art,1,None,None,None,0.0,0.0,None,None,False
+service security,1,None,None,None,0.0,0.0,None,None,False
+wireless sensor,34,None,None,None,0.0,0.0,None,None,False
+mathematical logic,10,None,None,None,0.0,0.0,None,None,False
+general systems,3,None,None,None,0.0,0.0,None,None,False
+knowledge management,257,None,None,None,0.0,0.0,None,None,False
+large datasets,33,None,None,None,0.0,0.0,None,None,False
+heavy-tailed distributions,9,None,None,None,0.0,0.0,None,None,False
+success factors,23,None,None,None,0.0,0.0,None,None,False
+resource constraints,26,None,None,None,0.0,0.0,None,None,False
+scheduling data,1,None,None,None,0.0,0.0,None,None,False
+wireless technologies,16,None,None,None,0.0,0.0,None,None,False
+real-time data,7,None,None,None,0.0,0.0,None,None,True
+power control,166,None,None,None,0.0,0.0,None,None,False
+approximation results,4,None,None,None,0.0,0.0,None,None,False
+maximal independent,4,None,None,None,0.0,0.0,None,None,False
+fractal geometry,5,None,None,None,0.0,0.0,None,None,False
+level analysis,1,None,None,None,0.0,0.0,None,None,False
+packet forwarding,4,None,None,None,0.0,0.0,None,None,True
+clustering algorithm,49,None,None,None,0.0,0.0,None,None,True
+continuous services,2,None,None,None,0.0,0.0,None,None,False
+classification tasks,7,None,None,None,0.0,0.0,None,None,False
+eye tracking,31,None,None,None,0.0,0.0,None,None,False
+context awareness,12,None,None,None,0.0,0.0,None,None,False
+telecommunications systems,6,None,None,None,0.0,0.0,None,None,False
+large scale,51,None,None,None,0.0,0.0,None,None,False
+power consumption,59,None,None,None,0.0,0.0,None,None,False
+point models,2,None,None,None,0.0,0.0,None,None,False
+second edition,14,None,None,None,0.0,0.0,None,None,False
+algebraic specifications,10,None,None,None,0.0,0.0,None,None,False
+data communications,12,None,None,None,0.0,0.0,None,None,True
+information geometry,6,None,None,None,0.0,0.0,None,None,True
+knowledge processing,12,None,None,None,0.0,0.0,None,None,False
+stability conditions,9,None,None,None,0.0,0.0,None,None,False
+breast cancer,54,None,None,None,0.0,0.0,None,None,False
+fuzzy graphs,21,None,None,None,0.0,0.0,None,None,False
+geometric computing,2,None,None,None,0.0,0.0,None,None,False
+virtual teams,19,None,None,None,0.0,0.0,None,None,False
+decomposition methods,17,None,None,None,0.0,0.0,None,None,False
+top management,2,None,None,None,0.0,0.0,None,None,False
+temporal access,3,None,None,None,0.0,0.0,None,None,True
+communication systems,49,None,None,None,0.0,0.0,None,None,False
+performance prediction,45,None,None,None,0.0,0.0,None,None,False
+identity theft,14,None,None,None,0.0,0.0,None,None,False
+project management,40,None,None,None,0.0,0.0,None,None,False
+online collaboration,3,None,None,None,0.0,0.0,None,None,False
+key components,2,None,None,None,0.0,0.0,None,None,False
+statistical pattern,2,None,None,None,0.0,0.0,None,None,False
+wireless networking,10,None,None,None,0.0,0.0,None,None,True
+collaborative development,6,None,None,None,0.0,0.0,None,None,False
+mobile technology,25,None,None,None,0.0,0.0,None,None,False
+television series,2,None,None,None,0.0,0.0,None,None,False
+dynamic systems,77,None,None,None,0.0,0.0,None,None,False
+online research,2,None,None,None,0.0,0.0,None,None,False
+grid infrastructure,2,None,None,None,0.0,0.0,None,None,False
+failure detectors,5,None,None,None,0.0,0.0,None,None,False
+resource management,73,None,None,None,0.0,0.0,None,None,False
+social interaction,29,None,None,None,0.0,0.0,None,None,False
+processor allocation,5,None,None,None,0.0,0.0,None,None,False
+logic devices,1,None,None,None,0.0,0.0,None,None,False
+large-scale complex,1,None,None,None,0.0,0.0,None,None,False
+wireless systems,57,None,None,None,0.0,0.0,None,None,True
+random sample,1,None,None,None,0.0,0.0,None,None,False
+data placement,3,None,None,None,0.0,0.0,None,None,False
+control system,50,None,None,None,0.0,0.0,None,None,False
+stress reduction,1,None,None,None,0.0,0.0,None,None,False
+microarray experiments,5,None,None,None,0.0,0.0,None,None,False
+evaluation metrics,6,None,None,None,0.0,0.0,None,None,False
+data retrieval,9,None,None,None,0.0,0.0,None,None,False
+security protection,7,None,None,None,0.0,0.0,None,None,False
+confidential information,5,None,None,None,0.0,0.0,None,None,False
+technical solutions,2,None,None,None,0.0,0.0,None,None,False
+evaluation methods,10,None,None,None,0.0,0.0,None,None,False
+collaborative filtering,85,None,None,None,0.0,0.0,None,None,False
+systems biology,27,None,None,None,0.0,0.0,None,None,False
+video surveillance,40,None,None,None,0.0,0.0,None,None,False
+wireless applications,18,None,None,None,0.0,0.0,None,None,False
+regression analysis,45,None,None,None,0.0,0.0,None,None,False
+mobility management,51,None,None,None,0.0,0.0,None,None,False
+hybrid systems,63,None,None,None,0.0,0.0,None,None,False
+online advertising,15,None,None,None,0.0,0.0,None,None,False
+time series,184,None,None,None,0.0,0.0,None,None,False
+design methodologies,6,None,None,None,0.0,0.0,None,None,False
+medical applications,25,None,None,None,0.0,0.0,None,None,False
+business flow,1,None,None,None,0.0,0.0,None,None,False
+mobile phones,82,None,None,None,0.0,0.0,None,None,False
+conditional entropy,1,None,None,None,0.0,0.0,None,None,False
+video streaming,53,None,None,None,0.0,0.0,None,None,False
+lower bounds,187,None,None,None,0.0,0.0,None,None,False
+food processing,2,None,None,None,0.0,0.0,None,None,False
+media streaming,8,None,None,None,0.0,0.0,None,None,False
+digital camera,6,None,None,None,0.0,0.0,None,None,False
+sign language,14,None,None,None,0.0,0.0,None,None,False
+business processes,64,None,None,None,0.0,0.0,None,None,False
+cellular networks,304,None,None,None,0.0,0.0,None,None,False
+technology management,4,None,None,None,0.0,0.0,None,None,False
+emerging applications,10,None,None,None,0.0,0.0,None,None,False
+planning systems,4,None,None,None,0.0,0.0,None,None,False
+theoretical problems,2,None,None,None,0.0,0.0,None,None,False
+new methods,36,None,None,None,0.0,0.0,None,None,False
+packet access,2,None,None,None,0.0,0.0,None,None,False
+autonomic systems,4,None,None,None,0.0,0.0,None,None,False
+young people,14,None,None,None,0.0,0.0,None,None,False
+radio frequency,15,None,None,None,0.0,0.0,None,None,False
+wireless communications,135,None,None,None,0.0,0.0,None,None,True
+payment system,1,None,None,None,0.0,0.0,None,None,False
+online courses,17,None,None,None,0.0,0.0,None,None,False
+representation system,1,None,None,None,0.0,0.0,None,None,False
+warehouse systems,3,None,None,None,0.0,0.0,None,None,False
+cognitive systems,8,None,None,None,0.0,0.0,None,None,False
+segmentation problem,2,None,None,None,0.0,0.0,None,None,False
+multidimensional scaling,34,None,None,None,0.0,0.0,None,None,False
+video communication,6,None,None,None,0.0,0.0,None,None,False
+random fields,28,None,None,None,0.0,0.0,None,None,False
+human factors,43,None,None,None,0.0,0.0,None,None,False
+architectural design,17,None,None,None,0.0,0.0,None,None,False
+video communications,3,None,None,None,0.0,0.0,None,None,False
+mining techniques,19,None,None,None,0.0,0.0,None,None,False
+auditory interfaces,2,None,None,None,0.0,0.0,None,None,False
+global convergence,44,None,None,None,0.0,0.0,None,None,False
+interest management,4,None,None,None,0.0,0.0,None,None,False
+general linear,1,None,None,None,0.0,0.0,None,None,False
+mobile commerce,37,None,None,None,0.0,0.0,None,None,False
+correctness proof,4,None,None,None,0.0,0.0,None,None,False
+recent advances,203,None,None,None,0.0,0.0,None,None,False
+wireless channels,27,None,None,None,0.0,0.0,None,None,True
+finite point,1,None,None,None,0.0,0.0,None,None,False
+character animation,4,None,None,None,0.0,0.0,None,None,False
+mobile services,49,None,None,None,0.0,0.0,None,None,False
+active learning,118,None,None,None,0.0,0.0,None,None,False
+sentiment classification,32,None,None,None,0.0,0.0,None,None,False
+computer mediated,1,None,None,None,0.0,0.0,None,None,False
+differential equations,95,None,None,None,0.0,0.0,None,None,False
+trust management,42,None,None,None,0.0,0.0,None,None,False
+decision theory,16,None,None,None,0.0,0.0,None,None,False
+utility function,8,None,None,None,0.0,0.0,None,None,False
+dynamic adaptation,9,None,None,None,0.0,0.0,None,None,False
+physical properties,7,None,None,None,0.0,0.0,None,None,False
+game theory,93,None,None,None,0.0,0.0,None,None,False
+source localization,29,None,None,None,0.0,0.0,None,None,False
+legal requirements,1,None,None,None,0.0,0.0,None,None,False
+fast generation,10,None,None,None,0.0,0.0,None,None,False
+secondary use,2,None,None,None,0.0,0.0,None,None,False
+basic elements,2,None,None,None,0.0,0.0,None,None,False
+big number,2,None,None,None,0.0,0.0,None,None,False
+pervasive games,3,None,None,None,0.0,0.0,None,None,False
+heterogeneous networks,272,None,None,None,0.0,0.0,None,None,True
+multicast protocols,3,None,None,None,0.0,0.0,None,None,True
+parametric estimation,8,None,None,None,0.0,0.0,None,None,False
+correlation analysis,28,None,None,None,0.0,0.0,None,None,False
+analytical methods,8,None,None,None,0.0,0.0,None,None,False
+communication technologies,17,None,None,None,0.0,0.0,None,None,True
+business networks,6,None,None,None,0.0,0.0,None,None,False
+general overview,2,None,None,None,0.0,0.0,None,None,False
+effective methods,7,None,None,None,0.0,0.0,None,None,False
+design automation,11,None,None,None,0.0,0.0,None,None,False
+management commitment,2,None,None,None,0.0,0.0,None,None,False
+design issues,32,None,None,None,0.0,0.0,None,None,False
+criminal investigations,2,None,None,None,0.0,0.0,None,None,False
+basic theory,6,None,None,None,0.0,0.0,None,None,False
+knowledge transfer,44,None,None,None,0.0,0.0,None,None,False
+home environments,5,None,None,None,0.0,0.0,None,None,False
+clustering techniques,22,None,None,None,0.0,0.0,None,None,True
+matrix multiplication,24,None,None,None,0.0,0.0,None,None,True
+time synchronization,23,None,None,None,0.0,0.0,None,None,True
+service composition,43,None,None,None,0.0,0.0,None,None,False
+user mobility,10,None,None,None,0.0,0.0,None,None,False
+conceptual tools,2,None,None,None,0.0,0.0,None,None,False
+optimal designs,20,None,None,None,0.0,0.0,None,None,False
+proxy signatures,2,None,None,None,0.0,0.0,None,None,False
+optimal allocation,50,None,None,None,0.0,0.0,None,None,False
+core topics,1,None,None,None,0.0,0.0,None,None,False
+semiconductor devices,21,None,None,None,0.0,0.0,None,None,True
+multiple access,94,None,None,None,0.0,0.0,None,None,False
+social communities,6,None,None,None,0.0,0.0,None,None,False
+digital library,14,None,None,None,0.0,0.0,None,None,False
+daily living,13,None,None,None,0.0,0.0,None,None,False
+high-speed downlink,2,None,None,None,0.0,0.0,None,None,False
+mobile networks,103,None,None,None,0.0,0.0,None,None,True
+financial engineering,8,None,None,None,0.0,0.0,None,None,False
+statistical data,10,None,None,None,0.0,0.0,None,None,False
+wireless internet,7,None,None,None,0.0,0.0,None,None,False
+hierarchical models,15,None,None,None,0.0,0.0,None,None,False
+statistical modeling,38,None,None,None,0.0,0.0,None,None,True
+spatial knowledge,3,None,None,None,0.0,0.0,None,None,False
+digital libraries,181,None,None,None,0.0,0.0,None,None,False
+execution times,2,None,None,None,0.0,0.0,None,None,False
+balance control,3,None,None,None,0.0,0.0,None,None,False
+school education,6,None,None,None,0.0,0.0,None,None,False
+video transmission,32,None,None,None,0.0,0.0,None,None,False
+comparative study,176,None,None,None,0.0,0.0,None,None,False
+digital investigations,14,None,None,None,0.0,0.0,None,None,False
+programmable logic,9,None,None,None,0.0,0.0,None,None,False
+surveillance systems,9,None,None,None,0.0,0.0,None,None,False
+distance education,38,None,None,None,0.0,0.0,None,None,False
+critical issues,6,None,None,None,0.0,0.0,None,None,False
+continuity planning,2,None,None,None,0.0,0.0,None,None,False
+clustering algorithms,27,None,None,None,0.0,0.0,None,None,True
+group communication,11,None,None,None,0.0,0.0,None,None,False
+energy efficiency,188,None,None,None,0.0,0.0,None,None,False
+convex hull,12,None,None,None,0.0,0.0,None,None,False
+structural equation,2,None,None,None,0.0,0.0,None,None,False
+sparse reconstruction,23,None,None,None,0.0,0.0,None,None,False
+effective framework,2,None,None,None,0.0,0.0,None,None,False
+organizational systems,1,None,None,None,0.0,0.0,None,None,False
+mobile stations,2,None,None,None,0.0,0.0,None,None,False
+exact inference,8,None,None,None,0.0,0.0,None,None,False
+increasing numbers,1,None,None,None,0.0,0.0,None,None,False
+information fusion,33,None,None,None,0.0,0.0,None,None,False
+legal issues,15,None,None,None,0.0,0.0,None,None,False
+manufacturing systems,48,None,None,None,0.0,0.0,None,None,False
+key concepts,4,None,None,None,0.0,0.0,None,None,False
+parameter estimation,219,None,None,None,0.0,0.0,None,None,False
+wireless communication,54,None,None,None,0.0,0.0,None,None,True
+conceptual design,30,None,None,None,0.0,0.0,None,None,False
+stock markets,16,None,None,None,0.0,0.0,None,None,False
+online marketplaces,11,None,None,None,0.0,0.0,None,None,False
+body motion,2,None,None,None,0.0,0.0,None,None,False
+financial markets,35,None,None,None,0.0,0.0,None,None,False
+quality control,40,None,None,None,0.0,0.0,None,None,False
+digital government,11,None,None,None,0.0,0.0,None,None,False
+competitive advantage,29,None,None,None,0.0,0.0,None,None,False
+temporal reasoning,16,None,None,None,0.0,0.0,None,None,False
+body area,1,None,None,None,0.0,0.0,None,None,False
+integrated circuit,3,None,None,None,0.0,0.0,None,None,True
+higher education,209,None,None,None,0.0,0.0,None,None,False
+educational settings,8,None,None,None,0.0,0.0,None,None,False
+word segmentation,6,None,None,None,0.0,0.0,None,None,False
+large numbers,24,None,None,None,0.0,0.0,None,None,False
+developing countries,87,None,None,None,0.0,0.0,None,None,False
+new technologies,38,None,None,None,0.0,0.0,None,None,False
+empirical analysis,41,None,None,None,0.0,0.0,None,None,False
+first edition,4,None,None,None,0.0,0.0,None,None,False
+new aspects,6,None,None,None,0.0,0.0,None,None,False
+practical issues,15,None,None,None,0.0,0.0,None,None,False
+tactile sensors,5,None,None,None,0.0,0.0,None,None,False
+finite field,8,None,None,None,0.0,0.0,None,None,False
+mobile communications,57,None,None,None,0.0,0.0,None,None,False
+electronic systems,8,None,None,None,0.0,0.0,None,None,False
+patient monitoring,5,None,None,None,0.0,0.0,None,None,False
+home appliances,4,None,None,None,0.0,0.0,None,None,False
+older adults,102,None,None,None,0.0,0.0,None,None,False
+financial services,11,None,None,None,0.0,0.0,None,None,False
+different approaches,25,None,None,None,0.0,0.0,None,None,False
+robust estimation,58,None,None,None,0.0,0.0,None,None,False
+social impact,7,None,None,None,0.0,0.0,None,None,False
+intellectual capital,13,None,None,None,0.0,0.0,None,None,False
+comparative analysis,150,None,None,None,0.0,0.0,None,None,False
+public health,17,None,None,None,0.0,0.0,None,None,False
+statistical methods,57,None,None,None,0.0,0.0,None,None,False
+reliable wireless,1,None,None,None,0.0,0.0,None,None,False
+knowledge communication,3,None,None,None,0.0,0.0,None,None,False
+fundamental concepts,7,None,None,None,0.0,0.0,None,None,False
+mobile terminals,16,None,None,None,0.0,0.0,None,None,False
+heterogeneous data,22,None,None,None,0.0,0.0,None,None,False
+management science,17,None,None,None,0.0,0.0,None,None,False
+senior citizens,6,None,None,None,0.0,0.0,None,None,False
+human behavior,26,None,None,None,0.0,0.0,None,None,False
+market research,5,None,None,None,0.0,0.0,None,None,False
+energy constraints,13,None,None,None,0.0,0.0,None,None,False
+order statistics,48,None,None,None,0.0,0.0,None,None,False
+medical research,5,None,None,None,0.0,0.0,None,None,False
+small area,1,None,None,None,0.0,0.0,None,None,False
+partitioning techniques,1,None,None,None,0.0,0.0,None,None,False
+future trends,51,None,None,None,0.0,0.0,None,None,False
+population density,6,None,None,None,0.0,0.0,None,None,False
+one step,7,None,None,None,0.0,0.0,None,None,False
+selfish behavior,1,None,None,None,0.0,0.0,None,None,False
+modern society,1,None,None,None,0.0,0.0,None,None,False
+business partners,2,None,None,None,0.0,0.0,None,None,False
+innovation processes,4,None,None,None,0.0,0.0,None,None,False
+knowledge creation,20,None,None,None,0.0,0.0,None,None,False
+human capital,14,None,None,None,0.0,0.0,None,None,False
+innovative technology,3,None,None,None,0.0,0.0,None,None,False
+normal distribution,6,None,None,None,0.0,0.0,None,None,False
+new generation,7,None,None,None,0.0,0.0,None,None,False
+basic properties,15,None,None,None,0.0,0.0,None,None,False
+recent developments,85,None,None,None,0.0,0.0,None,None,False
+channel assignment,36,None,None,None,0.0,0.0,None,None,False
+automatic control,16,None,None,None,0.0,0.0,None,None,False
+electronic voting,8,None,None,None,0.0,0.0,None,None,False
+lattice theory,6,None,None,None,0.0,0.0,None,None,False
+business continuity,5,None,None,None,0.0,0.0,None,None,False
+biomedical imaging,5,None,None,None,0.0,0.0,None,None,False
+cultural heritage,35,None,None,None,0.0,0.0,None,None,False
+biological cells,3,None,None,None,0.0,0.0,None,None,False
+biological processes,5,None,None,None,0.0,0.0,None,None,False
+two phases,4,None,None,None,0.0,0.0,None,None,False
+statistical perspective,1,None,None,None,0.0,0.0,None,None,False
+spatial concepts,4,None,None,None,0.0,0.0,None,None,False
+projective geometry,5,None,None,None,0.0,0.0,None,None,False
+probability measures,13,None,None,None,0.0,0.0,None,None,False
+uniform distribution,6,None,None,None,0.0,0.0,None,None,False
+probability theory,10,None,None,None,0.0,0.0,None,None,False
+probability distributions,33,None,None,None,0.0,0.0,None,None,False
+clinical trials,39,None,None,None,0.0,0.0,None,None,False
+real-time synchronization,2,None,None,None,0.0,0.0,None,None,False
+collaborative approach,4,None,None,None,0.0,0.0,None,None,False
+learning difficulties,4,None,None,None,0.0,0.0,None,None,False
+human ear,5,None,None,None,0.0,0.0,None,None,False
+new roles,2,None,None,None,0.0,0.0,None,None,False
+social perspectives,6,None,None,None,0.0,0.0,None,None,False
+seamless connectivity,2,None,None,None,0.0,0.0,None,None,False
+linear regression,48,None,None,None,0.0,0.0,None,None,True
+space exploration,6,None,None,None,0.0,0.0,None,None,False
+metric space,3,None,None,None,0.0,0.0,None,None,False
+sensory input,1,None,None,None,0.0,0.0,None,None,False
+discovering communities,2,None,None,None,0.0,0.0,None,None,False
+cognitive aspects,4,None,None,None,0.0,0.0,None,None,False
+correlation coefficient,9,None,None,None,0.0,0.0,None,None,False
+convex polygons,22,None,None,None,0.0,0.0,None,None,False
+data warehouses,49,None,None,None,0.0,0.0,None,None,True
+stochastic processes,33,None,None,None,0.0,0.0,None,None,True
+nonlinear equations,81,None,None,None,0.0,0.0,None,None,False
+forensic investigation,16,None,None,None,0.0,0.0,None,None,False
+statistical estimation,24,None,None,None,0.0,0.0,None,None,False
+integer multiplication,4,None,None,None,0.0,0.0,None,None,False
+global warming,6,None,None,None,0.0,0.0,None,None,False
+qualitative analysis,16,None,None,None,0.0,0.0,None,None,False
+cognitive disabilities,9,None,None,None,0.0,0.0,None,None,False
+ant colonies,5,None,None,None,0.0,0.0,None,None,False
+statistical inference,57,None,None,None,0.0,0.0,None,None,False
+strategic alliances,5,None,None,None,0.0,0.0,None,None,False
+collision avoidance,58,None,None,None,0.0,0.0,None,None,False
+cognitive impairment,7,None,None,None,0.0,0.0,None,None,False
+philosophy of mind,0,None,None,None,0.0,0.0,None,None,True
+theory of mind,0,None,None,None,0.0,0.0,None,None,True
+systems science,4,None,None,None,0.0,0.0,None,None,True
+conformity,10,None,None,None,0.0,0.0,None,None,True
+mathematical optimization,4,None,None,None,0.0,0.0,None,None,True
+convex optimization,68,None,None,None,0.0,0.0,None,None,True
+web services,266,None,None,None,0.0,0.0,None,None,True
+web mapping,1,None,None,None,0.0,0.0,None,None,True
+numerical analysis,94,None,None,None,0.0,0.0,None,None,True
+structural analysis,41,None,None,None,0.0,0.0,None,None,True
+software development process,0,None,None,None,0.0,0.0,None,None,True
+method engineering,2,None,None,None,0.0,0.0,None,None,True
+disaster recovery,12,None,None,None,0.0,0.0,None,None,True
+backup,10,None,None,None,0.0,0.0,None,None,True
+network theory,8,None,None,None,0.0,0.0,None,None,True
+network analysis,27,None,None,None,0.0,0.0,None,None,True
+identification,679,None,None,None,0.0,0.0,None,None,True
+brand management,0,None,None,None,0.0,0.0,None,None,True
+digital signal processing,0,None,None,None,0.0,0.0,None,None,True
+video processing,9,None,None,None,0.0,0.0,None,None,True
+cryptography law,0,None,None,None,0.0,0.0,None,None,True
+digital rights management,0,None,None,None,0.0,0.0,None,None,True
+holography,4,None,None,None,0.0,0.0,None,None,True
+holographic data storage,0,None,None,None,0.0,0.0,None,None,True
+artificial intelligence,330,None,None,None,0.0,0.0,None,None,True
+fuzzy logic,313,None,None,None,0.0,0.0,None,None,True
+ecosystems,10,None,None,None,0.0,0.0,None,None,True
+forests,49,None,None,None,0.0,0.0,None,None,True
+online services,9,None,None,None,0.0,0.0,None,None,True
+online help,1,None,None,None,0.0,0.0,None,None,True
+numerical analysis,94,None,None,None,0.0,0.0,None,None,True
+approximation theory,5,None,None,None,0.0,0.0,None,None,True
+web development,0,None,None,None,0.0,0.0,None,None,True
+web services,266,None,None,None,0.0,0.0,None,None,True
+transaction processing,14,None,None,None,0.0,0.0,None,None,True
+transactional memory,13,None,None,None,0.0,0.0,None,None,True
+computability theory,1,None,None,None,0.0,0.0,None,None,True
+lambda calculus,12,None,None,None,0.0,0.0,None,None,True
+remote sensing,261,None,None,None,0.0,0.0,None,None,True
+satellite imagery,33,None,None,None,0.0,0.0,None,None,True
+internationalization and localization,0,None,None,None,0.0,0.0,None,None,True
+video game localization,0,None,None,None,0.0,0.0,None,None,True
+theory of computation,0,None,None,None,0.0,0.0,None,None,True
+computational complexity theory,0,None,None,None,0.0,0.0,None,None,True
+authentication,108,None,None,None,0.0,0.0,None,None,True
+email authentication,0,None,None,None,0.0,0.0,None,None,True
+combinatorial optimization,69,None,None,None,0.0,0.0,None,None,True
+network flow problem,0,None,None,None,0.0,0.0,None,None,True
+computer architecture,14,None,None,None,0.0,0.0,None,None,True
+interoperability,90,None,None,None,0.0,0.0,None,None,True
+email hacking,0,None,None,None,0.0,0.0,None,None,True
+panama papers,0,None,None,None,0.0,0.0,None,None,True
+theory of computation,0,None,None,None,0.0,0.0,None,None,True
+hypercomputation,4,None,None,None,0.0,0.0,None,None,True
+mathematical optimization,4,None,None,None,0.0,0.0,None,None,True
+combinatorial optimization,69,None,None,None,0.0,0.0,None,None,True
+artificial intelligence,330,None,None,None,0.0,0.0,None,None,True
+cognitive architecture,2,None,None,None,0.0,0.0,None,None,True
+middleware,62,None,None,None,0.0,0.0,None,None,True
+object request broker,0,None,None,None,0.0,0.0,None,None,True
+signal processing,100,None,None,None,0.0,0.0,None,None,True
+audio electronics,0,None,None,None,0.0,0.0,None,None,True
+cryptography,95,None,None,None,0.0,0.0,None,None,True
+kleptography,0,None,None,None,0.0,0.0,None,None,True
+computational mathematics,4,None,None,None,0.0,0.0,None,None,True
+automated theorem proving,0,None,None,None,0.0,0.0,None,None,True
+computer security software,0,None,None,None,0.0,0.0,None,None,True
+privacy software,0,None,None,None,0.0,0.0,None,None,True
+brand management,0,None,None,None,0.0,0.0,None,None,True
+brand valuation,0,None,None,None,0.0,0.0,None,None,True
+software engineering,151,None,None,None,0.0,0.0,None,None,True
+version control,4,None,None,None,0.0,0.0,None,None,True
+robotics,138,None,None,None,0.0,0.0,None,None,True
+biorobotics,0,None,None,None,0.0,0.0,None,None,True
+robotics,138,None,None,None,0.0,0.0,None,None,True
+robot control,22,None,None,None,0.0,0.0,None,None,True
+structural bioinformatics,0,None,None,None,0.0,0.0,None,None,True
+molecular modelling,0,None,None,None,0.0,0.0,None,None,True
+data security,24,None,None,None,0.0,0.0,None,None,True
+backup software,0,None,None,None,0.0,0.0,None,None,True
+copy protection,0,None,None,None,0.0,0.0,None,None,True
+digital watermarking,20,None,None,None,0.0,0.0,None,None,True
+computer security,13,None,None,None,0.0,0.0,None,None,True
+computer forensics,15,None,None,None,0.0,0.0,None,None,True
+phylogenetics,1,None,None,None,0.0,0.0,None,None,True
+computational phylogenetics,1,None,None,None,0.0,0.0,None,None,True
+network performance,16,None,None,None,0.0,0.0,None,None,True
+reverse proxy,0,None,None,None,0.0,0.0,None,None,True
+fault tolerance,65,None,None,None,0.0,0.0,None,None,True
+uninterruptible power supply,0,None,None,None,0.0,0.0,None,None,True
+parallel computing,73,None,None,None,0.0,0.0,None,None,True
+speculative execution,1,None,None,None,0.0,0.0,None,None,True
+wireless networking,10,None,None,None,0.0,0.0,None,None,True
+indoor positioning system,0,None,None,None,0.0,0.0,None,None,True
+systems science,4,None,None,None,0.0,0.0,None,None,True
+chaos theory,6,None,None,None,0.0,0.0,None,None,True
+tablet computers,1,None,None,None,0.0,0.0,None,None,True
+ipad,4,None,None,None,0.0,0.0,None,None,True
+chaos theory,6,None,None,None,0.0,0.0,None,None,True
+emergence,71,None,None,None,0.0,0.0,None,None,True
+wireless networking,10,None,None,None,0.0,0.0,None,None,True
+mobile web,9,None,None,None,0.0,0.0,None,None,True
+interoperability,90,None,None,None,0.0,0.0,None,None,True
+integration platform,1,None,None,None,0.0,0.0,None,None,True
+online services,9,None,None,None,0.0,0.0,None,None,True
+online analytical processing,0,None,None,None,0.0,0.0,None,None,True
+computer networking,3,None,None,None,0.0,0.0,None,None,True
+computer networks,75,None,None,None,0.0,0.0,None,None,True
+combinatorial optimization,69,None,None,None,0.0,0.0,None,None,True
+linear programming,219,None,None,None,0.0,0.0,None,None,True
+computer graphics,16,None,None,None,0.0,0.0,None,None,True
+raster graphics,0,None,None,None,0.0,0.0,None,None,True
+computer security,13,None,None,None,0.0,0.0,None,None,True
+information privacy,8,None,None,None,0.0,0.0,None,None,True
+computer surveillance,0,None,None,None,0.0,0.0,None,None,True
+edward snowden,0,None,None,None,0.0,0.0,None,None,True
+algorithms,1165,None,None,None,0.0,0.0,None,None,True
+recursion,32,None,None,None,0.0,0.0,None,None,True
+theoretical computer science,0,None,None,None,0.0,0.0,None,None,True
+evolutionary computation,75,None,None,None,0.0,0.0,None,None,True
+proxy servers,3,None,None,None,0.0,0.0,None,None,True
+reverse proxy,0,None,None,None,0.0,0.0,None,None,True
+interaction,264,None,None,None,0.0,0.0,None,None,True
+chemical bonding,9,None,None,None,0.0,0.0,None,None,True
+network service,2,None,None,None,0.0,0.0,None,None,True
+usenet,5,None,None,None,0.0,0.0,None,None,True
+character encoding,0,None,None,None,0.0,0.0,None,None,True
+braille,1,None,None,None,0.0,0.0,None,None,True
+logic programming,110,None,None,None,0.0,0.0,None,None,True
+constraint programming,52,None,None,None,0.0,0.0,None,None,True
+systems science,4,None,None,None,0.0,0.0,None,None,True
+systems engineering,57,None,None,None,0.0,0.0,None,None,True
+computational trust,3,None,None,None,0.0,0.0,None,None,True
+authentication,108,None,None,None,0.0,0.0,None,None,True
+group theory,5,None,None,None,0.0,0.0,None,None,True
+representation theory,6,None,None,None,0.0,0.0,None,None,True
+photogrammetry,20,None,None,None,0.0,0.0,None,None,True
+aerial photography,3,None,None,None,0.0,0.0,None,None,True
+computer vision,125,None,None,None,0.0,0.0,None,None,True
+mathematical morphology,32,None,None,None,0.0,0.0,None,None,True
+computer security,13,None,None,None,0.0,0.0,None,None,True
+computer access control,0,None,None,None,0.0,0.0,None,None,True
+bioinformatics,76,None,None,None,0.0,0.0,None,None,True
+synthetic biology,19,None,None,None,0.0,0.0,None,None,True
+enterprise architecture,18,None,None,None,0.0,0.0,None,None,True
+enterprise application integration,0,None,None,None,0.0,0.0,None,None,True
+pattern matching,35,None,None,None,0.0,0.0,None,None,True
+regular expressions,26,None,None,None,0.0,0.0,None,None,True
+assistive technology,10,None,None,None,0.0,0.0,None,None,True
+telepresence,6,None,None,None,0.0,0.0,None,None,True
+algorithms,1165,None,None,None,0.0,0.0,None,None,True
+pattern matching,35,None,None,None,0.0,0.0,None,None,True
+network management,28,None,None,None,0.0,0.0,None,None,True
+network performance,16,None,None,None,0.0,0.0,None,None,True
+macos,1,None,None,None,0.0,0.0,None,None,True
+ios,1,None,None,None,0.0,0.0,None,None,True
+computational complexity theory,0,None,None,None,0.0,0.0,None,None,True
+quantum complexity theory,0,None,None,None,0.0,0.0,None,None,True
+cartography,7,None,None,None,0.0,0.0,None,None,True
+indoor positioning system,0,None,None,None,0.0,0.0,None,None,True
+omics,0,None,None,None,0.0,0.0,None,None,True
+glycomics,0,None,None,None,0.0,0.0,None,None,True
+formal methods,65,None,None,None,0.0,0.0,None,None,True
+turing machine,2,None,None,None,0.0,0.0,None,None,True
+software review,12,None,None,None,0.0,0.0,None,None,True
+fagan inspection,0,None,None,None,0.0,0.0,None,None,True
+rating,5,None,None,None,0.0,0.0,None,None,True
+credit rating,2,None,None,None,0.0,0.0,None,None,True
+artificial intelligence,330,None,None,None,0.0,0.0,None,None,True
+robots,236,None,None,None,0.0,0.0,None,None,True
+computer graphics,16,None,None,None,0.0,0.0,None,None,True
+graphics hardware,9,None,None,None,0.0,0.0,None,None,True
+cybercrime,11,None,None,None,0.0,0.0,None,None,True
+cyberbullying,4,None,None,None,0.0,0.0,None,None,True
+computer networking,3,None,None,None,0.0,0.0,None,None,True
+network service,2,None,None,None,0.0,0.0,None,None,True
+image processing,193,None,None,None,0.0,0.0,None,None,True
+image compression,101,None,None,None,0.0,0.0,None,None,True
+emergence,71,None,None,None,0.0,0.0,None,None,True
+philosophy of mind,0,None,None,None,0.0,0.0,None,None,True
+software development,101,None,None,None,0.0,0.0,None,None,True
+software development process,0,None,None,None,0.0,0.0,None,None,True
+web design,15,None,None,None,0.0,0.0,None,None,True
+responsive web design,0,None,None,None,0.0,0.0,None,None,True
+software engineering,151,None,None,None,0.0,0.0,None,None,True
+software architecture,31,None,None,None,0.0,0.0,None,None,True
+scientific classification,0,None,None,None,0.0,0.0,None,None,True
+chemical classification,0,None,None,None,0.0,0.0,None,None,True
+information geometry,6,None,None,None,0.0,0.0,None,None,True
+statistical distance,0,None,None,None,0.0,0.0,None,None,True
+wireless networking,10,None,None,None,0.0,0.0,None,None,True
+wireless sensor network,0,None,None,None,0.0,0.0,None,None,True
+computer vision,125,None,None,None,0.0,0.0,None,None,True
+image processing,193,None,None,None,0.0,0.0,None,None,True
+algorithms,1165,None,None,None,0.0,0.0,None,None,True
+computational number theory,0,None,None,None,0.0,0.0,None,None,True
+formal methods,65,None,None,None,0.0,0.0,None,None,True
+formal specification,23,None,None,None,0.0,0.0,None,None,True
+machine learning,497,None,None,None,0.0,0.0,None,None,True
+supervised learning,20,None,None,None,0.0,0.0,None,None,True
+predicate logic,5,None,None,None,0.0,0.0,None,None,True
+quantification,98,None,None,None,0.0,0.0,None,None,True
+computational science,8,None,None,None,0.0,0.0,None,None,True
+computational social science,0,None,None,None,0.0,0.0,None,None,True
+unix,16,None,None,None,0.0,0.0,None,None,True
+network socket,0,None,None,None,0.0,0.0,None,None,True
+machine learning,497,None,None,None,0.0,0.0,None,None,True
+ensemble learning,51,None,None,None,0.0,0.0,None,None,True
+computational trust,3,None,None,None,0.0,0.0,None,None,True
+public key infrastructure,0,None,None,None,0.0,0.0,None,None,True
+computer vision,125,None,None,None,0.0,0.0,None,None,True
+digital geometry,7,None,None,None,0.0,0.0,None,None,True
+cloud computing,592,None,None,None,0.0,0.0,None,None,True
+hadoop,36,None,None,None,0.0,0.0,None,None,True
+information theory,70,None,None,None,0.0,0.0,None,None,True
+data compression,34,None,None,None,0.0,0.0,None,None,True
+group theory,5,None,None,None,0.0,0.0,None,None,True
+geometric group theory,0,None,None,None,0.0,0.0,None,None,True
+linux,23,None,None,None,0.0,0.0,None,None,True
+linux distributions,0,None,None,None,0.0,0.0,None,None,True
+audio electronics,0,None,None,None,0.0,0.0,None,None,True
+audio mixing,0,None,None,None,0.0,0.0,None,None,True
+computer networking,3,None,None,None,0.0,0.0,None,None,True
+net neutrality,6,None,None,None,0.0,0.0,None,None,True
+computational neuroscience,17,None,None,None,0.0,0.0,None,None,True
+neural coding,16,None,None,None,0.0,0.0,None,None,True
+computational science,8,None,None,None,0.0,0.0,None,None,True
+computational chemistry,9,None,None,None,0.0,0.0,None,None,True
+numerical analysis,94,None,None,None,0.0,0.0,None,None,True
+interpolation,135,None,None,None,0.0,0.0,None,None,True
+computational science,8,None,None,None,0.0,0.0,None,None,True
+computational fluid dynamics,0,None,None,None,0.0,0.0,None,None,True
+cybercrime,11,None,None,None,0.0,0.0,None,None,True
+computer security,13,None,None,None,0.0,0.0,None,None,True
+cryptography,95,None,None,None,0.0,0.0,None,None,True
+security engineering,3,None,None,None,0.0,0.0,None,None,True
+online services,9,None,None,None,0.0,0.0,None,None,True
+internet television,1,None,None,None,0.0,0.0,None,None,True
+taxonomy,83,None,None,None,0.0,0.0,None,None,True
+morphology,18,None,None,None,0.0,0.0,None,None,True
+access control,126,None,None,None,0.0,0.0,None,None,True
+identification,679,None,None,None,0.0,0.0,None,None,True
+cartography,7,None,None,None,0.0,0.0,None,None,True
+web mapping,1,None,None,None,0.0,0.0,None,None,True
+emergence,71,None,None,None,0.0,0.0,None,None,True
+systems thinking,9,None,None,None,0.0,0.0,None,None,True
+distributed computing,34,None,None,None,0.0,0.0,None,None,True
+volunteer computing,2,None,None,None,0.0,0.0,None,None,True
+digital rights management,0,None,None,None,0.0,0.0,None,None,True
+copy protection,0,None,None,None,0.0,0.0,None,None,True
+booting,0,None,None,None,0.0,0.0,None,None,True
+bios,1,None,None,None,0.0,0.0,None,None,True
+interoperability,90,None,None,None,0.0,0.0,None,None,True
+backward compatibility,0,None,None,None,0.0,0.0,None,None,True
+perl,4,None,None,None,0.0,0.0,None,None,True
+raku,0,None,None,None,0.0,0.0,None,None,True
+theoretical computer science,0,None,None,None,0.0,0.0,None,None,True
+algorithms,1165,None,None,None,0.0,0.0,None,None,True
+cloud computing,592,None,None,None,0.0,0.0,None,None,True
+cloud robotics,5,None,None,None,0.0,0.0,None,None,True
+medical imaging,33,None,None,None,0.0,0.0,None,None,True
+computational anatomy,0,None,None,None,0.0,0.0,None,None,True
+spamming,3,None,None,None,0.0,0.0,None,None,True
+web scraping,0,None,None,None,0.0,0.0,None,None,True
+computational science,8,None,None,None,0.0,0.0,None,None,True
+computational neuroscience,17,None,None,None,0.0,0.0,None,None,True
+calculus of variations,0,None,None,None,0.0,0.0,None,None,True
+geometric flow,0,None,None,None,0.0,0.0,None,None,True
+algorithms,1165,None,None,None,0.0,0.0,None,None,True
+computational group theory,0,None,None,None,0.0,0.0,None,None,True
+group theory,5,None,None,None,0.0,0.0,None,None,True
+computational group theory,0,None,None,None,0.0,0.0,None,None,True
+data modeling,5,None,None,None,0.0,0.0,None,None,True
+formal methods,65,None,None,None,0.0,0.0,None,None,True
+linear programming,219,None,None,None,0.0,0.0,None,None,True
+polyhedra,23,None,None,None,0.0,0.0,None,None,True
+cartography,7,None,None,None,0.0,0.0,None,None,True
+topography,11,None,None,None,0.0,0.0,None,None,True
+memory management,10,None,None,None,0.0,0.0,None,None,True
+virtual memory,10,None,None,None,0.0,0.0,None,None,True
+graph theory,48,None,None,None,0.0,0.0,None,None,True
+matching,81,None,None,None,0.0,0.0,None,None,True
+constraint programming,52,None,None,None,0.0,0.0,None,None,True
+constraint logic programming,0,None,None,None,0.0,0.0,None,None,True
+software testing,34,None,None,None,0.0,0.0,None,None,True
+unit testing,2,None,None,None,0.0,0.0,None,None,True
+software development,101,None,None,None,0.0,0.0,None,None,True
+web development,0,None,None,None,0.0,0.0,None,None,True
+network service,2,None,None,None,0.0,0.0,None,None,True
+video on demand,0,None,None,None,0.0,0.0,None,None,True
+computer forensics,15,None,None,None,0.0,0.0,None,None,True
+computer surveillance,0,None,None,None,0.0,0.0,None,None,True
+holism,4,None,None,None,0.0,0.0,None,None,True
+systems thinking,9,None,None,None,0.0,0.0,None,None,True
+information privacy,8,None,None,None,0.0,0.0,None,None,True
+internet privacy,1,None,None,None,0.0,0.0,None,None,True
+image compression,101,None,None,None,0.0,0.0,None,None,True
+texture compression,0,None,None,None,0.0,0.0,None,None,True
+computer data storage,0,None,None,None,0.0,0.0,None,None,True
+computer memory,0,None,None,None,0.0,0.0,None,None,True
+ecosystems,10,None,None,None,0.0,0.0,None,None,True
+deserts,1,None,None,None,0.0,0.0,None,None,True
+secure communication,43,None,None,None,0.0,0.0,None,None,True
+transport layer security,0,None,None,None,0.0,0.0,None,None,True
+computer programming,8,None,None,None,0.0,0.0,None,None,True
+live coding,0,None,None,None,0.0,0.0,None,None,True
+interpolation,135,None,None,None,0.0,0.0,None,None,True
+multivariate interpolation,1,None,None,None,0.0,0.0,None,None,True
+supercomputers,23,None,None,None,0.0,0.0,None,None,True
+cray,2,None,None,None,0.0,0.0,None,None,True
+cloud computing,592,None,None,None,0.0,0.0,None,None,True
+nextcloud,0,None,None,None,0.0,0.0,None,None,True
+semantic web,92,None,None,None,0.0,0.0,None,None,True
+folksonomy,8,None,None,None,0.0,0.0,None,None,True
+computer graphics,16,None,None,None,0.0,0.0,None,None,True
+scientific visualization,5,None,None,None,0.0,0.0,None,None,True
+radiology,1,None,None,None,0.0,0.0,None,None,True
+interventional radiology,1,None,None,None,0.0,0.0,None,None,True
+bioinformatics,76,None,None,None,0.0,0.0,None,None,True
+neuroinformatics,15,None,None,None,0.0,0.0,None,None,True
+cartography,7,None,None,None,0.0,0.0,None,None,True
+collaborative mapping,1,None,None,None,0.0,0.0,None,None,True
+digital humanities,8,None,None,None,0.0,0.0,None,None,True
+computational archaeology,0,None,None,None,0.0,0.0,None,None,True
+artificial intelligence,330,None,None,None,0.0,0.0,None,None,True
+automated reasoning,19,None,None,None,0.0,0.0,None,None,True
+bioinformatics,76,None,None,None,0.0,0.0,None,None,True
+structural bioinformatics,0,None,None,None,0.0,0.0,None,None,True
+javascript,22,None,None,None,0.0,0.0,None,None,True
+adaptive web design,0,None,None,None,0.0,0.0,None,None,True
+speech processing,12,None,None,None,0.0,0.0,None,None,True
+speech synthesis,3,None,None,None,0.0,0.0,None,None,True
+mac os,0,None,None,None,0.0,0.0,None,None,True
+macos,1,None,None,None,0.0,0.0,None,None,True
+machine learning,497,None,None,None,0.0,0.0,None,None,True
+deep learning,486,None,None,None,0.0,0.0,None,None,True
+online services,9,None,None,None,0.0,0.0,None,None,True
+online chat,3,None,None,None,0.0,0.0,None,None,True
+chaos theory,6,None,None,None,0.0,0.0,None,None,True
+fractals,28,None,None,None,0.0,0.0,None,None,True
+topography,11,None,None,None,0.0,0.0,None,None,True
+landforms,1,None,None,None,0.0,0.0,None,None,True
+history of cryptography,0,None,None,None,0.0,0.0,None,None,True
+venona project,0,None,None,None,0.0,0.0,None,None,True
+software development,101,None,None,None,0.0,0.0,None,None,True
+computer programming,8,None,None,None,0.0,0.0,None,None,True
+image processing,193,None,None,None,0.0,0.0,None,None,True
+medical imaging,33,None,None,None,0.0,0.0,None,None,True
+coding theory,8,None,None,None,0.0,0.0,None,None,True
+data compression,34,None,None,None,0.0,0.0,None,None,True
+data compression,34,None,None,None,0.0,0.0,None,None,True
+image compression,101,None,None,None,0.0,0.0,None,None,True
+computer programming,8,None,None,None,0.0,0.0,None,None,True
+code refactoring,0,None,None,None,0.0,0.0,None,None,True
+computational science,8,None,None,None,0.0,0.0,None,None,True
+scientific visualization,5,None,None,None,0.0,0.0,None,None,True
+perimeter security,2,None,None,None,0.0,0.0,None,None,True
+access control,126,None,None,None,0.0,0.0,None,None,True
+computational science,8,None,None,None,0.0,0.0,None,None,True
+computer algebra,69,None,None,None,0.0,0.0,None,None,True
+knowledge representation,58,None,None,None,0.0,0.0,None,None,True
+belief revision,24,None,None,None,0.0,0.0,None,None,True
+calculus of variations,0,None,None,None,0.0,0.0,None,None,True
+optimal control,284,None,None,None,0.0,0.0,None,None,True
+automated reasoning,19,None,None,None,0.0,0.0,None,None,True
+type inference,12,None,None,None,0.0,0.0,None,None,True
+network theory,8,None,None,None,0.0,0.0,None,None,True
+combinatorial optimization,69,None,None,None,0.0,0.0,None,None,True
+network architecture,21,None,None,None,0.0,0.0,None,None,True
+network topology,23,None,None,None,0.0,0.0,None,None,True
+cyborgs in fiction,0,None,None,None,0.0,0.0,None,None,True
+bionicle,0,None,None,None,0.0,0.0,None,None,True
+evolutionary algorithms,229,None,None,None,0.0,0.0,None,None,True
+gene expression programming,0,None,None,None,0.0,0.0,None,None,True
+medical imaging,33,None,None,None,0.0,0.0,None,None,True
+magnetic resonance imaging,0,None,None,None,0.0,0.0,None,None,True
+operating systems,30,None,None,None,0.0,0.0,None,None,True
+supercomputer operating systems,0,None,None,None,0.0,0.0,None,None,True
+theory of computation,0,None,None,None,0.0,0.0,None,None,True
+computability theory,1,None,None,None,0.0,0.0,None,None,True
+group theory,5,None,None,None,0.0,0.0,None,None,True
+galois theory,1,None,None,None,0.0,0.0,None,None,True
+information privacy,8,None,None,None,0.0,0.0,None,None,True
+disclosure,20,None,None,None,0.0,0.0,None,None,True
+bioinformatics,76,None,None,None,0.0,0.0,None,None,True
+omics,0,None,None,None,0.0,0.0,None,None,True
+data security,24,None,None,None,0.0,0.0,None,None,True
+information governance,3,None,None,None,0.0,0.0,None,None,True
+cloud storage,74,None,None,None,0.0,0.0,None,None,True
+nextcloud,0,None,None,None,0.0,0.0,None,None,True
+wikileaks,3,None,None,None,0.0,0.0,None,None,True
+julian assange,0,None,None,None,0.0,0.0,None,None,True
+network theory,8,None,None,None,0.0,0.0,None,None,True
+network flow problem,0,None,None,None,0.0,0.0,None,None,True
+numerical analysis,94,None,None,None,0.0,0.0,None,None,True
+mesh generation,4,None,None,None,0.0,0.0,None,None,True
+programming language theory,0,None,None,None,0.0,0.0,None,None,True
+type theory,25,None,None,None,0.0,0.0,None,None,True
+fuzzy logic,313,None,None,None,0.0,0.0,None,None,True
+predicate logic,5,None,None,None,0.0,0.0,None,None,True
+emergence,71,None,None,None,0.0,0.0,None,None,True
+interaction,264,None,None,None,0.0,0.0,None,None,True
+computational neuroscience,17,None,None,None,0.0,0.0,None,None,True
+artificial intelligence,330,None,None,None,0.0,0.0,None,None,True
+information privacy,8,None,None,None,0.0,0.0,None,None,True
+privacy law,0,None,None,None,0.0,0.0,None,None,True
+cartography,7,None,None,None,0.0,0.0,None,None,True
+hydrography,0,None,None,None,0.0,0.0,None,None,True
+compiler construction,3,None,None,None,0.0,0.0,None,None,True
+program analysis,8,None,None,None,0.0,0.0,None,None,True
+computer programming,8,None,None,None,0.0,0.0,None,None,True
+programming languages,45,None,None,None,0.0,0.0,None,None,True
+vector graphics,5,None,None,None,0.0,0.0,None,None,True
+scalable vector graphics,0,None,None,None,0.0,0.0,None,None,True
+distributed computing,34,None,None,None,0.0,0.0,None,None,True
+cryptocurrencies,6,None,None,None,0.0,0.0,None,None,True
+network management,28,None,None,None,0.0,0.0,None,None,True
+routing,68,None,None,None,0.0,0.0,None,None,True
+smart devices,21,None,None,None,0.0,0.0,None,None,True
+smart cards,61,None,None,None,0.0,0.0,None,None,True
+categorical logic,2,None,None,None,0.0,0.0,None,None,True
+topos theory,0,None,None,None,0.0,0.0,None,None,True
+internet safety,0,None,None,None,0.0,0.0,None,None,True
+cyberbullying,4,None,None,None,0.0,0.0,None,None,True
+signal processing,100,None,None,None,0.0,0.0,None,None,True
+statistical signal processing,0,None,None,None,0.0,0.0,None,None,True
+quantum computing,16,None,None,None,0.0,0.0,None,None,True
+quantum cryptography,9,None,None,None,0.0,0.0,None,None,True
+assistive technology,10,None,None,None,0.0,0.0,None,None,True
+telehealth,6,None,None,None,0.0,0.0,None,None,True
+calculus of variations,0,None,None,None,0.0,0.0,None,None,True
+perturbation theory,12,None,None,None,0.0,0.0,None,None,True
+systems thinking,9,None,None,None,0.0,0.0,None,None,True
+quality management,19,None,None,None,0.0,0.0,None,None,True
+digital signal processing,0,None,None,None,0.0,0.0,None,None,True
+speech recognition,55,None,None,None,0.0,0.0,None,None,True
+linux,23,None,None,None,0.0,0.0,None,None,True
+linux kernel,2,None,None,None,0.0,0.0,None,None,True
+network management,28,None,None,None,0.0,0.0,None,None,True
+radio resource management,0,None,None,None,0.0,0.0,None,None,True
+robot control,22,None,None,None,0.0,0.0,None,None,True
+robot kinematics,2,None,None,None,0.0,0.0,None,None,True
+taxonomy,83,None,None,None,0.0,0.0,None,None,True
+folksonomy,8,None,None,None,0.0,0.0,None,None,True
+maps,82,None,None,None,0.0,0.0,None,None,True
+map series,0,None,None,None,0.0,0.0,None,None,True
+computational geometry,11,None,None,None,0.0,0.0,None,None,True
+convex hull algorithms,0,None,None,None,0.0,0.0,None,None,True
+cartography,7,None,None,None,0.0,0.0,None,None,True
+geographic information systems,0,None,None,None,0.0,0.0,None,None,True
+smart devices,21,None,None,None,0.0,0.0,None,None,True
+smart tv,3,None,None,None,0.0,0.0,None,None,True
+programming language theory,0,None,None,None,0.0,0.0,None,None,True
+compiler construction,3,None,None,None,0.0,0.0,None,None,True
+audio electronics,0,None,None,None,0.0,0.0,None,None,True
+digital audio,3,None,None,None,0.0,0.0,None,None,True
+systems science,4,None,None,None,0.0,0.0,None,None,True
+systems theory,3,None,None,None,0.0,0.0,None,None,True
+holism,4,None,None,None,0.0,0.0,None,None,True
+modularity,32,None,None,None,0.0,0.0,None,None,True
+video processing,9,None,None,None,0.0,0.0,None,None,True
+video compression,32,None,None,None,0.0,0.0,None,None,True
+computer data storage,0,None,None,None,0.0,0.0,None,None,True
+storage virtualization,0,None,None,None,0.0,0.0,None,None,True
+quantum computing,16,None,None,None,0.0,0.0,None,None,True
+quantum programming,3,None,None,None,0.0,0.0,None,None,True
+digital signal processing,0,None,None,None,0.0,0.0,None,None,True
+speech processing,12,None,None,None,0.0,0.0,None,None,True
+software development process,0,None,None,None,0.0,0.0,None,None,True
+agile software development,0,None,None,None,0.0,0.0,None,None,True
+machine learning,497,None,None,None,0.0,0.0,None,None,True
+genetic programming,192,None,None,None,0.0,0.0,None,None,True
+robot control,22,None,None,None,0.0,0.0,None,None,True
+robot navigation,30,None,None,None,0.0,0.0,None,None,True
+cluster computing,6,None,None,None,0.0,0.0,None,None,True
+hadoop,36,None,None,None,0.0,0.0,None,None,True
+embedded systems,91,None,None,None,0.0,0.0,None,None,True
+digital cameras,8,None,None,None,0.0,0.0,None,None,True
+software development,101,None,None,None,0.0,0.0,None,None,True
+software project management,0,None,None,None,0.0,0.0,None,None,True
+assistive technology,10,None,None,None,0.0,0.0,None,None,True
+remote control,9,None,None,None,0.0,0.0,None,None,True
+computer architecture,14,None,None,None,0.0,0.0,None,None,True
+central processing unit,0,None,None,None,0.0,0.0,None,None,True
+stochastic optimization,56,None,None,None,0.0,0.0,None,None,True
+stochastic control,16,None,None,None,0.0,0.0,None,None,True
+personal computers,10,None,None,None,0.0,0.0,None,None,True
+nettop,0,None,None,None,0.0,0.0,None,None,True
+omics,0,None,None,None,0.0,0.0,None,None,True
+proteomics,4,None,None,None,0.0,0.0,None,None,True
+algorithms,1165,None,None,None,0.0,0.0,None,None,True
+algorithmic trading,1,None,None,None,0.0,0.0,None,None,True
+computer vision,125,None,None,None,0.0,0.0,None,None,True
+photogrammetry,20,None,None,None,0.0,0.0,None,None,True
+concurrency control,37,None,None,None,0.0,0.0,None,None,True
+transactional memory,13,None,None,None,0.0,0.0,None,None,True
+computer memory,0,None,None,None,0.0,0.0,None,None,True
+transactional memory,13,None,None,None,0.0,0.0,None,None,True
+machine learning,497,None,None,None,0.0,0.0,None,None,True
+cluster analysis,76,None,None,None,0.0,0.0,None,None,True
+software documentation,1,None,None,None,0.0,0.0,None,None,True
+literate programming,3,None,None,None,0.0,0.0,None,None,True
+online services,9,None,None,None,0.0,0.0,None,None,True
+web fiction,0,None,None,None,0.0,0.0,None,None,True
+systems thinking,9,None,None,None,0.0,0.0,None,None,True
+theory of constraints,0,None,None,None,0.0,0.0,None,None,True
+coding theory,8,None,None,None,0.0,0.0,None,None,True
+character encoding,0,None,None,None,0.0,0.0,None,None,True
+authentication,108,None,None,None,0.0,0.0,None,None,True
+identification,679,None,None,None,0.0,0.0,None,None,True
+computer security software,0,None,None,None,0.0,0.0,None,None,True
+antivirus software,0,None,None,None,0.0,0.0,None,None,True
+machine learning,497,None,None,None,0.0,0.0,None,None,True
+artificial neural networks,0,None,None,None,0.0,0.0,None,None,True
+computational complexity theory,0,None,None,None,0.0,0.0,None,None,True
+quantum computing,16,None,None,None,0.0,0.0,None,None,True
+computer graphics,16,None,None,None,0.0,0.0,None,None,True
+texture filtering,0,None,None,None,0.0,0.0,None,None,True
+robotics,138,None,None,None,0.0,0.0,None,None,True
+machine vision,46,None,None,None,0.0,0.0,None,None,True
+transport layer security,0,None,None,None,0.0,0.0,None,None,True
+public key infrastructure,0,None,None,None,0.0,0.0,None,None,True
+wireless networking,10,None,None,None,0.0,0.0,None,None,True
+packet radio,0,None,None,None,0.0,0.0,None,None,True
+systems science,4,None,None,None,0.0,0.0,None,None,True
+cybernetics,45,None,None,None,0.0,0.0,None,None,True
+data security,24,None,None,None,0.0,0.0,None,None,True
+electronic waste,0,None,None,None,0.0,0.0,None,None,True
+smart devices,21,None,None,None,0.0,0.0,None,None,True
+internet of things,0,None,None,None,0.0,0.0,None,None,True
+computational mathematics,4,None,None,None,0.0,0.0,None,None,True
+computational number theory,0,None,None,None,0.0,0.0,None,None,True
+concurrent computing,4,None,None,None,0.0,0.0,None,None,True
+denotational semantics,23,None,None,None,0.0,0.0,None,None,True
+data mining,334,None,None,None,0.0,0.0,None,None,True
+cluster analysis,76,None,None,None,0.0,0.0,None,None,True
+information theory,70,None,None,None,0.0,0.0,None,None,True
+coding theory,8,None,None,None,0.0,0.0,None,None,True
+computer architecture,14,None,None,None,0.0,0.0,None,None,True
+network architecture,21,None,None,None,0.0,0.0,None,None,True
+computer graphics,16,None,None,None,0.0,0.0,None,None,True
+digital geometry,7,None,None,None,0.0,0.0,None,None,True
+cartography,7,None,None,None,0.0,0.0,None,None,True
+maps,82,None,None,None,0.0,0.0,None,None,True
+data security,24,None,None,None,0.0,0.0,None,None,True
+data protection,11,None,None,None,0.0,0.0,None,None,True
+temperature control,9,None,None,None,0.0,0.0,None,None,True
+thermoregulation,0,None,None,None,0.0,0.0,None,None,True
+concurrent computing,4,None,None,None,0.0,0.0,None,None,True
+parallel computing,73,None,None,None,0.0,0.0,None,None,True
+algorithmic art,0,None,None,None,0.0,0.0,None,None,True
+cellular automata,198,None,None,None,0.0,0.0,None,None,True
+digital forensics,44,None,None,None,0.0,0.0,None,None,True
+computer forensics,15,None,None,None,0.0,0.0,None,None,True
+identity management,18,None,None,None,0.0,0.0,None,None,True
+identity management systems,0,None,None,None,0.0,0.0,None,None,True
+firmware,4,None,None,None,0.0,0.0,None,None,True
+bios,1,None,None,None,0.0,0.0,None,None,True
+internet security,10,None,None,None,0.0,0.0,None,None,True
+transport layer security,0,None,None,None,0.0,0.0,None,None,True
+graph theory,48,None,None,None,0.0,0.0,None,None,True
+graph operations,6,None,None,None,0.0,0.0,None,None,True
+smartphones,145,None,None,None,0.0,0.0,None,None,True
+iphone,0,None,None,None,0.0,0.0,None,None,True
+method engineering,2,None,None,None,0.0,0.0,None,None,True
+fagan inspection,0,None,None,None,0.0,0.0,None,None,True
+backup,10,None,None,None,0.0,0.0,None,None,True
+backup software,0,None,None,None,0.0,0.0,None,None,True
+secure communication,43,None,None,None,0.0,0.0,None,None,True
+cryptography,95,None,None,None,0.0,0.0,None,None,True
+information theory,70,None,None,None,0.0,0.0,None,None,True
+units of information,0,None,None,None,0.0,0.0,None,None,True
+bioinformatics,76,None,None,None,0.0,0.0,None,None,True
+phylogenetics,1,None,None,None,0.0,0.0,None,None,True
+geolocation,13,None,None,None,0.0,0.0,None,None,True
+tracking,172,None,None,None,0.0,0.0,None,None,True
+web development,0,None,None,None,0.0,0.0,None,None,True
+web syndication,1,None,None,None,0.0,0.0,None,None,True
+omics,0,None,None,None,0.0,0.0,None,None,True
+phenomics,0,None,None,None,0.0,0.0,None,None,True
+functional groups,2,None,None,None,0.0,0.0,None,None,True
+esters,1,None,None,None,0.0,0.0,None,None,True
+artificial intelligence,330,None,None,None,0.0,0.0,None,None,True
+robotics,138,None,None,None,0.0,0.0,None,None,True
+data security,24,None,None,None,0.0,0.0,None,None,True
+backup,10,None,None,None,0.0,0.0,None,None,True
+smartphones,145,None,None,None,0.0,0.0,None,None,True
+smartphone patent wars,0,None,None,None,0.0,0.0,None,None,True
+identification,679,None,None,None,0.0,0.0,None,None,True
+biometrics,64,None,None,None,0.0,0.0,None,None,True
+digital rights management,0,None,None,None,0.0,0.0,None,None,True
+digital watermarking,20,None,None,None,0.0,0.0,None,None,True
+computational science,8,None,None,None,0.0,0.0,None,None,True
+numerical analysis,94,None,None,None,0.0,0.0,None,None,True
+computational physics,7,None,None,None,0.0,0.0,None,None,True
+computational fluid dynamics,0,None,None,None,0.0,0.0,None,None,True
+network service,2,None,None,None,0.0,0.0,None,None,True
+web services,266,None,None,None,0.0,0.0,None,None,True
+online services,9,None,None,None,0.0,0.0,None,None,True
+instant messaging,12,None,None,None,0.0,0.0,None,None,True
+theoretical computer science,0,None,None,None,0.0,0.0,None,None,True
+quantum information science,0,None,None,None,0.0,0.0,None,None,True
+anonymity,68,None,None,None,0.0,0.0,None,None,True
+anonymous social media,0,None,None,None,0.0,0.0,None,None,True
+cloud computing,592,None,None,None,0.0,0.0,None,None,True
+serverless computing,1,None,None,None,0.0,0.0,None,None,True
+identification,679,None,None,None,0.0,0.0,None,None,True
+anonymity,68,None,None,None,0.0,0.0,None,None,True
+concurrency control,37,None,None,None,0.0,0.0,None,None,True
+transaction processing,14,None,None,None,0.0,0.0,None,None,True
+artificial neural networks,0,None,None,None,0.0,0.0,None,None,True
+neural network software,0,None,None,None,0.0,0.0,None,None,True
+uncrewed spacecraft,0,None,None,None,0.0,0.0,None,None,True
+cargo spacecraft,0,None,None,None,0.0,0.0,None,None,True
+software engineering,151,None,None,None,0.0,0.0,None,None,True
+software development,101,None,None,None,0.0,0.0,None,None,True
+lexicography,4,None,None,None,0.0,0.0,None,None,True
+terminology,10,None,None,None,0.0,0.0,None,None,True
+identification,679,None,None,None,0.0,0.0,None,None,True
+identifiers,9,None,None,None,0.0,0.0,None,None,True
+robot control,22,None,None,None,0.0,0.0,None,None,True
+robot locomotion,0,None,None,None,0.0,0.0,None,None,True
+assistive technology,10,None,None,None,0.0,0.0,None,None,True
+computer accessibility,0,None,None,None,0.0,0.0,None,None,True
+computer graphics,16,None,None,None,0.0,0.0,None,None,True
+shading,6,None,None,None,0.0,0.0,None,None,True
+cryptocurrencies,6,None,None,None,0.0,0.0,None,None,True
+ethereum,2,None,None,None,0.0,0.0,None,None,True
+electronic waste,0,None,None,None,0.0,0.0,None,None,True
+computer recycling,0,None,None,None,0.0,0.0,None,None,True
+quantum information science,0,None,None,None,0.0,0.0,None,None,True
+quantum information theory,0,None,None,None,0.0,0.0,None,None,True
+philosophy of mind,0,None,None,None,0.0,0.0,None,None,True
+philosophy of psychology,0,None,None,None,0.0,0.0,None,None,True
+classes of computers,0,None,None,None,0.0,0.0,None,None,True
+reconfigurable computing,23,None,None,None,0.0,0.0,None,None,True
+computer data storage,0,None,None,None,0.0,0.0,None,None,True
+cloud storage,74,None,None,None,0.0,0.0,None,None,True
+computational statistics,10,None,None,None,0.0,0.0,None,None,True
+variance reduction,16,None,None,None,0.0,0.0,None,None,True
+computer graphics,16,None,None,None,0.0,0.0,None,None,True
+graphics software,0,None,None,None,0.0,0.0,None,None,True
+computational complexity theory,0,None,None,None,0.0,0.0,None,None,True
+circuit complexity,3,None,None,None,0.0,0.0,None,None,True
+image compression,101,None,None,None,0.0,0.0,None,None,True
+jpeg,27,None,None,None,0.0,0.0,None,None,True
+data modeling,5,None,None,None,0.0,0.0,None,None,True
+identification,679,None,None,None,0.0,0.0,None,None,True
+computer graphics,16,None,None,None,0.0,0.0,None,None,True
+video game graphics,0,None,None,None,0.0,0.0,None,None,True
+prisons,0,None,None,None,0.0,0.0,None,None,True
+prison food,0,None,None,None,0.0,0.0,None,None,True
+data security,24,None,None,None,0.0,0.0,None,None,True
+computer access control,0,None,None,None,0.0,0.0,None,None,True
+networking hardware,0,None,None,None,0.0,0.0,None,None,True
+netgear,0,None,None,None,0.0,0.0,None,None,True
+computer security,13,None,None,None,0.0,0.0,None,None,True
+computer surveillance,0,None,None,None,0.0,0.0,None,None,True
+formal methods,65,None,None,None,0.0,0.0,None,None,True
+program analysis,8,None,None,None,0.0,0.0,None,None,True
+artificial neural networks,0,None,None,None,0.0,0.0,None,None,True
+deep learning,486,None,None,None,0.0,0.0,None,None,True
+computer programming,8,None,None,None,0.0,0.0,None,None,True
+debugging,15,None,None,None,0.0,0.0,None,None,True
+ubiquitous computing,63,None,None,None,0.0,0.0,None,None,True
+tracking,172,None,None,None,0.0,0.0,None,None,True
+brand management,0,None,None,None,0.0,0.0,None,None,True
+trademarks,2,None,None,None,0.0,0.0,None,None,True
+signal processing,100,None,None,None,0.0,0.0,None,None,True
+geometry processing,0,None,None,None,0.0,0.0,None,None,True
+computer security software,0,None,None,None,0.0,0.0,None,None,True
+computer forensics,15,None,None,None,0.0,0.0,None,None,True
+security engineering,3,None,None,None,0.0,0.0,None,None,True
+access control,126,None,None,None,0.0,0.0,None,None,True
+national security agency,0,None,None,None,0.0,0.0,None,None,True
+venona project,0,None,None,None,0.0,0.0,None,None,True
+scientific visualization,5,None,None,None,0.0,0.0,None,None,True
+flow visualization,3,None,None,None,0.0,0.0,None,None,True
+computational statistics,10,None,None,None,0.0,0.0,None,None,True
+data mining,334,None,None,None,0.0,0.0,None,None,True
+assistive technology,10,None,None,None,0.0,0.0,None,None,True
+hearing aids,11,None,None,None,0.0,0.0,None,None,True
+machine learning,497,None,None,None,0.0,0.0,None,None,True
+unsupervised learning,56,None,None,None,0.0,0.0,None,None,True
+software quality,29,None,None,None,0.0,0.0,None,None,True
+software testing,34,None,None,None,0.0,0.0,None,None,True
+classes of computers,0,None,None,None,0.0,0.0,None,None,True
+supercomputers,23,None,None,None,0.0,0.0,None,None,True
+computer architecture,14,None,None,None,0.0,0.0,None,None,True
+classes of computers,0,None,None,None,0.0,0.0,None,None,True
+security engineering,3,None,None,None,0.0,0.0,None,None,True
+secure communication,43,None,None,None,0.0,0.0,None,None,True
+information privacy,8,None,None,None,0.0,0.0,None,None,True
+medical privacy,0,None,None,None,0.0,0.0,None,None,True
+classes of computers,0,None,None,None,0.0,0.0,None,None,True
+embedded systems,91,None,None,None,0.0,0.0,None,None,True
+internet fraud,0,None,None,None,0.0,0.0,None,None,True
+fake news,6,None,None,None,0.0,0.0,None,None,True
+robotics,138,None,None,None,0.0,0.0,None,None,True
+cloud robotics,5,None,None,None,0.0,0.0,None,None,True
+internet privacy,1,None,None,None,0.0,0.0,None,None,True
+email hacking,0,None,None,None,0.0,0.0,None,None,True
+robotics,138,None,None,None,0.0,0.0,None,None,True
+laws of robotics,0,None,None,None,0.0,0.0,None,None,True
+classes of computers,0,None,None,None,0.0,0.0,None,None,True
+analog computers,0,None,None,None,0.0,0.0,None,None,True
+coding theory,8,None,None,None,0.0,0.0,None,None,True
+neural coding,16,None,None,None,0.0,0.0,None,None,True
+digital signal processing,0,None,None,None,0.0,0.0,None,None,True
+image processing,193,None,None,None,0.0,0.0,None,None,True
+information theory,70,None,None,None,0.0,0.0,None,None,True
+network performance,16,None,None,None,0.0,0.0,None,None,True
+data compression,34,None,None,None,0.0,0.0,None,None,True
+video compression,32,None,None,None,0.0,0.0,None,None,True
+computer programming,8,None,None,None,0.0,0.0,None,None,True
+source code,29,None,None,None,0.0,0.0,None,None,True
+emergence,71,None,None,None,0.0,0.0,None,None,True
+complex dynamics,13,None,None,None,0.0,0.0,None,None,True
+graph theory,48,None,None,None,0.0,0.0,None,None,True
+graph rewriting,11,None,None,None,0.0,0.0,None,None,True
+computational science,8,None,None,None,0.0,0.0,None,None,True
+cheminformatics,1,None,None,None,0.0,0.0,None,None,True
+smart devices,21,None,None,None,0.0,0.0,None,None,True
+smartphones,145,None,None,None,0.0,0.0,None,None,True
+debian,0,None,None,None,0.0,0.0,None,None,True
+dpkg,0,None,None,None,0.0,0.0,None,None,True
+remote sensing,261,None,None,None,0.0,0.0,None,None,True
+remote sensing software,0,None,None,None,0.0,0.0,None,None,True
+control flow,6,None,None,None,0.0,0.0,None,None,True
+recursion,32,None,None,None,0.0,0.0,None,None,True
+model checking,118,None,None,None,0.0,0.0,None,None,True
+temporal logic,30,None,None,None,0.0,0.0,None,None,True
+artificial intelligence,330,None,None,None,0.0,0.0,None,None,True
+affective computing,8,None,None,None,0.0,0.0,None,None,True
+software development,101,None,None,None,0.0,0.0,None,None,True
+video game development,0,None,None,None,0.0,0.0,None,None,True
+reliability engineering,6,None,None,None,0.0,0.0,None,None,True
+human reliability,3,None,None,None,0.0,0.0,None,None,True
+smart devices,21,None,None,None,0.0,0.0,None,None,True
+smart grid,152,None,None,None,0.0,0.0,None,None,True
+enterprise architecture,18,None,None,None,0.0,0.0,None,None,True
+business architecture,0,None,None,None,0.0,0.0,None,None,True
+key management,27,None,None,None,0.0,0.0,None,None,True
+public key infrastructure,0,None,None,None,0.0,0.0,None,None,True
+graph theory,48,None,None,None,0.0,0.0,None,None,True
+algebraic graph theory,0,None,None,None,0.0,0.0,None,None,True
+computational mathematics,4,None,None,None,0.0,0.0,None,None,True
+computer algebra,69,None,None,None,0.0,0.0,None,None,True
+quantum information science,0,None,None,None,0.0,0.0,None,None,True
+quantum computing,16,None,None,None,0.0,0.0,None,None,True
+cartography,7,None,None,None,0.0,0.0,None,None,True
+aerial photography,3,None,None,None,0.0,0.0,None,None,True
+machine learning,497,None,None,None,0.0,0.0,None,None,True
+support vector machines,0,None,None,None,0.0,0.0,None,None,True
+web development,0,None,None,None,0.0,0.0,None,None,True
+automattic,0,None,None,None,0.0,0.0,None,None,True
+automated reasoning,19,None,None,None,0.0,0.0,None,None,True
+automated theorem proving,0,None,None,None,0.0,0.0,None,None,True
+ecosystems,10,None,None,None,0.0,0.0,None,None,True
+systems ecology,0,None,None,None,0.0,0.0,None,None,True
+computer architecture,14,None,None,None,0.0,0.0,None,None,True
+computer data storage,0,None,None,None,0.0,0.0,None,None,True
+graph theory,48,None,None,None,0.0,0.0,None,None,True
+mathematical chemistry,1,None,None,None,0.0,0.0,None,None,True
+wireless networking,10,None,None,None,0.0,0.0,None,None,True
+bluetooth,23,None,None,None,0.0,0.0,None,None,True
+computer networking,3,None,None,None,0.0,0.0,None,None,True
+smart devices,21,None,None,None,0.0,0.0,None,None,True
+artificial intelligence,330,None,None,None,0.0,0.0,None,None,True
+knowledge representation,58,None,None,None,0.0,0.0,None,None,True
+computational science,8,None,None,None,0.0,0.0,None,None,True
+computational linguistics,16,None,None,None,0.0,0.0,None,None,True
+software development,101,None,None,None,0.0,0.0,None,None,True
+software release,1,None,None,None,0.0,0.0,None,None,True
+computer networking,3,None,None,None,0.0,0.0,None,None,True
+network management,28,None,None,None,0.0,0.0,None,None,True
+resource description framework,0,None,None,None,0.0,0.0,None,None,True
+rss,12,None,None,None,0.0,0.0,None,None,True
+cryptography,95,None,None,None,0.0,0.0,None,None,True
+key management,27,None,None,None,0.0,0.0,None,None,True
+embedded systems,91,None,None,None,0.0,0.0,None,None,True
+robotics,138,None,None,None,0.0,0.0,None,None,True
+classes of computers,0,None,None,None,0.0,0.0,None,None,True
+military computers,0,None,None,None,0.0,0.0,None,None,True
+method engineering,2,None,None,None,0.0,0.0,None,None,True
+configuration management,13,None,None,None,0.0,0.0,None,None,True
+network architecture,21,None,None,None,0.0,0.0,None,None,True
+local loop,3,None,None,None,0.0,0.0,None,None,True
+missile guidance,4,None,None,None,0.0,0.0,None,None,True
+global positioning system,0,None,None,None,0.0,0.0,None,None,True
+booting,0,None,None,None,0.0,0.0,None,None,True
+network booting,0,None,None,None,0.0,0.0,None,None,True
+numerical linear algebra,0,None,None,None,0.0,0.0,None,None,True
+domain decomposition methods,0,None,None,None,0.0,0.0,None,None,True
+agile software development,0,None,None,None,0.0,0.0,None,None,True
+extreme programming,4,None,None,None,0.0,0.0,None,None,True
+functional groups,2,None,None,None,0.0,0.0,None,None,True
+ketones,0,None,None,None,0.0,0.0,None,None,True
+logic programming,110,None,None,None,0.0,0.0,None,None,True
+inductive logic programming,0,None,None,None,0.0,0.0,None,None,True
+identifiers,9,None,None,None,0.0,0.0,None,None,True
+names,14,None,None,None,0.0,0.0,None,None,True
+cryptography,95,None,None,None,0.0,0.0,None,None,True
+disk encryption,0,None,None,None,0.0,0.0,None,None,True
+mobile phones,82,None,None,None,0.0,0.0,None,None,True
+smartphones,145,None,None,None,0.0,0.0,None,None,True
+evolutionary algorithms,229,None,None,None,0.0,0.0,None,None,True
+genetic programming,192,None,None,None,0.0,0.0,None,None,True
+artificial intelligence,330,None,None,None,0.0,0.0,None,None,True
+cloud robotics,5,None,None,None,0.0,0.0,None,None,True
+computer architecture,14,None,None,None,0.0,0.0,None,None,True
+operating systems,30,None,None,None,0.0,0.0,None,None,True
+artificial intelligence,330,None,None,None,0.0,0.0,None,None,True
+knowledge engineering,40,None,None,None,0.0,0.0,None,None,True
+formal methods,65,None,None,None,0.0,0.0,None,None,True
+z notation,2,None,None,None,0.0,0.0,None,None,True
+robot control,22,None,None,None,0.0,0.0,None,None,True
+robotic sensing,0,None,None,None,0.0,0.0,None,None,True
+computational chemistry,9,None,None,None,0.0,0.0,None,None,True
+molecular dynamics,123,None,None,None,0.0,0.0,None,None,True
+information theory,70,None,None,None,0.0,0.0,None,None,True
+quantum information theory,0,None,None,None,0.0,0.0,None,None,True
+network performance,16,None,None,None,0.0,0.0,None,None,True
+forward proxy,0,None,None,None,0.0,0.0,None,None,True
+generic programming,4,None,None,None,0.0,0.0,None,None,True
+metaprogramming,2,None,None,None,0.0,0.0,None,None,True
+computer access control,0,None,None,None,0.0,0.0,None,None,True
+federated identity,0,None,None,None,0.0,0.0,None,None,True
+video game development,0,None,None,None,0.0,0.0,None,None,True
+video game localization,0,None,None,None,0.0,0.0,None,None,True
+digital photography,7,None,None,None,0.0,0.0,None,None,True
+digital cameras,8,None,None,None,0.0,0.0,None,None,True
+domain name system,0,None,None,None,0.0,0.0,None,None,True
+domain names,7,None,None,None,0.0,0.0,None,None,True
+computational statistics,10,None,None,None,0.0,0.0,None,None,True
+artificial neural networks,0,None,None,None,0.0,0.0,None,None,True
+web development,0,None,None,None,0.0,0.0,None,None,True
+html,15,None,None,None,0.0,0.0,None,None,True
+database theory,1,None,None,None,0.0,0.0,None,None,True
+database normalization,0,None,None,None,0.0,0.0,None,None,True
+ios,1,None,None,None,0.0,0.0,None,None,True
+iphone,0,None,None,None,0.0,0.0,None,None,True
+computational science,8,None,None,None,0.0,0.0,None,None,True
+computational biology,23,None,None,None,0.0,0.0,None,None,True
+software engineering,151,None,None,None,0.0,0.0,None,None,True
+software testing,34,None,None,None,0.0,0.0,None,None,True
+video game design,0,None,None,None,0.0,0.0,None,None,True
+video game graphics,0,None,None,None,0.0,0.0,None,None,True
+security engineering,3,None,None,None,0.0,0.0,None,None,True
+computer security,13,None,None,None,0.0,0.0,None,None,True
+operating systems,30,None,None,None,0.0,0.0,None,None,True
+computer networking,3,None,None,None,0.0,0.0,None,None,True
+computer access control,0,None,None,None,0.0,0.0,None,None,True
+identity management,18,None,None,None,0.0,0.0,None,None,True
+image processing,193,None,None,None,0.0,0.0,None,None,True
+image segmentation,305,None,None,None,0.0,0.0,None,None,True
+cryptography,95,None,None,None,0.0,0.0,None,None,True
+history of cryptography,0,None,None,None,0.0,0.0,None,None,True
+central processing unit,0,None,None,None,0.0,0.0,None,None,True
+microprocessors,15,None,None,None,0.0,0.0,None,None,True
+systems thinking,9,None,None,None,0.0,0.0,None,None,True
+business continuity,5,None,None,None,0.0,0.0,None,None,True
+declarative programming,4,None,None,None,0.0,0.0,None,None,True
+constraint programming,52,None,None,None,0.0,0.0,None,None,True
+theoretical computer science,0,None,None,None,0.0,0.0,None,None,True
+graph theory,48,None,None,None,0.0,0.0,None,None,True
+functional groups,2,None,None,None,0.0,0.0,None,None,True
+isocyanates,0,None,None,None,0.0,0.0,None,None,True
+computational science,8,None,None,None,0.0,0.0,None,None,True
+artificial life,50,None,None,None,0.0,0.0,None,None,True
+web development,0,None,None,None,0.0,0.0,None,None,True
+web design,15,None,None,None,0.0,0.0,None,None,True
+theoretical computer science,0,None,None,None,0.0,0.0,None,None,True
+theory of computation,0,None,None,None,0.0,0.0,None,None,True
+systems science,4,None,None,None,0.0,0.0,None,None,True
+operations research,144,None,None,None,0.0,0.0,None,None,True
+internationalization and localization,0,None,None,None,0.0,0.0,None,None,True
+internationalized domain names,0,None,None,None,0.0,0.0,None,None,True
+security engineering,3,None,None,None,0.0,0.0,None,None,True
+prisons,0,None,None,None,0.0,0.0,None,None,True
+theoretical computer science,0,None,None,None,0.0,0.0,None,None,True
+quantum computing,16,None,None,None,0.0,0.0,None,None,True
+phylogenetics,1,None,None,None,0.0,0.0,None,None,True
+evolution of tetrapods,0,None,None,None,0.0,0.0,None,None,True
+optical spectrum,0,None,None,None,0.0,0.0,None,None,True
+green,32,None,None,None,0.0,0.0,None,None,True
+computer networking,3,None,None,None,0.0,0.0,None,None,True
+network booting,0,None,None,None,0.0,0.0,None,None,True
+information governance,3,None,None,None,0.0,0.0,None,None,True
+information architecture,12,None,None,None,0.0,0.0,None,None,True
+theoretical computer science,0,None,None,None,0.0,0.0,None,None,True
+computational learning theory,0,None,None,None,0.0,0.0,None,None,True
+program analysis,8,None,None,None,0.0,0.0,None,None,True
+incremental computing,0,None,None,None,0.0,0.0,None,None,True
+machine learning,497,None,None,None,0.0,0.0,None,None,True
+inductive logic programming,0,None,None,None,0.0,0.0,None,None,True
+mobile phones,82,None,None,None,0.0,0.0,None,None,True
+mobile phone recycling,0,None,None,None,0.0,0.0,None,None,True
+analysis of algorithms,0,None,None,None,0.0,0.0,None,None,True
+parameterized complexity,7,None,None,None,0.0,0.0,None,None,True
+phylogenetics,1,None,None,None,0.0,0.0,None,None,True
+genealogy,4,None,None,None,0.0,0.0,None,None,True
+software architecture,31,None,None,None,0.0,0.0,None,None,True
+enterprise architecture,18,None,None,None,0.0,0.0,None,None,True
+hydrography,0,None,None,None,0.0,0.0,None,None,True
+oceanography,1,None,None,None,0.0,0.0,None,None,True
+ecosystems,10,None,None,None,0.0,0.0,None,None,True
+grasslands,10,None,None,None,0.0,0.0,None,None,True
+robotics,138,None,None,None,0.0,0.0,None,None,True
+physical computing,1,None,None,None,0.0,0.0,None,None,True
+computer programming,8,None,None,None,0.0,0.0,None,None,True
+data structures,37,None,None,None,0.0,0.0,None,None,True
+lexicography,4,None,None,None,0.0,0.0,None,None,True
+vocabulary,9,None,None,None,0.0,0.0,None,None,True
+algorithms,1165,None,None,None,0.0,0.0,None,None,True
+signal processing,100,None,None,None,0.0,0.0,None,None,True
+automattic,0,None,None,None,0.0,0.0,None,None,True
+tumblr,0,None,None,None,0.0,0.0,None,None,True
+remote sensing,261,None,None,None,0.0,0.0,None,None,True
+telepresence,6,None,None,None,0.0,0.0,None,None,True
+image processing,193,None,None,None,0.0,0.0,None,None,True
+digital photography,7,None,None,None,0.0,0.0,None,None,True
+web services,266,None,None,None,0.0,0.0,None,None,True
+internet search,0,None,None,None,0.0,0.0,None,None,True
+computer security,13,None,None,None,0.0,0.0,None,None,True
+mobile security,5,None,None,None,0.0,0.0,None,None,True
+programming language implementation,0,None,None,None,0.0,0.0,None,None,True
+parsing,13,None,None,None,0.0,0.0,None,None,True
+static program analysis,0,None,None,None,0.0,0.0,None,None,True
+abstract interpretation,41,None,None,None,0.0,0.0,None,None,True
+lexicography,4,None,None,None,0.0,0.0,None,None,True
+glossaries,0,None,None,None,0.0,0.0,None,None,True
+identifiers,9,None,None,None,0.0,0.0,None,None,True
+call signs,0,None,None,None,0.0,0.0,None,None,True
+internet of things,0,None,None,None,0.0,0.0,None,None,True
+smart grid,152,None,None,None,0.0,0.0,None,None,True
+holography,4,None,None,None,0.0,0.0,None,None,True
+holonomic brain theory,0,None,None,None,0.0,0.0,None,None,True
+secure communication,43,None,None,None,0.0,0.0,None,None,True
+computer security,13,None,None,None,0.0,0.0,None,None,True
+collaborative mapping,1,None,None,None,0.0,0.0,None,None,True
+geosocial networking,0,None,None,None,0.0,0.0,None,None,True
+internet of things,0,None,None,None,0.0,0.0,None,None,True
+home automation,4,None,None,None,0.0,0.0,None,None,True
+online services,9,None,None,None,0.0,0.0,None,None,True
+electronic publishing,15,None,None,None,0.0,0.0,None,None,True
+computational mathematics,4,None,None,None,0.0,0.0,None,None,True
+numerical analysis,94,None,None,None,0.0,0.0,None,None,True
+cryptography,95,None,None,None,0.0,0.0,None,None,True
+ransomware,8,None,None,None,0.0,0.0,None,None,True
+smartphones,145,None,None,None,0.0,0.0,None,None,True
+maemo,0,None,None,None,0.0,0.0,None,None,True
+software architecture,31,None,None,None,0.0,0.0,None,None,True
+enterprise application integration,0,None,None,None,0.0,0.0,None,None,True
+firmware,4,None,None,None,0.0,0.0,None,None,True
+custom firmware,1,None,None,None,0.0,0.0,None,None,True
+evolutionary computation,75,None,None,None,0.0,0.0,None,None,True
+artificial life,50,None,None,None,0.0,0.0,None,None,True
+information theory,70,None,None,None,0.0,0.0,None,None,True
+data differencing,0,None,None,None,0.0,0.0,None,None,True
+internet safety,0,None,None,None,0.0,0.0,None,None,True
+internet fraud,0,None,None,None,0.0,0.0,None,None,True
+cloud computing,592,None,None,None,0.0,0.0,None,None,True
+cloud gaming,8,None,None,None,0.0,0.0,None,None,True
+security engineering,3,None,None,None,0.0,0.0,None,None,True
+perimeter security,2,None,None,None,0.0,0.0,None,None,True
+knowledge engineering,40,None,None,None,0.0,0.0,None,None,True
+knowledge representation,58,None,None,None,0.0,0.0,None,None,True
+emergence,71,None,None,None,0.0,0.0,None,None,True
+holism,4,None,None,None,0.0,0.0,None,None,True
+identity management,18,None,None,None,0.0,0.0,None,None,True
+federated identity,0,None,None,None,0.0,0.0,None,None,True
+brand management,0,None,None,None,0.0,0.0,None,None,True
+merchandise,0,None,None,None,0.0,0.0,None,None,True
+concurrent computing,4,None,None,None,0.0,0.0,None,None,True
+distributed computing,34,None,None,None,0.0,0.0,None,None,True
+programming language theory,0,None,None,None,0.0,0.0,None,None,True
+program analysis,8,None,None,None,0.0,0.0,None,None,True
+web services,266,None,None,None,0.0,0.0,None,None,True
+instant messaging,12,None,None,None,0.0,0.0,None,None,True
+systems science,4,None,None,None,0.0,0.0,None,None,True
+systems ecology,0,None,None,None,0.0,0.0,None,None,True
+calculus of variations,0,None,None,None,0.0,0.0,None,None,True
+morse theory,0,None,None,None,0.0,0.0,None,None,True
+wireless networking,10,None,None,None,0.0,0.0,None,None,True
+netgear,0,None,None,None,0.0,0.0,None,None,True
+network performance,16,None,None,None,0.0,0.0,None,None,True
+quality of service,0,None,None,None,0.0,0.0,None,None,True
+computational physics,7,None,None,None,0.0,0.0,None,None,True
+computational electromagnetics,1,None,None,None,0.0,0.0,None,None,True
+video game design,0,None,None,None,0.0,0.0,None,None,True
+procedural generation,2,None,None,None,0.0,0.0,None,None,True
+neurotechnology,0,None,None,None,0.0,0.0,None,None,True
+neuroprosthetics,3,None,None,None,0.0,0.0,None,None,True
+computational biology,23,None,None,None,0.0,0.0,None,None,True
+bioinformatics,76,None,None,None,0.0,0.0,None,None,True
+data security,24,None,None,None,0.0,0.0,None,None,True
+fault tolerance,65,None,None,None,0.0,0.0,None,None,True
+personal computers,10,None,None,None,0.0,0.0,None,None,True
+amiga,0,None,None,None,0.0,0.0,None,None,True
+computability theory,1,None,None,None,0.0,0.0,None,None,True
+combinatory logic,13,None,None,None,0.0,0.0,None,None,True
+procedural generation,2,None,None,None,0.0,0.0,None,None,True
+demoscene,0,None,None,None,0.0,0.0,None,None,True
+assistive technology,10,None,None,None,0.0,0.0,None,None,True
+home automation,4,None,None,None,0.0,0.0,None,None,True
+machine learning,497,None,None,None,0.0,0.0,None,None,True
+evolutionary algorithms,229,None,None,None,0.0,0.0,None,None,True
+assistive technology,10,None,None,None,0.0,0.0,None,None,True
+braille,1,None,None,None,0.0,0.0,None,None,True
+network architecture,21,None,None,None,0.0,0.0,None,None,True
+osi model,0,None,None,None,0.0,0.0,None,None,True
+computational neuroscience,17,None,None,None,0.0,0.0,None,None,True
+artificial neural networks,0,None,None,None,0.0,0.0,None,None,True
+classes of computers,0,None,None,None,0.0,0.0,None,None,True
+quantum computing,16,None,None,None,0.0,0.0,None,None,True
+programming language theory,0,None,None,None,0.0,0.0,None,None,True
+lambda calculus,12,None,None,None,0.0,0.0,None,None,True
+software engineering,151,None,None,None,0.0,0.0,None,None,True
+formal methods,65,None,None,None,0.0,0.0,None,None,True
+information privacy,8,None,None,None,0.0,0.0,None,None,True
+differential privacy,47,None,None,None,0.0,0.0,None,None,True
+formal methods,65,None,None,None,0.0,0.0,None,None,True
+automated theorem proving,0,None,None,None,0.0,0.0,None,None,True
+internet privacy,1,None,None,None,0.0,0.0,None,None,True
+geolocation,13,None,None,None,0.0,0.0,None,None,True
+remote sensing,261,None,None,None,0.0,0.0,None,None,True
+synthetic aperture radar,0,None,None,None,0.0,0.0,None,None,True
+software engineering,151,None,None,None,0.0,0.0,None,None,True
+software design,24,None,None,None,0.0,0.0,None,None,True
+compilers,23,None,None,None,0.0,0.0,None,None,True
+compiler construction,3,None,None,None,0.0,0.0,None,None,True
+digital signal processing,0,None,None,None,0.0,0.0,None,None,True
+geometry processing,0,None,None,None,0.0,0.0,None,None,True
+philosophy of mind,0,None,None,None,0.0,0.0,None,None,True
+intellectualism,2,None,None,None,0.0,0.0,None,None,True
+online services,9,None,None,None,0.0,0.0,None,None,True
+cloud computing,592,None,None,None,0.0,0.0,None,None,True
+machine learning,497,None,None,None,0.0,0.0,None,None,True
+reinforcement learning,229,None,None,None,0.0,0.0,None,None,True
+artificial life,50,None,None,None,0.0,0.0,None,None,True
+emergence,71,None,None,None,0.0,0.0,None,None,True
+computer access control,0,None,None,None,0.0,0.0,None,None,True
+smart cards,61,None,None,None,0.0,0.0,None,None,True
+image processing,193,None,None,None,0.0,0.0,None,None,True
+interpolation,135,None,None,None,0.0,0.0,None,None,True
+computability theory,1,None,None,None,0.0,0.0,None,None,True
+turing machine,2,None,None,None,0.0,0.0,None,None,True
+personal computers,10,None,None,None,0.0,0.0,None,None,True
+laptops,4,None,None,None,0.0,0.0,None,None,True
+computer vision,125,None,None,None,0.0,0.0,None,None,True
+image segmentation,305,None,None,None,0.0,0.0,None,None,True
+algorithms,1165,None,None,None,0.0,0.0,None,None,True
+numerical analysis,94,None,None,None,0.0,0.0,None,None,True
+personal computers,10,None,None,None,0.0,0.0,None,None,True
+atari st,0,None,None,None,0.0,0.0,None,None,True
+network service,2,None,None,None,0.0,0.0,None,None,True
+email,7,None,None,None,0.0,0.0,None,None,True
+computational mathematics,4,None,None,None,0.0,0.0,None,None,True
+computational topology,1,None,None,None,0.0,0.0,None,None,True
+surveying,0,None,None,None,0.0,0.0,None,None,True
+home inspection,0,None,None,None,0.0,0.0,None,None,True
+internet privacy,1,None,None,None,0.0,0.0,None,None,True
+privacy software,0,None,None,None,0.0,0.0,None,None,True
+computer programming,8,None,None,None,0.0,0.0,None,None,True
+algorithms,1165,None,None,None,0.0,0.0,None,None,True
+software quality,29,None,None,None,0.0,0.0,None,None,True
+reliability engineering,6,None,None,None,0.0,0.0,None,None,True
+key management,27,None,None,None,0.0,0.0,None,None,True
+secret sharing,9,None,None,None,0.0,0.0,None,None,True
+home automation,4,None,None,None,0.0,0.0,None,None,True
+smart devices,21,None,None,None,0.0,0.0,None,None,True
+supercomputers,23,None,None,None,0.0,0.0,None,None,True
+supercomputer operating systems,0,None,None,None,0.0,0.0,None,None,True
+signal processing,100,None,None,None,0.0,0.0,None,None,True
+detection theory,1,None,None,None,0.0,0.0,None,None,True
+group theory,5,None,None,None,0.0,0.0,None,None,True
+subgroup series,0,None,None,None,0.0,0.0,None,None,True
+mobile security,5,None,None,None,0.0,0.0,None,None,True
+mobile malware,1,None,None,None,0.0,0.0,None,None,True
+emergence,71,None,None,None,0.0,0.0,None,None,True
+emergent gameplay,0,None,None,None,0.0,0.0,None,None,True
+medical imaging,33,None,None,None,0.0,0.0,None,None,True
+radiology,1,None,None,None,0.0,0.0,None,None,True
+web development,0,None,None,None,0.0,0.0,None,None,True
+web analytics,6,None,None,None,0.0,0.0,None,None,True
+signal processing,100,None,None,None,0.0,0.0,None,None,True
+image processing,193,None,None,None,0.0,0.0,None,None,True
+mobile phones,82,None,None,None,0.0,0.0,None,None,True
+mobile device management,0,None,None,None,0.0,0.0,None,None,True
+computer networking,3,None,None,None,0.0,0.0,None,None,True
+wireless networking,10,None,None,None,0.0,0.0,None,None,True
+genetic algorithms,580,None,None,None,0.0,0.0,None,None,True
+gene expression programming,0,None,None,None,0.0,0.0,None,None,True
+cryptography,95,None,None,None,0.0,0.0,None,None,True
+cryptography law,0,None,None,None,0.0,0.0,None,None,True
+computer graphics,16,None,None,None,0.0,0.0,None,None,True
+geometry processing,0,None,None,None,0.0,0.0,None,None,True
+medical imaging,33,None,None,None,0.0,0.0,None,None,True
+medical ultrasonography,0,None,None,None,0.0,0.0,None,None,True
+computer networking,3,None,None,None,0.0,0.0,None,None,True
+online services,9,None,None,None,0.0,0.0,None,None,True
+radiology,1,None,None,None,0.0,0.0,None,None,True
+radiation therapy,16,None,None,None,0.0,0.0,None,None,True
+embedded systems,91,None,None,None,0.0,0.0,None,None,True
+robots,236,None,None,None,0.0,0.0,None,None,True
+graph theory,48,None,None,None,0.0,0.0,None,None,True
+network theory,8,None,None,None,0.0,0.0,None,None,True
+artificial intelligence,330,None,None,None,0.0,0.0,None,None,True
+computer vision,125,None,None,None,0.0,0.0,None,None,True
+information theory,70,None,None,None,0.0,0.0,None,None,True
+detection theory,1,None,None,None,0.0,0.0,None,None,True
+computer programming,8,None,None,None,0.0,0.0,None,None,True
+quantum programming,3,None,None,None,0.0,0.0,None,None,True
+software architecture,31,None,None,None,0.0,0.0,None,None,True
+interoperability,90,None,None,None,0.0,0.0,None,None,True
+operating systems,30,None,None,None,0.0,0.0,None,None,True
+operating system advocacy,0,None,None,None,0.0,0.0,None,None,True
+parallel computing,73,None,None,None,0.0,0.0,None,None,True
+cache coherency,1,None,None,None,0.0,0.0,None,None,True
+identity management,18,None,None,None,0.0,0.0,None,None,True
+access control,126,None,None,None,0.0,0.0,None,None,True
+maps,82,None,None,None,0.0,0.0,None,None,True
+globes,2,None,None,None,0.0,0.0,None,None,True
+computer programming,8,None,None,None,0.0,0.0,None,None,True
+concurrent computing,4,None,None,None,0.0,0.0,None,None,True
+software project management,0,None,None,None,0.0,0.0,None,None,True
+agile software development,0,None,None,None,0.0,0.0,None,None,True
+radiology,1,None,None,None,0.0,0.0,None,None,True
+radiography,1,None,None,None,0.0,0.0,None,None,True
+natural language processing,0,None,None,None,0.0,0.0,None,None,True
+corpus linguistics,5,None,None,None,0.0,0.0,None,None,True
+cryptography,95,None,None,None,0.0,0.0,None,None,True
+quantum cryptography,9,None,None,None,0.0,0.0,None,None,True
+systems science,4,None,None,None,0.0,0.0,None,None,True
+systems biology,27,None,None,None,0.0,0.0,None,None,True
+assistive technology,10,None,None,None,0.0,0.0,None,None,True
+prosthetics,2,None,None,None,0.0,0.0,None,None,True
+semantic web,92,None,None,None,0.0,0.0,None,None,True
+resource description framework,0,None,None,None,0.0,0.0,None,None,True
+information appliances,4,None,None,None,0.0,0.0,None,None,True
+smart tv,3,None,None,None,0.0,0.0,None,None,True
+dark web,0,None,None,None,0.0,0.0,None,None,True
+darknet markets,0,None,None,None,0.0,0.0,None,None,True
+tracking,172,None,None,None,0.0,0.0,None,None,True
+indoor positioning system,0,None,None,None,0.0,0.0,None,None,True
+computational neuroscience,17,None,None,None,0.0,0.0,None,None,True
+neurotechnology,0,None,None,None,0.0,0.0,None,None,True
+lexicography,4,None,None,None,0.0,0.0,None,None,True
+definition,76,None,None,None,0.0,0.0,None,None,True
+robotics,138,None,None,None,0.0,0.0,None,None,True
+adaptable robotics,0,None,None,None,0.0,0.0,None,None,True
+cybercrime,11,None,None,None,0.0,0.0,None,None,True
+darknet markets,0,None,None,None,0.0,0.0,None,None,True
+algorithms,1165,None,None,None,0.0,0.0,None,None,True
+computational physics,7,None,None,None,0.0,0.0,None,None,True
+control flow,6,None,None,None,0.0,0.0,None,None,True
+subroutines,10,None,None,None,0.0,0.0,None,None,True
+cybercrime,11,None,None,None,0.0,0.0,None,None,True
+malware,24,None,None,None,0.0,0.0,None,None,True
+emergent gameplay,0,None,None,None,0.0,0.0,None,None,True
+machinima,1,None,None,None,0.0,0.0,None,None,True
+computational linguistics,16,None,None,None,0.0,0.0,None,None,True
+machine translation,50,None,None,None,0.0,0.0,None,None,True
+scientific classification,0,None,None,None,0.0,0.0,None,None,True
+biological classification,0,None,None,None,0.0,0.0,None,None,True
+online services,9,None,None,None,0.0,0.0,None,None,True
+web hosting,0,None,None,None,0.0,0.0,None,None,True
+graph theory,48,None,None,None,0.0,0.0,None,None,True
+topological graph theory,0,None,None,None,0.0,0.0,None,None,True
+computational complexity theory,0,None,None,None,0.0,0.0,None,None,True
+analysis of algorithms,0,None,None,None,0.0,0.0,None,None,True
+enterprise architecture,18,None,None,None,0.0,0.0,None,None,True
+enterprise modelling,3,None,None,None,0.0,0.0,None,None,True
+information theory,70,None,None,None,0.0,0.0,None,None,True
+information geometry,6,None,None,None,0.0,0.0,None,None,True
+build automation,0,None,None,None,0.0,0.0,None,None,True
+continuous integration,4,None,None,None,0.0,0.0,None,None,True
+ecosystems,10,None,None,None,0.0,0.0,None,None,True
+tropical rainforests,0,None,None,None,0.0,0.0,None,None,True
+embedded systems,91,None,None,None,0.0,0.0,None,None,True
+information appliances,4,None,None,None,0.0,0.0,None,None,True
+software quality,29,None,None,None,0.0,0.0,None,None,True
+formal methods,65,None,None,None,0.0,0.0,None,None,True
+natural language processing,0,None,None,None,0.0,0.0,None,None,True
+natural language generation,0,None,None,None,0.0,0.0,None,None,True
+numerical analysis,94,None,None,None,0.0,0.0,None,None,True
+numerical linear algebra,0,None,None,None,0.0,0.0,None,None,True
+signal processing,100,None,None,None,0.0,0.0,None,None,True
+digital signal processing,0,None,None,None,0.0,0.0,None,None,True
+computer security,13,None,None,None,0.0,0.0,None,None,True
+computational trust,3,None,None,None,0.0,0.0,None,None,True
+enterprise architecture,18,None,None,None,0.0,0.0,None,None,True
+information architecture,12,None,None,None,0.0,0.0,None,None,True
+web development,0,None,None,None,0.0,0.0,None,None,True
+web accessibility,28,None,None,None,0.0,0.0,None,None,True
+philosophy of mind,0,None,None,None,0.0,0.0,None,None,True
+phenomenology,11,None,None,None,0.0,0.0,None,None,True
+central processing unit,0,None,None,None,0.0,0.0,None,None,True
+cache coherency,1,None,None,None,0.0,0.0,None,None,True
+network architecture,21,None,None,None,0.0,0.0,None,None,True
+cyberinfrastructure,18,None,None,None,0.0,0.0,None,None,True
+cloud computing,592,None,None,None,0.0,0.0,None,None,True
+as a service,0,None,None,None,0.0,0.0,None,None,True
+security engineering,3,None,None,None,0.0,0.0,None,None,True
+locksmithing,0,None,None,None,0.0,0.0,None,None,True
+enterprise architecture,18,None,None,None,0.0,0.0,None,None,True
+architecture description language,0,None,None,None,0.0,0.0,None,None,True
+artificial intelligence,330,None,None,None,0.0,0.0,None,None,True
+machine learning,497,None,None,None,0.0,0.0,None,None,True
+systems science,4,None,None,None,0.0,0.0,None,None,True
+systems psychology,0,None,None,None,0.0,0.0,None,None,True
+logic programming,110,None,None,None,0.0,0.0,None,None,True
+constraint logic programming,0,None,None,None,0.0,0.0,None,None,True
+biometrics,64,None,None,None,0.0,0.0,None,None,True
+signature,34,None,None,None,0.0,0.0,None,None,True
+computational complexity theory,0,None,None,None,0.0,0.0,None,None,True
+parameterized complexity,7,None,None,None,0.0,0.0,None,None,True
+computer networking,3,None,None,None,0.0,0.0,None,None,True
+network architecture,21,None,None,None,0.0,0.0,None,None,True
+robotics,138,None,None,None,0.0,0.0,None,None,True
+home automation,4,None,None,None,0.0,0.0,None,None,True
+computer memory,0,None,None,None,0.0,0.0,None,None,True
+memory management,10,None,None,None,0.0,0.0,None,None,True
+computer networks,75,None,None,None,0.0,0.0,None,None,True
+internet culture,0,None,None,None,0.0,0.0,None,None,True
+assistive technology,10,None,None,None,0.0,0.0,None,None,True
+speech synthesis,3,None,None,None,0.0,0.0,None,None,True
+computer architecture,14,None,None,None,0.0,0.0,None,None,True
+heterogeneous computing,16,None,None,None,0.0,0.0,None,None,True
+structural analysis,41,None,None,None,0.0,0.0,None,None,True
+finite element method,0,None,None,None,0.0,0.0,None,None,True
+programming language implementation,0,None,None,None,0.0,0.0,None,None,True
+compiler construction,3,None,None,None,0.0,0.0,None,None,True
+philosophy of mind,0,None,None,None,0.0,0.0,None,None,True
+moral psychology,1,None,None,None,0.0,0.0,None,None,True
+computer graphics,16,None,None,None,0.0,0.0,None,None,True
+texture mapping,4,None,None,None,0.0,0.0,None,None,True
+key management,27,None,None,None,0.0,0.0,None,None,True
+digital signature,5,None,None,None,0.0,0.0,None,None,True
+web syndication,1,None,None,None,0.0,0.0,None,None,True
+podcasting,5,None,None,None,0.0,0.0,None,None,True
+belief revision,24,None,None,None,0.0,0.0,None,None,True
+cognitive inertia,0,None,None,None,0.0,0.0,None,None,True
+biometrics,64,None,None,None,0.0,0.0,None,None,True
+face recognition,429,None,None,None,0.0,0.0,None,None,True
+parallel computing,73,None,None,None,0.0,0.0,None,None,True
+domain decomposition methods,0,None,None,None,0.0,0.0,None,None,True
+web mapping,1,None,None,None,0.0,0.0,None,None,True
+google maps,4,None,None,None,0.0,0.0,None,None,True
+temperature control,9,None,None,None,0.0,0.0,None,None,True
+heat exchangers,3,None,None,None,0.0,0.0,None,None,True
+software engineering,151,None,None,None,0.0,0.0,None,None,True
+software requirements,16,None,None,None,0.0,0.0,None,None,True
+programming language theory,0,None,None,None,0.0,0.0,None,None,True
+programming languages,45,None,None,None,0.0,0.0,None,None,True
+information appliances,4,None,None,None,0.0,0.0,None,None,True
+smartphones,145,None,None,None,0.0,0.0,None,None,True
+quantum information science,0,None,None,None,0.0,0.0,None,None,True
+quantum complexity theory,0,None,None,None,0.0,0.0,None,None,True
+web design,15,None,None,None,0.0,0.0,None,None,True
+adaptive web design,0,None,None,None,0.0,0.0,None,None,True
+cybercrime,11,None,None,None,0.0,0.0,None,None,True
+internet safety,0,None,None,None,0.0,0.0,None,None,True
+computability theory,1,None,None,None,0.0,0.0,None,None,True
+hypercomputation,4,None,None,None,0.0,0.0,None,None,True
+web accessibility,28,None,None,None,0.0,0.0,None,None,True
+assistive technology,10,None,None,None,0.0,0.0,None,None,True
+web design,15,None,None,None,0.0,0.0,None,None,True
+url,2,None,None,None,0.0,0.0,None,None,True
+privacy law,0,None,None,None,0.0,0.0,None,None,True
+personality rights,1,None,None,None,0.0,0.0,None,None,True
+procedural generation,2,None,None,None,0.0,0.0,None,None,True
+algorithmic art,0,None,None,None,0.0,0.0,None,None,True
+signature,34,None,None,None,0.0,0.0,None,None,True
+digital signature,5,None,None,None,0.0,0.0,None,None,True
+finite element method,0,None,None,None,0.0,0.0,None,None,True
+mesh generation,4,None,None,None,0.0,0.0,None,None,True
+theoretical computer science,0,None,None,None,0.0,0.0,None,None,True
+formal methods,65,None,None,None,0.0,0.0,None,None,True
+software architecture,31,None,None,None,0.0,0.0,None,None,True
+architecture description language,0,None,None,None,0.0,0.0,None,None,True
+group theory,5,None,None,None,0.0,0.0,None,None,True
+moonshine theory,0,None,None,None,0.0,0.0,None,None,True
+software project management,0,None,None,None,0.0,0.0,None,None,True
+software development,101,None,None,None,0.0,0.0,None,None,True
+personal computers,10,None,None,None,0.0,0.0,None,None,True
+vaio,0,None,None,None,0.0,0.0,None,None,True
+software engineering,151,None,None,None,0.0,0.0,None,None,True
+software maintenance,22,None,None,None,0.0,0.0,None,None,True
+wireless networking,10,None,None,None,0.0,0.0,None,None,True
+mesh networking,0,None,None,None,0.0,0.0,None,None,True
+data security,24,None,None,None,0.0,0.0,None,None,True
+database security,5,None,None,None,0.0,0.0,None,None,True
+computational mathematics,4,None,None,None,0.0,0.0,None,None,True
+computational statistics,10,None,None,None,0.0,0.0,None,None,True
+medical imaging,33,None,None,None,0.0,0.0,None,None,True
+tomography,48,None,None,None,0.0,0.0,None,None,True
+finite element method,0,None,None,None,0.0,0.0,None,None,True
+domain decomposition methods,0,None,None,None,0.0,0.0,None,None,True
+cryptography,95,None,None,None,0.0,0.0,None,None,True
+steganography,39,None,None,None,0.0,0.0,None,None,True
+computational linguistics,16,None,None,None,0.0,0.0,None,None,True
+natural language processing,0,None,None,None,0.0,0.0,None,None,True
+access control,126,None,None,None,0.0,0.0,None,None,True
+computer access control,0,None,None,None,0.0,0.0,None,None,True
+maps,82,None,None,None,0.0,0.0,None,None,True
+web mapping,1,None,None,None,0.0,0.0,None,None,True
+systems science,4,None,None,None,0.0,0.0,None,None,True
+holism,4,None,None,None,0.0,0.0,None,None,True
+knowledge representation,58,None,None,None,0.0,0.0,None,None,True
+semantic web,92,None,None,None,0.0,0.0,None,None,True
+software testing,34,None,None,None,0.0,0.0,None,None,True
+software review,12,None,None,None,0.0,0.0,None,None,True
+assistive technology,10,None,None,None,0.0,0.0,None,None,True
+adaptive clothing,0,None,None,None,0.0,0.0,None,None,True
+logic programming,110,None,None,None,0.0,0.0,None,None,True
+automated theorem proving,0,None,None,None,0.0,0.0,None,None,True
+cascading style sheets,0,None,None,None,0.0,0.0,None,None,True
+responsive web design,0,None,None,None,0.0,0.0,None,None,True
+programming language implementation,0,None,None,None,0.0,0.0,None,None,True
+memory management,10,None,None,None,0.0,0.0,None,None,True
+cryptography,95,None,None,None,0.0,0.0,None,None,True
+cryptography standards,0,None,None,None,0.0,0.0,None,None,True
+numerical linear algebra,0,None,None,None,0.0,0.0,None,None,True
+least squares,131,None,None,None,0.0,0.0,None,None,True
+booting,0,None,None,None,0.0,0.0,None,None,True
+system image,0,None,None,None,0.0,0.0,None,None,True
+computer graphics,16,None,None,None,0.0,0.0,None,None,True
+vector graphics,5,None,None,None,0.0,0.0,None,None,True
+logic programming,110,None,None,None,0.0,0.0,None,None,True
+belief revision,24,None,None,None,0.0,0.0,None,None,True
+proxy servers,3,None,None,None,0.0,0.0,None,None,True
+forward proxy,0,None,None,None,0.0,0.0,None,None,True
+cartography,7,None,None,None,0.0,0.0,None,None,True
+surveying,0,None,None,None,0.0,0.0,None,None,True
+software design,24,None,None,None,0.0,0.0,None,None,True
+software architecture,31,None,None,None,0.0,0.0,None,None,True
+machine learning,497,None,None,None,0.0,0.0,None,None,True
+structured prediction,8,None,None,None,0.0,0.0,None,None,True
+live coding,0,None,None,None,0.0,0.0,None,None,True
+algorave,0,None,None,None,0.0,0.0,None,None,True
+online services,9,None,None,None,0.0,0.0,None,None,True
+video on demand,0,None,None,None,0.0,0.0,None,None,True
+backup,10,None,None,None,0.0,0.0,None,None,True
+disk cloning,0,None,None,None,0.0,0.0,None,None,True
+backup,10,None,None,None,0.0,0.0,None,None,True
+system image,0,None,None,None,0.0,0.0,None,None,True
+software engineering,151,None,None,None,0.0,0.0,None,None,True
+software quality,29,None,None,None,0.0,0.0,None,None,True
+image processing,193,None,None,None,0.0,0.0,None,None,True
+mathematical morphology,32,None,None,None,0.0,0.0,None,None,True
+evolutionary algorithms,229,None,None,None,0.0,0.0,None,None,True
+genetic algorithms,580,None,None,None,0.0,0.0,None,None,True
+evolutionary computation,75,None,None,None,0.0,0.0,None,None,True
+evolutionary algorithms,229,None,None,None,0.0,0.0,None,None,True
+theoretical computer science,0,None,None,None,0.0,0.0,None,None,True
+information theory,70,None,None,None,0.0,0.0,None,None,True
+reliability engineering,6,None,None,None,0.0,0.0,None,None,True
+fault tolerance,65,None,None,None,0.0,0.0,None,None,True
+ubiquitous computing,63,None,None,None,0.0,0.0,None,None,True
+indoor positioning system,0,None,None,None,0.0,0.0,None,None,True
+numerical analysis,94,None,None,None,0.0,0.0,None,None,True
+mathematical optimization,4,None,None,None,0.0,0.0,None,None,True
+algorithms,1165,None,None,None,0.0,0.0,None,None,True
+computational statistics,10,None,None,None,0.0,0.0,None,None,True
+modal logic,53,None,None,None,0.0,0.0,None,None,True
+temporal logic,30,None,None,None,0.0,0.0,None,None,True
+internet fraud,0,None,None,None,0.0,0.0,None,None,True
+spamming,3,None,None,None,0.0,0.0,None,None,True
+data mining,334,None,None,None,0.0,0.0,None,None,True
+process mining,15,None,None,None,0.0,0.0,None,None,True
+cybercrime,11,None,None,None,0.0,0.0,None,None,True
+spamming,3,None,None,None,0.0,0.0,None,None,True
+machine learning,497,None,None,None,0.0,0.0,None,None,True
+bayesian networks,141,None,None,None,0.0,0.0,None,None,True
+character encoding,0,None,None,None,0.0,0.0,None,None,True
+unicode,6,None,None,None,0.0,0.0,None,None,True
+software engineering,151,None,None,None,0.0,0.0,None,None,True
+web development,0,None,None,None,0.0,0.0,None,None,True
+network service,2,None,None,None,0.0,0.0,None,None,True
+push technology,0,None,None,None,0.0,0.0,None,None,True
+programming language implementation,0,None,None,None,0.0,0.0,None,None,True
+compilers,23,None,None,None,0.0,0.0,None,None,True
+embedded systems,91,None,None,None,0.0,0.0,None,None,True
+smart devices,21,None,None,None,0.0,0.0,None,None,True
+cascading style sheets,0,None,None,None,0.0,0.0,None,None,True
+adaptive web design,0,None,None,None,0.0,0.0,None,None,True
+network performance,16,None,None,None,0.0,0.0,None,None,True
+queueing theory,8,None,None,None,0.0,0.0,None,None,True
+graph theory,48,None,None,None,0.0,0.0,None,None,True
+geometric graph theory,0,None,None,None,0.0,0.0,None,None,True
+tomography,48,None,None,None,0.0,0.0,None,None,True
+optical coherence tomography,0,None,None,None,0.0,0.0,None,None,True
+information theory,70,None,None,None,0.0,0.0,None,None,True
+algorithmic information theory,0,None,None,None,0.0,0.0,None,None,True
+audio electronics,0,None,None,None,0.0,0.0,None,None,True
+synchronization,214,None,None,None,0.0,0.0,None,None,True
+home automation,4,None,None,None,0.0,0.0,None,None,True
+temperature control,9,None,None,None,0.0,0.0,None,None,True
+mobile phones,82,None,None,None,0.0,0.0,None,None,True
+cat phone,0,None,None,None,0.0,0.0,None,None,True
+mathematical optimization,4,None,None,None,0.0,0.0,None,None,True
+stochastic optimization,56,None,None,None,0.0,0.0,None,None,True
+declarative programming,4,None,None,None,0.0,0.0,None,None,True
+functional programming,33,None,None,None,0.0,0.0,None,None,True
+theory of computation,0,None,None,None,0.0,0.0,None,None,True
+algorithmic information theory,0,None,None,None,0.0,0.0,None,None,True
+prisons,0,None,None,None,0.0,0.0,None,None,True
+prison healthcare,0,None,None,None,0.0,0.0,None,None,True
+instant messaging,12,None,None,None,0.0,0.0,None,None,True
+xmpp,1,None,None,None,0.0,0.0,None,None,True
+data erasure,0,None,None,None,0.0,0.0,None,None,True
+file deletion,0,None,None,None,0.0,0.0,None,None,True
+scientific classification,0,None,None,None,0.0,0.0,None,None,True
+morphology,18,None,None,None,0.0,0.0,None,None,True
+data security,24,None,None,None,0.0,0.0,None,None,True
+data erasure,0,None,None,None,0.0,0.0,None,None,True
+theoretical computer science,0,None,None,None,0.0,0.0,None,None,True
+pseudorandomness,2,None,None,None,0.0,0.0,None,None,True
+coding theory,8,None,None,None,0.0,0.0,None,None,True
+data differencing,0,None,None,None,0.0,0.0,None,None,True
+computer access control,0,None,None,None,0.0,0.0,None,None,True
+authentication,108,None,None,None,0.0,0.0,None,None,True
+linux,23,None,None,None,0.0,0.0,None,None,True
+ubuntu,0,None,None,None,0.0,0.0,None,None,True
+cybercrime,11,None,None,None,0.0,0.0,None,None,True
+internet fraud,0,None,None,None,0.0,0.0,None,None,True
+natural language processing,0,None,None,None,0.0,0.0,None,None,True
+machine translation,50,None,None,None,0.0,0.0,None,None,True
+algorithms,1165,None,None,None,0.0,0.0,None,None,True
+digital signal processing,0,None,None,None,0.0,0.0,None,None,True
+modal logic,53,None,None,None,0.0,0.0,None,None,True
+provability logic,3,None,None,None,0.0,0.0,None,None,True
+denotational semantics,23,None,None,None,0.0,0.0,None,None,True
+domain theory,10,None,None,None,0.0,0.0,None,None,True
+maps,82,None,None,None,0.0,0.0,None,None,True
+indoor positioning system,0,None,None,None,0.0,0.0,None,None,True
+video game development,0,None,None,None,0.0,0.0,None,None,True
+video game design,0,None,None,None,0.0,0.0,None,None,True
+declarative programming,4,None,None,None,0.0,0.0,None,None,True
+logic programming,110,None,None,None,0.0,0.0,None,None,True
+computational physics,7,None,None,None,0.0,0.0,None,None,True
+molecular dynamics,123,None,None,None,0.0,0.0,None,None,True
+video game design,0,None,None,None,0.0,0.0,None,None,True
+game accessibility,1,None,None,None,0.0,0.0,None,None,True
+programming language theory,0,None,None,None,0.0,0.0,None,None,True
+program transformation,17,None,None,None,0.0,0.0,None,None,True
+data modeling,5,None,None,None,0.0,0.0,None,None,True
+relational algebra,10,None,None,None,0.0,0.0,None,None,True
+artificial intelligence,330,None,None,None,0.0,0.0,None,None,True
+logic programming,110,None,None,None,0.0,0.0,None,None,True
+demoscene,0,None,None,None,0.0,0.0,None,None,True
+demos,2,None,None,None,0.0,0.0,None,None,True
+convex analysis,8,None,None,None,0.0,0.0,None,None,True
+convex optimization,68,None,None,None,0.0,0.0,None,None,True
+mathematical optimization,4,None,None,None,0.0,0.0,None,None,True
+pareto efficiency,3,None,None,None,0.0,0.0,None,None,True
+personal computers,10,None,None,None,0.0,0.0,None,None,True
+tablet computers,1,None,None,None,0.0,0.0,None,None,True
+software engineering,151,None,None,None,0.0,0.0,None,None,True
+computer programming,8,None,None,None,0.0,0.0,None,None,True
+geolocation,13,None,None,None,0.0,0.0,None,None,True
+indoor positioning system,0,None,None,None,0.0,0.0,None,None,True
+cloud computing,592,None,None,None,0.0,0.0,None,None,True
+cloud storage,74,None,None,None,0.0,0.0,None,None,True
+biometrics,64,None,None,None,0.0,0.0,None,None,True
+anthropometry,3,None,None,None,0.0,0.0,None,None,True
+network topology,23,None,None,None,0.0,0.0,None,None,True
+mesh networking,0,None,None,None,0.0,0.0,None,None,True
+cybercrime,11,None,None,None,0.0,0.0,None,None,True
+internet vigilantism,0,None,None,None,0.0,0.0,None,None,True
+identification,679,None,None,None,0.0,0.0,None,None,True
+animal identification,0,None,None,None,0.0,0.0,None,None,True
+reliability engineering,6,None,None,None,0.0,0.0,None,None,True
+environmental testing,0,None,None,None,0.0,0.0,None,None,True
+robotics,138,None,None,None,0.0,0.0,None,None,True
+robots,236,None,None,None,0.0,0.0,None,None,True
+computer security,13,None,None,None,0.0,0.0,None,None,True
+cryptography,95,None,None,None,0.0,0.0,None,None,True
+combinatorial optimization,69,None,None,None,0.0,0.0,None,None,True
+travelling salesman problem,0,None,None,None,0.0,0.0,None,None,True
+online services,9,None,None,None,0.0,0.0,None,None,True
+internet radio,0,None,None,None,0.0,0.0,None,None,True
+cryptocurrencies,6,None,None,None,0.0,0.0,None,None,True
+bitcoin,23,None,None,None,0.0,0.0,None,None,True
+computer graphics,16,None,None,None,0.0,0.0,None,None,True
+image processing,193,None,None,None,0.0,0.0,None,None,True
+computational linguistics,16,None,None,None,0.0,0.0,None,None,True
+natural language generation,0,None,None,None,0.0,0.0,None,None,True
+digital rights management,0,None,None,None,0.0,0.0,None,None,True
+hardware restrictions,0,None,None,None,0.0,0.0,None,None,True
+cheminformatics,1,None,None,None,0.0,0.0,None,None,True
+combinatorial chemistry,0,None,None,None,0.0,0.0,None,None,True
+internet of things,0,None,None,None,0.0,0.0,None,None,True
+machine to machine,0,None,None,None,0.0,0.0,None,None,True
+numerical analysis,94,None,None,None,0.0,0.0,None,None,True
+finite differences,9,None,None,None,0.0,0.0,None,None,True
+type theory,25,None,None,None,0.0,0.0,None,None,True
+type inference,12,None,None,None,0.0,0.0,None,None,True
+optical spectrum,0,None,None,None,0.0,0.0,None,None,True
+shades of green,0,None,None,None,0.0,0.0,None,None,True
+computer graphics,16,None,None,None,0.0,0.0,None,None,True
+stereoscopy,1,None,None,None,0.0,0.0,None,None,True
+polyhedra,23,None,None,None,0.0,0.0,None,None,True
+tessellation,2,None,None,None,0.0,0.0,None,None,True
+tracking,172,None,None,None,0.0,0.0,None,None,True
+motion capture,5,None,None,None,0.0,0.0,None,None,True
+biometrics,64,None,None,None,0.0,0.0,None,None,True
+graphology,0,None,None,None,0.0,0.0,None,None,True
+computational science,8,None,None,None,0.0,0.0,None,None,True
+computational mathematics,4,None,None,None,0.0,0.0,None,None,True
+geolocation,13,None,None,None,0.0,0.0,None,None,True
+geosocial networking,0,None,None,None,0.0,0.0,None,None,True
+holography,4,None,None,None,0.0,0.0,None,None,True
+holography in fiction,0,None,None,None,0.0,0.0,None,None,True
+embedded systems,91,None,None,None,0.0,0.0,None,None,True
+avionics,2,None,None,None,0.0,0.0,None,None,True
+wikis,13,None,None,None,0.0,0.0,None,None,True
+wiki software,0,None,None,None,0.0,0.0,None,None,True
+theory of computation,0,None,None,None,0.0,0.0,None,None,True
+limits of computation,0,None,None,None,0.0,0.0,None,None,True
+emergence,71,None,None,None,0.0,0.0,None,None,True
+systems science,4,None,None,None,0.0,0.0,None,None,True
+smartphones,145,None,None,None,0.0,0.0,None,None,True
+blackberry,0,None,None,None,0.0,0.0,None,None,True
+character encoding,0,None,None,None,0.0,0.0,None,None,True
+collation,0,None,None,None,0.0,0.0,None,None,True
+omics,0,None,None,None,0.0,0.0,None,None,True
+genomics,12,None,None,None,0.0,0.0,None,None,True
+computer security,13,None,None,None,0.0,0.0,None,None,True
+computer security software,0,None,None,None,0.0,0.0,None,None,True
+cybercrime,11,None,None,None,0.0,0.0,None,None,True
+digital forensics,44,None,None,None,0.0,0.0,None,None,True
+surveying,0,None,None,None,0.0,0.0,None,None,True
+topography,11,None,None,None,0.0,0.0,None,None,True
+information theory,70,None,None,None,0.0,0.0,None,None,True
+quantum computing,16,None,None,None,0.0,0.0,None,None,True
+program analysis,8,None,None,None,0.0,0.0,None,None,True
+static program analysis,0,None,None,None,0.0,0.0,None,None,True
+graph theory,48,None,None,None,0.0,0.0,None,None,True
+extremal graph theory,0,None,None,None,0.0,0.0,None,None,True
+systems thinking,9,None,None,None,0.0,0.0,None,None,True
+futurology,0,None,None,None,0.0,0.0,None,None,True
+software design,24,None,None,None,0.0,0.0,None,None,True
+data modeling,5,None,None,None,0.0,0.0,None,None,True
+computational mathematics,4,None,None,None,0.0,0.0,None,None,True
+computational geometry,11,None,None,None,0.0,0.0,None,None,True
+data modeling,5,None,None,None,0.0,0.0,None,None,True
+building information modeling,0,None,None,None,0.0,0.0,None,None,True
+computability theory,1,None,None,None,0.0,0.0,None,None,True
+recursion,32,None,None,None,0.0,0.0,None,None,True
+computer networking,3,None,None,None,0.0,0.0,None,None,True
+networking hardware,0,None,None,None,0.0,0.0,None,None,True
+electrophysiology,2,None,None,None,0.0,0.0,None,None,True
+cardiac electrophysiology,6,None,None,None,0.0,0.0,None,None,True
+computer data storage,0,None,None,None,0.0,0.0,None,None,True
+backup,10,None,None,None,0.0,0.0,None,None,True
+hydrography,0,None,None,None,0.0,0.0,None,None,True
+limnology,0,None,None,None,0.0,0.0,None,None,True
+computer security,13,None,None,None,0.0,0.0,None,None,True
+data security,24,None,None,None,0.0,0.0,None,None,True
+algorithms,1165,None,None,None,0.0,0.0,None,None,True
+evolutionary algorithms,229,None,None,None,0.0,0.0,None,None,True
+emergence,71,None,None,None,0.0,0.0,None,None,True
+reductionism,7,None,None,None,0.0,0.0,None,None,True
+lexicography,4,None,None,None,0.0,0.0,None,None,True
+dictionaries,24,None,None,None,0.0,0.0,None,None,True
+cybercrime,11,None,None,None,0.0,0.0,None,None,True
+online child abuse,0,None,None,None,0.0,0.0,None,None,True
+networking hardware,0,None,None,None,0.0,0.0,None,None,True
+fiber optics,3,None,None,None,0.0,0.0,None,None,True
+artificial intelligence,330,None,None,None,0.0,0.0,None,None,True
+evolutionary computation,75,None,None,None,0.0,0.0,None,None,True
+classes of computers,0,None,None,None,0.0,0.0,None,None,True
+smart devices,21,None,None,None,0.0,0.0,None,None,True
+middleware,62,None,None,None,0.0,0.0,None,None,True
+remote procedure call,0,None,None,None,0.0,0.0,None,None,True
+computational science,8,None,None,None,0.0,0.0,None,None,True
+computational physics,7,None,None,None,0.0,0.0,None,None,True
+embedded systems,91,None,None,None,0.0,0.0,None,None,True
+firmware,4,None,None,None,0.0,0.0,None,None,True
+computer vision,125,None,None,None,0.0,0.0,None,None,True
+machine vision,46,None,None,None,0.0,0.0,None,None,True
+medical imaging,33,None,None,None,0.0,0.0,None,None,True
+electrophysiology,2,None,None,None,0.0,0.0,None,None,True
+computer access control,0,None,None,None,0.0,0.0,None,None,True
+digital rights management,0,None,None,None,0.0,0.0,None,None,True
+internet of things,0,None,None,None,0.0,0.0,None,None,True
+smart tv,3,None,None,None,0.0,0.0,None,None,True
+computer graphics,16,None,None,None,0.0,0.0,None,None,True
+procedural generation,2,None,None,None,0.0,0.0,None,None,True
+automattic,0,None,None,None,0.0,0.0,None,None,True
+wordpress,1,None,None,None,0.0,0.0,None,None,True
+machine learning,497,None,None,None,0.0,0.0,None,None,True
+computational learning theory,0,None,None,None,0.0,0.0,None,None,True
+medical software,1,None,None,None,0.0,0.0,None,None,True
+medical simulation,1,None,None,None,0.0,0.0,None,None,True
+reductionism,7,None,None,None,0.0,0.0,None,None,True
+teleology,2,None,None,None,0.0,0.0,None,None,True
+systems thinking,9,None,None,None,0.0,0.0,None,None,True
+technology assessment,3,None,None,None,0.0,0.0,None,None,True
+medical imaging,33,None,None,None,0.0,0.0,None,None,True
+positron emission tomography,0,None,None,None,0.0,0.0,None,None,True
+computer security,13,None,None,None,0.0,0.0,None,None,True
+transport layer security,0,None,None,None,0.0,0.0,None,None,True
+neurotechnology,0,None,None,None,0.0,0.0,None,None,True
+neurostimulation,1,None,None,None,0.0,0.0,None,None,True
+recursion,32,None,None,None,0.0,0.0,None,None,True
+mathematical induction,3,None,None,None,0.0,0.0,None,None,True
+quantum information science,0,None,None,None,0.0,0.0,None,None,True
+quantum programming,3,None,None,None,0.0,0.0,None,None,True
+functional groups,2,None,None,None,0.0,0.0,None,None,True
+amines,1,None,None,None,0.0,0.0,None,None,True
+operating systems,30,None,None,None,0.0,0.0,None,None,True
+unix,16,None,None,None,0.0,0.0,None,None,True
+formal methods,65,None,None,None,0.0,0.0,None,None,True
+model checking,118,None,None,None,0.0,0.0,None,None,True
+software development,101,None,None,None,0.0,0.0,None,None,True
+internationalization and localization,0,None,None,None,0.0,0.0,None,None,True
+web design,15,None,None,None,0.0,0.0,None,None,True
+cascading style sheets,0,None,None,None,0.0,0.0,None,None,True
+algorithms,1165,None,None,None,0.0,0.0,None,None,True
+computer algebra,69,None,None,None,0.0,0.0,None,None,True
+avionics,2,None,None,None,0.0,0.0,None,None,True
+radio direction finding,0,None,None,None,0.0,0.0,None,None,True
+ambient intelligence,70,None,None,None,0.0,0.0,None,None,True
+internet of things,0,None,None,None,0.0,0.0,None,None,True
+version control,4,None,None,None,0.0,0.0,None,None,True
+github,14,None,None,None,0.0,0.0,None,None,True
+radiology,1,None,None,None,0.0,0.0,None,None,True
+nuclear medicine,6,None,None,None,0.0,0.0,None,None,True
+access control,126,None,None,None,0.0,0.0,None,None,True
+authentication,108,None,None,None,0.0,0.0,None,None,True
+laptops,4,None,None,None,0.0,0.0,None,None,True
+dell laptops,0,None,None,None,0.0,0.0,None,None,True
+computer security,13,None,None,None,0.0,0.0,None,None,True
+access control,126,None,None,None,0.0,0.0,None,None,True
+data structures,37,None,None,None,0.0,0.0,None,None,True
+succinct data structure,0,None,None,None,0.0,0.0,None,None,True
+reductionism,7,None,None,None,0.0,0.0,None,None,True
+monism,1,None,None,None,0.0,0.0,None,None,True
+computational linguistics,16,None,None,None,0.0,0.0,None,None,True
+speech recognition,55,None,None,None,0.0,0.0,None,None,True
+ubiquitous computing,63,None,None,None,0.0,0.0,None,None,True
+ambient intelligence,70,None,None,None,0.0,0.0,None,None,True
+online services,9,None,None,None,0.0,0.0,None,None,True
+online journalism,1,None,None,None,0.0,0.0,None,None,True
+smartphones,145,None,None,None,0.0,0.0,None,None,True
+cat phone,0,None,None,None,0.0,0.0,None,None,True
+computer vision,125,None,None,None,0.0,0.0,None,None,True
+geometry processing,0,None,None,None,0.0,0.0,None,None,True
+javascript,22,None,None,None,0.0,0.0,None,None,True
+json,0,None,None,None,0.0,0.0,None,None,True
+software development,101,None,None,None,0.0,0.0,None,None,True
+software documentation,1,None,None,None,0.0,0.0,None,None,True
+web services,266,None,None,None,0.0,0.0,None,None,True
+enterprise application integration,0,None,None,None,0.0,0.0,None,None,True
+abstract data type,0,None,None,None,0.0,0.0,None,None,True
+abstract method,0,None,None,None,0.0,0.0,None,None,True
+abstraction,74,None,None,None,0.0,0.0,None,None,True
+agent architecture,8,None,None,None,0.0,0.0,None,None,True
+agent-based model,6,None,None,None,0.0,0.0,None,None,True
+aggregate function,0,None,None,None,0.0,0.0,None,None,True
+agile software development,0,None,None,None,0.0,0.0,None,None,True
+algorithm,1521,None,None,None,0.0,0.0,None,None,True
+algorithm design,16,None,None,None,0.0,0.0,None,None,True
+algorithmic efficiency,0,None,None,None,0.0,0.0,None,None,True
+ascii,0,None,None,None,0.0,0.0,None,None,True
+application programming interface,0,None,None,None,0.0,0.0,None,None,True
+application software,3,None,None,None,0.0,0.0,None,None,True
+array data structure,0,None,None,None,0.0,0.0,None,None,True
+artifact,98,None,None,None,0.0,0.0,None,None,True
+artificial intelligence,330,None,None,None,0.0,0.0,None,None,True
+ascii,0,None,None,None,0.0,0.0,None,None,True
+assertion,18,None,None,None,0.0,0.0,None,None,True
+associative array,0,None,None,None,0.0,0.0,None,None,True
+automata theory,10,None,None,None,0.0,0.0,None,None,True
+automated reasoning,19,None,None,None,0.0,0.0,None,None,True
+bandwidth,65,None,None,None,0.0,0.0,None,None,True
+bayesian programming,0,None,None,None,0.0,0.0,None,None,True
+benchmark,22,None,None,None,0.0,0.0,None,None,True
+best,126,None,None,None,0.0,0.0,None,None, worst and average case
+big data,476,None,None,None,0.0,0.0,None,None,True
+big o notation,0,None,None,None,0.0,0.0,None,None,True
+binary number,0,None,None,None,0.0,0.0,None,None,True
+binary search algorithm,0,None,None,None,0.0,0.0,None,None,True
+binary tree,4,None,None,None,0.0,0.0,None,None,True
+bioinformatics,76,None,None,None,0.0,0.0,None,None,True
+bit,23,None,None,None,0.0,0.0,None,None,True
+bit rate,1,None,None,None,0.0,0.0,None,None,True
+blacklist,0,None,None,None,0.0,0.0,None,None,True
+bmp file format,0,None,None,None,0.0,0.0,None,None,True
+boolean data type,0,None,None,None,0.0,0.0,None,None,True
+boolean expression,1,None,None,None,0.0,0.0,None,None,True
+boolean algebra,7,None,None,None,0.0,0.0,None,None,True
+byte,0,None,None,None,0.0,0.0,None,None,True
+booting,0,None,None,None,0.0,0.0,None,None,True
+callback,0,None,None,None,0.0,0.0,None,None,True
+central processing unit,0,None,None,None,0.0,0.0,None,None,True
+character,14,None,None,None,0.0,0.0,None,None,True
+cipher,25,None,None,None,0.0,0.0,None,None,True
+class,49,None,None,None,0.0,0.0,None,None,True
+class-based programming,0,None,None,None,0.0,0.0,None,None,True
+class-orientation,0,None,None,None,0.0,0.0,None,None,True
+client,7,None,None,None,0.0,0.0,None,None,True
+cleanroom software engineering,0,None,None,None,0.0,0.0,None,None,True
+closure,25,None,None,None,0.0,0.0,None,None,True
+cloud computing,592,None,None,None,0.0,0.0,None,None,True
+code library,0,None,None,None,0.0,0.0,None,None,True
+coding,72,None,None,None,0.0,0.0,None,None,True
+coding theory,8,None,None,None,0.0,0.0,None,None,True
+cognitive science,65,None,None,None,0.0,0.0,None,None,True
+comma-separated values,0,None,None,None,0.0,0.0,None,None,True
+compiler,21,None,None,None,0.0,0.0,None,None,True
+compiler theory,0,None,None,None,0.0,0.0,None,None,True
+computability theory,1,None,None,None,0.0,0.0,None,None,True
+computation,408,None,None,None,0.0,0.0,None,None,True
+computational biology,23,None,None,None,0.0,0.0,None,None,True
+computational chemistry,9,None,None,None,0.0,0.0,None,None,True
+computational complexity theory,0,None,None,None,0.0,0.0,None,None,True
+computational model,18,None,None,None,0.0,0.0,None,None,True
+computational neuroscience,17,None,None,None,0.0,0.0,None,None,True
+computational physics,7,None,None,None,0.0,0.0,None,None,True
+computational science,8,None,None,None,0.0,0.0,None,None,True
+computational steering,2,None,None,None,0.0,0.0,None,None,True
+computer,275,None,None,None,0.0,0.0,None,None,True
+computer architecture,14,None,None,None,0.0,0.0,None,None,True
+computer data storage,0,None,None,None,0.0,0.0,None,None,True
+computer ethics,4,None,None,None,0.0,0.0,None,None,True
+computer graphics,16,None,None,None,0.0,0.0,None,None,True
+computer network,4,None,None,None,0.0,0.0,None,None,True
+computer programming,8,None,None,None,0.0,0.0,None,None,True
+computer science,115,None,None,None,0.0,0.0,None,None,True
+computer scientist,1,None,None,None,0.0,0.0,None,None,True
+computer security,13,None,None,None,0.0,0.0,None,None,True
+computer vision,125,None,None,None,0.0,0.0,None,None,True
+concatenation,12,None,None,None,0.0,0.0,None,None,True
+concurrency,58,None,None,None,0.0,0.0,None,None,True
+conditional,13,None,None,None,0.0,0.0,None,None,True
+continuation-passing style,1,None,None,None,0.0,0.0,None,None,True
+control flow,6,None,None,None,0.0,0.0,None,None,True
+creative commons,2,None,None,None,0.0,0.0,None,None,True
+cryptography,95,None,None,None,0.0,0.0,None,None,True
+csv,0,None,None,None,0.0,0.0,None,None,True
+cyberbullying,4,None,None,None,0.0,0.0,None,None,True
+cyberspace,53,None,None,None,0.0,0.0,None,None,True
+data center,6,None,None,None,0.0,0.0,None,None,True
+database,129,None,None,None,0.0,0.0,None,None,True
+data mining,334,None,None,None,0.0,0.0,None,None,True
+data science,30,None,None,None,0.0,0.0,None,None,True
+data structure,1,None,None,None,0.0,0.0,None,None,True
+data type,2,None,None,None,0.0,0.0,None,None,True
+debugging,15,None,None,None,0.0,0.0,None,None,True
+declaration,3,None,None,None,0.0,0.0,None,None,True
+digital data,4,None,None,None,0.0,0.0,None,None,True
+digital signal processing,0,None,None,None,0.0,0.0,None,None,True
+discrete event simulation,0,None,None,None,0.0,0.0,None,None,True
+disk storage,1,None,None,None,0.0,0.0,None,None,True
+distributed computing,34,None,None,None,0.0,0.0,None,None,True
+divide and conquer algorithm,0,None,None,None,0.0,0.0,None,None,True
+dns,18,None,None,None,0.0,0.0,None,None,True
+documentation,23,None,None,None,0.0,0.0,None,None,True
+domain name system,0,None,None,None,0.0,0.0,None,None,True
+double-precision floating-point format,0,None,None,None,0.0,0.0,None,None,True
+download,0,None,None,None,0.0,0.0,None,None,True
+edge device,1,None,None,None,0.0,0.0,None,None,True
+encryption,94,None,None,None,0.0,0.0,None,None,True
+event,117,None,None,None,0.0,0.0,None,None,True
+event-driven programming,0,None,None,None,0.0,0.0,None,None,True
+evolutionary computing,10,None,None,None,0.0,0.0,None,None,True
+executable,2,None,None,None,0.0,0.0,None,None,True
+exception handling,18,None,None,None,0.0,0.0,None,None,True
+expression,27,None,None,None,0.0,0.0,None,None,True
+fault-tolerant computer system,0,None,None,None,0.0,0.0,None,None,True
+feasibility study,25,None,None,None,0.0,0.0,None,None,True
+filename extension,0,None,None,None,0.0,0.0,None,None,True
+filter (software),0,None,None,None,0.0,0.0,None,None,True
+floating point arithmetic,0,None,None,None,0.0,0.0,None,None,True
+for loop,0,None,None,None,0.0,0.0,None,None,True
+formal methods,65,None,None,None,0.0,0.0,None,None,True
+formal verification,61,None,None,None,0.0,0.0,None,None,True
+functional programming,33,None,None,None,0.0,0.0,None,None,True
+game theory,93,None,None,None,0.0,0.0,None,None,True
+garbage in,0,None,None,None,0.0,0.0,None,None, garbage out
+gif,0,None,None,None,0.0,0.0,None,None,True
+gigabyte,0,None,None,None,0.0,0.0,None,None,True
+global variable,0,None,None,None,0.0,0.0,None,None,True
+graph theory,48,None,None,None,0.0,0.0,None,None,True
+hard problem,0,None,None,None,0.0,0.0,None,None,True
+hash function,9,None,None,None,0.0,0.0,None,None,True
+hash table,4,None,None,None,0.0,0.0,None,None,True
+heap,5,None,None,None,0.0,0.0,None,None,True
+heapsort,3,None,None,None,0.0,0.0,None,None,True
+human-computer interaction,77,None,None,None,0.0,0.0,None,None,True
+ide,1,None,None,None,0.0,0.0,None,None,True
+image processing,193,None,None,None,0.0,0.0,None,None,True
+imperative programming,1,None,None,None,0.0,0.0,None,None,True
+incremental build model,0,None,None,None,0.0,0.0,None,None,True
+information space analysis,0,None,None,None,0.0,0.0,None,None,True
+information visualization,31,None,None,None,0.0,0.0,None,None,True
+inheritance,29,None,None,None,0.0,0.0,None,None,True
+input/output,6,None,None,None,0.0,0.0,None,None,True
+insertion sort,1,None,None,None,0.0,0.0,None,None,True
+instruction cycle,0,None,None,None,0.0,0.0,None,None,True
+integer,36,None,None,None,0.0,0.0,None,None,True
+integrated development environment,0,None,None,None,0.0,0.0,None,None,True
+integration testing,1,None,None,None,0.0,0.0,None,None,True
+intellectual property,27,None,None,None,0.0,0.0,None,None,True
+intelligent agent,3,None,None,None,0.0,0.0,None,None,True
+interface,74,None,None,None,0.0,0.0,None,None,True
+internal documentation,0,None,None,None,0.0,0.0,None,None,True
+internet,878,None,None,None,0.0,0.0,None,None,True
+internet bot,0,None,None,None,0.0,0.0,None,None,True
+interpreter,1,None,None,None,0.0,0.0,None,None,True
+invariant,7,None,None,None,0.0,0.0,None,None,True
+iteration,23,None,None,None,0.0,0.0,None,None,True
+java,207,None,None,None,0.0,0.0,None,None,True
+kernel,105,None,None,None,0.0,0.0,None,None,True
+library (computing),0,None,None,None,0.0,0.0,None,None,True
+linear search,1,None,None,None,0.0,0.0,None,None,True
+linked list,0,None,None,None,0.0,0.0,None,None,True
+linker,1,None,None,None,0.0,0.0,None,None,True
+list,91,None,None,None,0.0,0.0,None,None,True
+loader,0,None,None,None,0.0,0.0,None,None,True
+logic error,0,None,None,None,0.0,0.0,None,None,True
+logic programming,110,None,None,None,0.0,0.0,None,None,True
+machine learning,497,None,None,None,0.0,0.0,None,None,True
+machine vision,46,None,None,None,0.0,0.0,None,None,True
+mathematical logic,10,None,None,None,0.0,0.0,None,None,True
+matrix,126,None,None,None,0.0,0.0,None,None,True
+memory,328,None,None,None,0.0,0.0,None,None,True
+merge sort,0,None,None,None,0.0,0.0,None,None,True
+method,1087,None,None,None,0.0,0.0,None,None,True
+methodology,200,None,None,None,0.0,0.0,None,None,True
+modem,0,None,None,None,0.0,0.0,None,None,True
+natural language processing,0,None,None,None,0.0,0.0,None,None,True
+number theory,8,None,None,None,0.0,0.0,None,None,True
+numerical analysis,94,None,None,None,0.0,0.0,None,None,True
+numerical method,22,None,None,None,0.0,0.0,None,None,True
+object,79,None,None,None,0.0,0.0,None,None,True
+object code,1,None,None,None,0.0,0.0,None,None,True
+object-oriented analysis and design,0,None,None,None,0.0,0.0,None,None,True
+object oriented programming,0,None,None,None,0.0,0.0,None,None,True
+open-source software,7,None,None,None,0.0,0.0,None,None,True
+operating system,5,None,None,None,0.0,0.0,None,None,True
+optical fiber,6,None,None,None,0.0,0.0,None,None,True
+pair programming,6,None,None,None,0.0,0.0,None,None,True
+parallel computing,73,None,None,None,0.0,0.0,None,None,True
+parameter,45,None,None,None,0.0,0.0,None,None,True
+peripheral,2,None,None,None,0.0,0.0,None,None,True
+postcondition,0,None,None,None,0.0,0.0,None,None,True
+precondition,1,None,None,None,0.0,0.0,None,None,True
+primary storage,0,None,None,None,0.0,0.0,None,None,True
+primitive data type,0,None,None,None,0.0,0.0,None,None,True
+priority queue,4,None,None,None,0.0,0.0,None,None,True
+procedural programming,0,None,None,None,0.0,0.0,None,None,True
+program lifecycle phase,0,None,None,None,0.0,0.0,None,None,True
+programming language,9,None,None,None,0.0,0.0,None,None,True
+programming language implementation,0,None,None,None,0.0,0.0,None,None,True
+programming language theory,0,None,None,None,0.0,0.0,None,None,True
+prolog,102,None,None,None,0.0,0.0,None,None,True
+python,39,None,None,None,0.0,0.0,None,None,True
+quantum computing,16,None,None,None,0.0,0.0,None,None,True
+queue,38,None,None,None,0.0,0.0,None,None,True
+quicksort,12,None,None,None,0.0,0.0,None,None,True
+r programming language,0,None,None,None,0.0,0.0,None,None,True
+radix,4,None,None,None,0.0,0.0,None,None,True
+recursion,32,None,None,None,0.0,0.0,None,None,True
+reference counting,2,None,None,None,0.0,0.0,None,None,True
+relational database,12,None,None,None,0.0,0.0,None,None,True
+reliability engineering,6,None,None,None,0.0,0.0,None,None,True
+regression testing,8,None,None,None,0.0,0.0,None,None,True
+requirements analysis,13,None,None,None,0.0,0.0,None,None,True
+robotics,138,None,None,None,0.0,0.0,None,None,True
+round-off error,0,None,None,None,0.0,0.0,None,None,True
+router,3,None,None,None,0.0,0.0,None,None,True
+routing table,0,None,None,None,0.0,0.0,None,None,True
+run time,3,None,None,None,0.0,0.0,None,None,True
+run time error,0,None,None,None,0.0,0.0,None,None,True
+search algorithm,10,None,None,None,0.0,0.0,None,None,True
+secondary storage,2,None,None,None,0.0,0.0,None,None,True
+selection sort,0,None,None,None,0.0,0.0,None,None,True
+semantics,236,None,None,None,0.0,0.0,None,None,True
+sequence,68,None,None,None,0.0,0.0,None,None,True
+set,29,None,None,None,0.0,0.0,None,None,True
+soft computing,72,None,None,None,0.0,0.0,None,None,True
+software,470,None,None,None,0.0,0.0,None,None,True
+software agent,3,None,None,None,0.0,0.0,None,None,True
+software construction,0,None,None,None,0.0,0.0,None,None,True
+software deployment,3,None,None,None,0.0,0.0,None,None,True
+software design,24,None,None,None,0.0,0.0,None,None,True
+software development,101,None,None,None,0.0,0.0,None,None,True
+software development process,0,None,None,None,0.0,0.0,None,None,True
+software engineering,151,None,None,None,0.0,0.0,None,None,True
+software maintenance,22,None,None,None,0.0,0.0,None,None,True
+software prototyping,0,None,None,None,0.0,0.0,None,None,True
+software requirements specification,0,None,None,None,0.0,0.0,None,None,True
+software testing,34,None,None,None,0.0,0.0,None,None,True
+sorting algorithm,1,None,None,None,0.0,0.0,None,None,True
+source code,29,None,None,None,0.0,0.0,None,None,True
+spiral model,0,None,None,None,0.0,0.0,None,None,True
+stack,7,None,None,None,0.0,0.0,None,None,True
+storage,80,None,None,None,0.0,0.0,None,None,True
+string,22,None,None,None,0.0,0.0,None,None,True
+structured storage,0,None,None,None,0.0,0.0,None,None,True
+subroutine,0,None,None,None,0.0,0.0,None,None,True
+symbolic computation,49,None,None,None,0.0,0.0,None,None,True
+syntax,30,None,None,None,0.0,0.0,None,None,True
+syntax error,0,None,None,None,0.0,0.0,None,None,True
+system console,0,None,None,None,0.0,0.0,None,None,True
+technical documentation,2,None,None,None,0.0,0.0,None,None,True
+third-generation programming language,0,None,None,None,0.0,0.0,None,None,True
+top-down and bottom-up design,0,None,None,None,0.0,0.0,None,None,True
+tree,145,None,None,None,0.0,0.0,None,None,True
+type theory,25,None,None,None,0.0,0.0,None,None,True
+upload,0,None,None,None,0.0,0.0,None,None,True
+uniform resource locator,0,None,None,None,0.0,0.0,None,None,True
+url,2,None,None,None,0.0,0.0,None,None,True
+user agent,0,None,None,None,0.0,0.0,None,None,True
+user interface,14,None,None,None,0.0,0.0,None,None,True
+user interface design,0,None,None,None,0.0,0.0,None,None,True
+variable,28,None,None,None,0.0,0.0,None,None,True
+virtual machine,16,None,None,None,0.0,0.0,None,None,True
+v-model,0,None,None,None,0.0,0.0,None,None,True
+wav,0,None,None,None,0.0,0.0,None,None,True
+waterfall model,0,None,None,None,0.0,0.0,None,None,True
+waveform audio file format,0,None,None,None,0.0,0.0,None,None,True
+web crawler,1,None,None,None,0.0,0.0,None,None,True
+wi-fi,29,None,None,None,0.0,0.0,None,None,True
+xhtm,0,None,None,None,0.0,0.0,None,None,True

@@ -30,21 +30,9 @@ def prefetch_frequencies(phrases):
 
 
 def get_frequency(phrase, frequencies):
-    noun_frequencies = {}
-    with open('data/stanford-core-nlp/dblp_titles_noun_phrases.txt', 'r') as f:
-        line = f.readline()[:-1].strip().lower()
-        while line:
-            if line in noun_frequencies:
-                noun_frequencies[line] += 1
-            else:
-                noun_frequencies[line] = 1
-            line = f.readline()[:-1].strip().lower()
-        f.close()
-    with open('data/noun_phrase_frequencies.csv', 'w') as f:
-        f.write('phrase,frequency\n')
-        for key in noun_frequencies.keys():
-            f.write(key + ',' + str(noun_frequencies[key]) + '\n')
-        f.close()
+    if phrase in frequencies:
+        return frequencies[phrase]
+    return 0
 
 
 def get_concordance_score(phrase):
@@ -102,7 +90,7 @@ def build_data_row(phrase, features, label):
     row_items = [phrase]
     row_items.extend(features)
     row_items.append(label)
-    return ','.join(row_items) + '\n'
+    return ','.join([str(row_item) for row_item in row_items]) + '\n'
 
 
 def build_dataset():
