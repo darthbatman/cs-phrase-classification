@@ -123,7 +123,10 @@ def get_suggested_queries(phrase):
     url = 'http://suggestqueries.google.com/complete/search?client=firefox&q='
     formatted_query = phrase.replace(' ', '+')
     res = requests.get(url + formatted_query)
-    return res.text.split('[')[2][:-2].replace('"', '').split(',')
+    try:
+        return res.text.split('[')[2][:-2].replace('"', '').split(',')
+    except Exception:
+        return []
 
 
 def prefetch_suggested_queries(phrases):
@@ -191,9 +194,13 @@ def get_phrase_features(phrase, frequencies, concordance_scores,
     popularity = 0.0
     # TODO: get purity
     purity = 0.0
-    suggested_query_score = get_suggested_query_score(phrase,
-                                                      suggested_queries)
-    cs_context = get_cs_context(phrase, suggested_queries)
+    # TODO: get suggested_query_score
+    suggested_query_score = 0.0
+    # TODO: get cs_context
+    cs_context = []
+    # suggested_query_score = get_suggested_query_score(phrase,
+    #                                                   suggested_queries)
+    # cs_context = get_cs_context(phrase, suggested_queries)
     return [frequency, concordance_score, uniqueness, wiki_score,
             popularity, purity, suggested_query_score, cs_context]
 
@@ -220,8 +227,9 @@ def build_dataset():
     concordance_scores = prefetch_concordance_scores(phrases)
     print('Prefetching uniquenesses.')
     uniquenesses = prefetch_uniquenesses(phrases)
-    print('Prefetching suggested_queries.')
-    suggested_queries = prefetch_suggested_queries(phrases)
+    # TODO: get suggested queries
+    # print('Prefetching suggested queries.')
+    # suggested_queries = prefetch_suggested_queries(phrases)
 
     with open('data/dataset.csv', 'w') as f:
         features = ['frequency', 'concordance_score', 'uniqueness',
