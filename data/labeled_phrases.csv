@@ -1,0 +1,2908 @@
+phrase,label
+unlabeled data,False
+congruential generator,True
+human-robot interaction,True
+role-based access,True
+socket layer,True
+dimensionality reduction,True
+data-flow analysis,False
+botnet detection,True
+floating point,False
+semistructured data,False
+machine learning,True
+reinforcement learning,True
+case-based reasoning,False
+multiagent systems,True
+user-centered design,False
+interprocedural analysis,False
+operating systems,True
+unsupervised learning,True
+triangular mesh,True
+signal processing,True
+multi-agent systems,True
+artificial intelligence,True
+triangular meshes,True
+access control,True
+biometric systems,False
+software development,True
+satisfiability problems,True
+receptive fields,False
+discrete-event simulation,False
+pseudo-random number,True
+minimization problem,False
+security requirements,False
+side-channel attacks,False
+supervised learning,True
+discrete-event systems,False
+inclusive design,False
+exploiting parallelism,False
+tacit knowledge,False
+source code,True
+face recognition,True
+fine-grain parallelism,False
+granular computing,False
+knowledge-based systems,False
+deep learning,True
+elliptic curve,False
+automata theory,False
+training data,True
+software security,True
+network classifiers,False
+logarithm problem,False
+software requirements,True
+requirements engineering,False
+source software,False
+expert systems,False
+language model,True
+optimization problem,False
+image processing,True
+public key,True
+biometric technologies,False
+stopping rules,False
+object-oriented software,False
+text summarization,True
+secret key,False
+user requirements,False
+polygonal meshes,False
+security model,False
+integer programming,False
+polynomial time,True
+recursively enumerable,False
+software engineering,True
+visual programming,False
+enterprise applications,True
+injection attacks,False
+secured connections,False
+reconfigurable computing,True
+support vector,False
+computer graphics,True
+autonomic computing,False
+ad-hoc networks,False
+application development,True
+software testing,True
+simulated annealing,False
+software package,True
+mandatory access,False
+combinatorial optimization,True
+finite state,False
+range images,False
+user interfaces,True
+instant messaging,False
+geographic information,False
+functional programming,True
+training samples,True
+high-dimensional data,True
+parallel computing,True
+software tools,True
+embedded systems,True
+mobile games,False
+search space,False
+search algorithm,True
+logic programming,True
+stereo vision,True
+performance analysis,False
+ubiquitous computing,False
+generative model,True
+wearable computing,False
+learning algorithm,False
+computer vision,True
+number generator,False
+key infrastructure,False
+combinatorial problems,False
+hardware/software co-design,False
+hardware/software codesign,False
+grid computing,True
+speech recognition,True
+computing systems,True
+data structures,True
+shared memory,True
+global optimization,False
+information security,True
+file systems,True
+internet security,True
+user experience,False
+software quality,False
+least squares,False
+software support,False
+algorithmic aspects,False
+markup languages,True
+web access,False
+deductive databases,False
+database systems,True
+micropayment systems,True
+fitness function,True
+dynamic programming,True
+vector machines,False
+agent-based systems,False
+feature extraction,True
+recognition techniques,False
+web services,True
+handheld devices,False
+image annotation,True
+algorithmic techniques,False
+physical security,False
+cryptographic protocols,True
+medical image,False
+concurrent programs,True
+optimization techniques,True
+distributed computing,True
+wavelet denoising,False
+user behavior,False
+machine intelligence,True
+computer science,True
+game interface,False
+end user,False
+virtual machine,True
+privacy protection,False
+software systems,True
+intelligent agents,False
+admission control,False
+mobile applications,True
+secure data,False
+pattern recognition,False
+game development,True
+key exchange,False
+parallel programs,True
+virtual environment,True
+log files,True
+suffix trees,False
+cellular automata,True
+assistive technology,False
+static code,False
+private key,True
+image classifiers,True
+optimization technique,True
+language processing,True
+conversational agents,False
+register allocation,False
+web document,False
+microarray data,False
+key management,True
+encrypted data,True
+security protocols,False
+dynamic program,False
+block ciphers,True
+reachability analysis,False
+security controls,False
+complexity theory,False
+web usage,False
+computational cost,True
+cryptographic schemes,False
+hidden layers,True
+software developers,False
+context-aware security,False
+data mining,True
+optimization algorithms,True
+user interactions,False
+computer games,False
+memory access,True
+decentralized systems,False
+mesh processing,False
+parallel computers,True
+user data,False
+security architecture,True
+distributed memory,True
+multimedia applications,False
+automatic parallelization,False
+knowledge representation,True
+network topologies,True
+spatiotemporal data,True
+practical algorithms,False
+parallel algorithms,True
+information privacy,False
+network computing,False
+wide web,False
+constraint programming,True
+context-aware applications,False
+images using,False
+computer interaction,False
+image data,False
+computer systems,True
+theorem proving,True
+user profiles,False
+maturity model,False
+embedded devices,True
+virtual environments,True
+optimization methods,False
+reverse engineering,True
+machine translation,True
+mobile computers,False
+component analysis,False
+case study,False
+write operations,False
+computational resources,True
+vehicular networks,False
+version 2.0,False
+ambient intelligence,True
+local minima,False
+external memory,False
+mobile computing,False
+scientific computing,True
+agent software,False
+congestion control,False
+networks using,False
+cross site,False
+approximation algorithm,True
+key agreement,False
+scheduling problems,False
+optimization algorithm,True
+computational time,False
+number generators,False
+equality constraints,False
+multi-core systems,False
+formal methods,False
+background subtraction,False
+signal analysis,True
+image classification,True
+feature vectors,True
+game world,False
+translation system,False
+peer-to-peer computing,False
+input data,False
+text processing,True
+computational methods,True
+dictionary attack,True
+sensor networks,True
+computational analysis,True
+information theory,False
+runtime systems,True
+attribute values,False
+approximation algorithms,True
+optimization models,False
+knowledge bases,False
+runtime performance,False
+service attacks,False
+step size,False
+transaction processing,False
+kernel methods,False
+tree structures,True
+software fault,False
+association rules,False
+image analysis,True
+particle swarm,False
+hash functions,True
+software metrics,False
+private information,False
+chosen plaintext,False
+network model,False
+object-oriented analysis,False
+malicious code,True
+model checking,False
+network architecture,True
+computational systems,True
+evolutionary algorithms,True
+transitive closure,False
+active contours,False
+input space,False
+digital images,False
+knowledge base,False
+multimodal biometrics,False
+computational complexity,True
+signature schemes,False
+privacy enhancing,False
+robot path,False
+data access,False
+management support,False
+computational models,True
+security breaches,False
+sensitivity analysis,False
+object recognition,True
+computational efficiency,True
+smart cards,False
+parallel scheduling,False
+autonomous agents,True
+missing data,False
+data storage,True
+ensemble methods,False
+usability engineering,False
+video games,False
+object management,False
+rapid prototyping,False
+decision support,False
+configuration management,False
+activation functions,False
+network function,False
+error detection,False
+terrorist networks,False
+social networks,True
+logic programs,False
+stream processing,True
+recognition performance,False
+genetic algorithms,True
+large networks,False
+log n,False
+risk management,False
+systems development,False
+network approach,False
+artificial data,False
+functional specification,False
+user inputs,False
+domain experts,False
+serious games,False
+image segmentation,True
+image understanding,False
+spam filtering,True
+digital signature,True
+network traffic,True
+information systems,True
+computer worms,True
+conceptual model,False
+network theory,False
+numerical methods,True
+model databases,False
+group key,False
+feature space,False
+proof system,False
+spatial data,False
+channel coding,False
+gesture recognition,True
+extract features,False
+social network,True
+performance modeling,False
+fuzzy logic,True
+large graphs,False
+information gain,False
+usability evaluation,False
+visual interfaces,False
+remote access,False
+hash function,True
+cache management,False
+network models,False
+model optimization,False
+dynamic scheduling,False
+hoc networks,False
+hardware description,False
+integrity checks,False
+sample images,False
+data set,False
+complex systems,False
+image domain,False
+network design,False
+parallel architectures,True
+loss functions,True
+morphological filtering,False
+virtual world,False
+outsourced data,False
+higher order,False
+temporal logic,True
+fuzzy sets,False
+tool environments,False
+formal analysis,False
+entertainment applications,False
+visual analysis,False
+decision trees,True
+application areas,False
+motion planning,True
+parallel data,False
+network based,False
+wireless networks,True
+audit logs,False
+efficient data,False
+network protocols,False
+nearest neighbors,True
+queueing system,False
+block cipher,True
+scheduling model,False
+financial applications,False
+external networks,False
+information modeling,False
+video content,False
+soft computing,False
+mining algorithms,False
+classification problems,True
+nonlinear programming,True
+computational modeling,True
+classification accuracy,True
+random number,False
+static program,False
+markup language,True
+generic algorithms,False
+genetic programming,True
+model-based design,False
+multivariate techniques,False
+content distribution,False
+adaptive web,False
+dynamical systems,False
+mobile environments,False
+feature representation,False
+adaptive hypermedia,False
+reconstruction error,False
+digital environment,False
+balanced binary,False
+dialogue systems,False
+security architectures,False
+information assurance,False
+program transformation,False
+text classification,True
+memory architectures,True
+feature matching,False
+virtual memory,True
+formal verification,False
+compression codes,False
+smart phones,False
+learning systems,False
+data sets,False
+location information,False
+game loop,False
+automatic classification,False
+social networking,True
+bilinear pairings,False
+interaction techniques,False
+data centers,True
+electron microscopy,False
+interactive computer,False
+systems management,False
+speech signal,False
+formal requirements,False
+coding techniques,False
+content information,False
+digital signatures,True
+sequence learning,False
+life cycle,False
+discrete time,False
+network capabilities,True
+language generation,False
+location-based service,True
+web intelligence,False
+basic data,False
+security risk,False
+data points,False
+interactive systems,False
+image description,False
+image translation,False
+word sequence,False
+logic design,False
+information visualization,False
+semiconductor manufacturing,False
+wireless security,True
+object tracking,True
+workflow management,False
+drug design,False
+sequential data,False
+application domains,False
+network structure,True
+color models,False
+language understanding,False
+input devices,False
+energy minimization,False
+data analysis,False
+network performance,True
+casual users,False
+binary decision,False
+virtual computing,False
+electronic signatures,True
+medical imaging,False
+location-based services,True
+digital rights,False
+database machine,False
+numerical solution,False
+multiple solutions,False
+represent data,False
+vision systems,False
+existing approaches,False
+spatial databases,False
+dynamic reconfiguration,False
+communication protocols,False
+binary images,False
+network complexity,False
+speech processing,True
+accessible design,False
+multidimensional databases,False
+security policies,False
+availability constraints,False
+single sign-on,True
+third party,False
+image search,False
+management tools,False
+mobile agents,False
+action selection,False
+internet usage,False
+real-time tasks,False
+mobile systems,False
+educational games,False
+resource discovery,False
+control problem,False
+decision making,False
+ray tracing,False
+numerical integration,False
+image restoration,False
+distributed environment,False
+covert channels,False
+model parameters,False
+word representations,False
+knowledge integration,False
+information flow,False
+on-chip interconnects,False
+information technology,True
+building secure,False
+multimedia documents,False
+security policy,False
+network architectures,True
+interconnection networks,False
+keyword-based retrieval,False
+compression technique,False
+data semantics,False
+virtual worlds,False
+non-rigid objects,False
+network technologies,False
+program verification,True
+quantum cryptography,True
+false data,False
+communication networks,True
+cluster analysis,True
+neural field,False
+data representation,False
+data replication,False
+evaluation criteria,False
+buffer overflow,True
+real-time systems,True
+knowledge discovery,False
+system design,False
+control systems,False
+sparse representation,True
+image tagging,False
+relational databases,True
+computational geometry,True
+classification models,True
+distributed real-time,False
+hierarchical memory,False
+peer-to-peer systems,True
+universal access,False
+finite element,False
+object classification,True
+still images,False
+query algebra,False
+incremental construction,False
+risk analysis,False
+information retrieval,False
+design problems,False
+power management,False
+system architectures,False
+statistical analysis,False
+knowledge repositories,False
+security issues,False
+related problems,False
+sixth edition,False
+optical networks,False
+parameter settings,False
+service-oriented architectures,False
+phrase structure,False
+resource allocation,False
+error reduction,False
+large databases,False
+location management,False
+online reputation,False
+feature detectors,False
+intellectual property,False
+continuous time,False
+planning agent,False
+face verification,False
+data streams,False
+ongoing development,False
+2.0 technologies,False
+information extraction,False
+independent component,False
+transfer function,False
+uniform random,False
+routing protocols,False
+arbitrary data,False
+temporal databases,False
+design techniques,False
+smart space,False
+stability analysis,False
+real-time scheduling,False
+storage systems,False
+similarity search,False
+structure visualization,False
+approximation schemes,False
+word alignment,False
+processing concepts,False
+performance issues,False
+portable devices,False
+information processing,True
+performance evaluation,False
+grid environment,False
+electronic commerce,False
+enhancing security,False
+virtual communities,False
+dynamic modeling,False
+efficient sets,False
+sequence alignment,False
+control rules,False
+value iteration,False
+digital archives,False
+two levels,False
+neural representation,False
+physical design,False
+geometric modeling,False
+thermal management,False
+data classification,True
+disaster recovery,False
+critical business,False
+broadcast authentication,False
+wide area,False
+advanced techniques,False
+basic structures,False
+simulation techniques,True
+pervasive computing,False
+human interaction,False
+immersive visualization,False
+data quality,False
+new media,False
+coding theory,True
+interactive art,False
+service security,False
+wireless sensor,False
+mathematical logic,False
+general systems,False
+knowledge management,False
+large datasets,False
+heavy-tailed distributions,False
+success factors,False
+resource constraints,False
+scheduling data,False
+wireless technologies,False
+real-time data,True
+power control,False
+approximation results,False
+maximal independent,False
+fractal geometry,False
+level analysis,False
+packet forwarding,True
+clustering algorithm,True
+continuous services,False
+classification tasks,False
+eye tracking,False
+context awareness,False
+telecommunications systems,False
+large scale,False
+power consumption,False
+point models,False
+second edition,False
+algebraic specifications,False
+data communications,True
+information geometry,True
+knowledge processing,False
+stability conditions,False
+breast cancer,False
+fuzzy graphs,False
+geometric computing,False
+virtual teams,False
+decomposition methods,False
+top management,False
+temporal access,True
+communication systems,False
+performance prediction,False
+identity theft,False
+project management,False
+online collaboration,False
+key components,False
+statistical pattern,False
+wireless networking,True
+collaborative development,False
+mobile technology,False
+television series,False
+dynamic systems,False
+online research,False
+grid infrastructure,False
+failure detectors,False
+resource management,False
+social interaction,False
+processor allocation,False
+logic devices,False
+large-scale complex,False
+wireless systems,True
+random sample,False
+data placement,False
+control system,False
+stress reduction,False
+microarray experiments,False
+evaluation metrics,False
+data retrieval,False
+security protection,False
+confidential information,False
+technical solutions,False
+evaluation methods,False
+collaborative filtering,False
+systems biology,False
+video surveillance,False
+wireless applications,False
+regression analysis,False
+mobility management,False
+hybrid systems,False
+online advertising,False
+time series,False
+design methodologies,False
+medical applications,False
+business flow,False
+mobile phones,False
+conditional entropy,False
+video streaming,False
+lower bounds,False
+food processing,False
+media streaming,False
+digital camera,False
+sign language,False
+business processes,False
+cellular networks,False
+technology management,False
+emerging applications,False
+planning systems,False
+theoretical problems,False
+new methods,False
+packet access,False
+autonomic systems,False
+young people,False
+radio frequency,False
+wireless communications,True
+payment system,False
+online courses,False
+representation system,False
+warehouse systems,False
+cognitive systems,False
+segmentation problem,False
+multidimensional scaling,False
+video communication,False
+random fields,False
+human factors,False
+architectural design,False
+video communications,False
+mining techniques,False
+auditory interfaces,False
+global convergence,False
+interest management,False
+general linear,False
+mobile commerce,False
+correctness proof,False
+recent advances,False
+wireless channels,True
+finite point,False
+character animation,False
+mobile services,False
+active learning,False
+sentiment classification,False
+computer mediated,False
+differential equations,False
+trust management,False
+decision theory,False
+utility function,False
+dynamic adaptation,False
+physical properties,False
+game theory,False
+source localization,False
+legal requirements,False
+fast generation,False
+secondary use,False
+basic elements,False
+big number,False
+pervasive games,False
+heterogeneous networks,True
+multicast protocols,True
+parametric estimation,False
+correlation analysis,False
+analytical methods,False
+communication technologies,True
+business networks,False
+general overview,False
+effective methods,False
+design automation,False
+management commitment,False
+design issues,False
+criminal investigations,False
+basic theory,False
+knowledge transfer,False
+home environments,False
+clustering techniques,True
+matrix multiplication,True
+time synchronization,True
+service composition,False
+user mobility,False
+conceptual tools,False
+optimal designs,False
+proxy signatures,False
+optimal allocation,False
+core topics,False
+semiconductor devices,True
+multiple access,False
+social communities,False
+digital library,False
+daily living,False
+high-speed downlink,False
+mobile networks,True
+financial engineering,False
+statistical data,False
+wireless internet,False
+hierarchical models,False
+statistical modeling,True
+spatial knowledge,False
+digital libraries,False
+execution times,False
+balance control,False
+school education,False
+video transmission,False
+comparative study,False
+digital investigations,False
+programmable logic,False
+surveillance systems,False
+distance education,False
+critical issues,False
+continuity planning,False
+clustering algorithms,True
+group communication,False
+energy efficiency,False
+convex hull,False
+structural equation,False
+sparse reconstruction,False
+effective framework,False
+organizational systems,False
+mobile stations,False
+exact inference,False
+increasing numbers,False
+information fusion,False
+legal issues,False
+manufacturing systems,False
+key concepts,False
+parameter estimation,False
+wireless communication,True
+conceptual design,False
+stock markets,False
+online marketplaces,False
+body motion,False
+financial markets,False
+quality control,False
+digital government,False
+competitive advantage,False
+temporal reasoning,False
+body area,False
+integrated circuit,True
+higher education,False
+educational settings,False
+word segmentation,False
+large numbers,False
+developing countries,False
+new technologies,False
+empirical analysis,False
+first edition,False
+new aspects,False
+practical issues,False
+tactile sensors,False
+finite field,False
+mobile communications,False
+electronic systems,False
+patient monitoring,False
+home appliances,False
+older adults,False
+financial services,False
+different approaches,False
+robust estimation,False
+social impact,False
+intellectual capital,False
+comparative analysis,False
+public health,False
+statistical methods,False
+reliable wireless,False
+knowledge communication,False
+fundamental concepts,False
+mobile terminals,False
+heterogeneous data,False
+management science,False
+senior citizens,False
+human behavior,False
+market research,False
+energy constraints,False
+order statistics,False
+medical research,False
+small area,False
+partitioning techniques,False
+future trends,False
+population density,False
+one step,False
+selfish behavior,False
+modern society,False
+business partners,False
+innovation processes,False
+knowledge creation,False
+human capital,False
+innovative technology,False
+normal distribution,False
+new generation,False
+basic properties,False
+recent developments,False
+channel assignment,False
+automatic control,False
+electronic voting,False
+lattice theory,False
+business continuity,False
+biomedical imaging,False
+cultural heritage,False
+biological cells,False
+biological processes,False
+two phases,False
+statistical perspective,False
+spatial concepts,False
+projective geometry,False
+probability measures,False
+uniform distribution,False
+probability theory,False
+probability distributions,False
+clinical trials,False
+real-time synchronization,False
+collaborative approach,False
+learning difficulties,False
+human ear,False
+new roles,False
+social perspectives,False
+seamless connectivity,False
+linear regression,True
+space exploration,False
+metric space,False
+sensory input,False
+discovering communities,False
+cognitive aspects,False
+correlation coefficient,False
+convex polygons,False
+data warehouses,True
+stochastic processes,True
+nonlinear equations,False
+forensic investigation,False
+statistical estimation,False
+integer multiplication,False
+global warming,False
+qualitative analysis,False
+cognitive disabilities,False
+ant colonies,False
+statistical inference,False
+strategic alliances,False
+collision avoidance,False
+cognitive impairment,False
+philosophy of mind,True
+theory of mind,True
+systems science,True
+conformity,True
+mathematical optimization,True
+convex optimization,True
+web services,True
+web mapping,True
+numerical analysis,True
+structural analysis,True
+software development process,True
+method engineering,True
+disaster recovery,True
+backup,True
+network theory,True
+network analysis,True
+identification,True
+brand management,True
+digital signal processing,True
+video processing,True
+cryptography law,True
+digital rights management,True
+holography,True
+holographic data storage,True
+artificial intelligence,True
+fuzzy logic,True
+ecosystems,True
+forests,True
+online services,True
+online help,True
+numerical analysis,True
+approximation theory,True
+web development,True
+web services,True
+transaction processing,True
+transactional memory,True
+computability theory,True
+lambda calculus,True
+remote sensing,True
+satellite imagery,True
+internationalization and localization,True
+video game localization,True
+theory of computation,True
+computational complexity theory,True
+authentication,True
+email authentication,True
+combinatorial optimization,True
+network flow problem,True
+computer architecture,True
+interoperability,True
+email hacking,True
+panama papers,True
+theory of computation,True
+hypercomputation,True
+mathematical optimization,True
+combinatorial optimization,True
+artificial intelligence,True
+cognitive architecture,True
+middleware,True
+object request broker,True
+signal processing,True
+audio electronics,True
+cryptography,True
+kleptography,True
+computational mathematics,True
+automated theorem proving,True
+computer security software,True
+privacy software,True
+brand management,True
+brand valuation,True
+software engineering,True
+version control,True
+robotics,True
+biorobotics,True
+robotics,True
+robot control,True
+structural bioinformatics,True
+molecular modelling,True
+data security,True
+backup software,True
+copy protection,True
+digital watermarking,True
+computer security,True
+computer forensics,True
+phylogenetics,True
+computational phylogenetics,True
+network performance,True
+reverse proxy,True
+fault tolerance,True
+uninterruptible power supply,True
+parallel computing,True
+speculative execution,True
+wireless networking,True
+indoor positioning system,True
+systems science,True
+chaos theory,True
+tablet computers,True
+ipad,True
+chaos theory,True
+emergence,True
+wireless networking,True
+mobile web,True
+interoperability,True
+integration platform,True
+online services,True
+online analytical processing,True
+computer networking,True
+computer networks,True
+combinatorial optimization,True
+linear programming,True
+computer graphics,True
+raster graphics,True
+computer security,True
+information privacy,True
+computer surveillance,True
+edward snowden,True
+algorithms,True
+recursion,True
+theoretical computer science,True
+evolutionary computation,True
+proxy servers,True
+reverse proxy,True
+interaction,True
+chemical bonding,True
+network service,True
+usenet,True
+character encoding,True
+braille,True
+logic programming,True
+constraint programming,True
+systems science,True
+systems engineering,True
+computational trust,True
+authentication,True
+group theory,True
+representation theory,True
+photogrammetry,True
+aerial photography,True
+computer vision,True
+mathematical morphology,True
+computer security,True
+computer access control,True
+bioinformatics,True
+synthetic biology,True
+enterprise architecture,True
+enterprise application integration,True
+pattern matching,True
+regular expressions,True
+assistive technology,True
+telepresence,True
+algorithms,True
+pattern matching,True
+network management,True
+network performance,True
+macos,True
+ios,True
+computational complexity theory,True
+quantum complexity theory,True
+cartography,True
+indoor positioning system,True
+omics,True
+glycomics,True
+formal methods,True
+turing machine,True
+software review,True
+fagan inspection,True
+rating,True
+credit rating,True
+artificial intelligence,True
+robots,True
+computer graphics,True
+graphics hardware,True
+cybercrime,True
+cyberbullying,True
+computer networking,True
+network service,True
+image processing,True
+image compression,True
+emergence,True
+philosophy of mind,True
+software development,True
+software development process,True
+web design,True
+responsive web design,True
+software engineering,True
+software architecture,True
+scientific classification,True
+chemical classification,True
+information geometry,True
+statistical distance,True
+wireless networking,True
+wireless sensor network,True
+computer vision,True
+image processing,True
+algorithms,True
+computational number theory,True
+formal methods,True
+formal specification,True
+machine learning,True
+supervised learning,True
+predicate logic,True
+quantification,True
+computational science,True
+computational social science,True
+unix,True
+network socket,True
+machine learning,True
+ensemble learning,True
+computational trust,True
+public key infrastructure,True
+computer vision,True
+digital geometry,True
+cloud computing,True
+hadoop,True
+information theory,True
+data compression,True
+group theory,True
+geometric group theory,True
+linux,True
+linux distributions,True
+audio electronics,True
+audio mixing,True
+computer networking,True
+net neutrality,True
+computational neuroscience,True
+neural coding,True
+computational science,True
+computational chemistry,True
+numerical analysis,True
+interpolation,True
+computational science,True
+computational fluid dynamics,True
+cybercrime,True
+computer security,True
+cryptography,True
+security engineering,True
+online services,True
+internet television,True
+taxonomy,True
+morphology,True
+access control,True
+identification,True
+cartography,True
+web mapping,True
+emergence,True
+systems thinking,True
+distributed computing,True
+volunteer computing,True
+digital rights management,True
+copy protection,True
+booting,True
+bios,True
+interoperability,True
+backward compatibility,True
+perl,True
+raku,True
+theoretical computer science,True
+algorithms,True
+cloud computing,True
+cloud robotics,True
+medical imaging,True
+computational anatomy,True
+spamming,True
+web scraping,True
+computational science,True
+computational neuroscience,True
+calculus of variations,True
+geometric flow,True
+algorithms,True
+computational group theory,True
+group theory,True
+computational group theory,True
+data modeling,True
+formal methods,True
+linear programming,True
+polyhedra,True
+cartography,True
+topography,True
+memory management,True
+virtual memory,True
+graph theory,True
+matching,True
+constraint programming,True
+constraint logic programming,True
+software testing,True
+unit testing,True
+software development,True
+web development,True
+network service,True
+video on demand,True
+computer forensics,True
+computer surveillance,True
+holism,True
+systems thinking,True
+information privacy,True
+internet privacy,True
+image compression,True
+texture compression,True
+computer data storage,True
+computer memory,True
+ecosystems,True
+deserts,True
+secure communication,True
+transport layer security,True
+computer programming,True
+live coding,True
+interpolation,True
+multivariate interpolation,True
+supercomputers,True
+cray,True
+cloud computing,True
+nextcloud,True
+semantic web,True
+folksonomy,True
+computer graphics,True
+scientific visualization,True
+radiology,True
+interventional radiology,True
+bioinformatics,True
+neuroinformatics,True
+cartography,True
+collaborative mapping,True
+digital humanities,True
+computational archaeology,True
+artificial intelligence,True
+automated reasoning,True
+bioinformatics,True
+structural bioinformatics,True
+javascript,True
+adaptive web design,True
+speech processing,True
+speech synthesis,True
+mac os,True
+macos,True
+machine learning,True
+deep learning,True
+online services,True
+online chat,True
+chaos theory,True
+fractals,True
+topography,True
+landforms,True
+history of cryptography,True
+venona project,True
+software development,True
+computer programming,True
+image processing,True
+medical imaging,True
+coding theory,True
+data compression,True
+data compression,True
+image compression,True
+computer programming,True
+code refactoring,True
+computational science,True
+scientific visualization,True
+perimeter security,True
+access control,True
+computational science,True
+computer algebra,True
+knowledge representation,True
+belief revision,True
+calculus of variations,True
+optimal control,True
+automated reasoning,True
+type inference,True
+network theory,True
+combinatorial optimization,True
+network architecture,True
+network topology,True
+cyborgs in fiction,True
+bionicle,True
+evolutionary algorithms,True
+gene expression programming,True
+medical imaging,True
+magnetic resonance imaging,True
+operating systems,True
+supercomputer operating systems,True
+theory of computation,True
+computability theory,True
+group theory,True
+galois theory,True
+information privacy,True
+disclosure,True
+bioinformatics,True
+omics,True
+data security,True
+information governance,True
+cloud storage,True
+nextcloud,True
+wikileaks,True
+julian assange,True
+network theory,True
+network flow problem,True
+numerical analysis,True
+mesh generation,True
+programming language theory,True
+type theory,True
+fuzzy logic,True
+predicate logic,True
+emergence,True
+interaction,True
+computational neuroscience,True
+artificial intelligence,True
+information privacy,True
+privacy law,True
+cartography,True
+hydrography,True
+compiler construction,True
+program analysis,True
+computer programming,True
+programming languages,True
+vector graphics,True
+scalable vector graphics,True
+distributed computing,True
+cryptocurrencies,True
+network management,True
+routing,True
+smart devices,True
+smart cards,True
+categorical logic,True
+topos theory,True
+internet safety,True
+cyberbullying,True
+signal processing,True
+statistical signal processing,True
+quantum computing,True
+quantum cryptography,True
+assistive technology,True
+telehealth,True
+calculus of variations,True
+perturbation theory,True
+systems thinking,True
+quality management,True
+digital signal processing,True
+speech recognition,True
+linux,True
+linux kernel,True
+network management,True
+radio resource management,True
+robot control,True
+robot kinematics,True
+taxonomy,True
+folksonomy,True
+maps,True
+map series,True
+computational geometry,True
+convex hull algorithms,True
+cartography,True
+geographic information systems,True
+smart devices,True
+smart tv,True
+programming language theory,True
+compiler construction,True
+audio electronics,True
+digital audio,True
+systems science,True
+systems theory,True
+holism,True
+modularity,True
+video processing,True
+video compression,True
+computer data storage,True
+storage virtualization,True
+quantum computing,True
+quantum programming,True
+digital signal processing,True
+speech processing,True
+software development process,True
+agile software development,True
+machine learning,True
+genetic programming,True
+robot control,True
+robot navigation,True
+cluster computing,True
+hadoop,True
+embedded systems,True
+digital cameras,True
+software development,True
+software project management,True
+assistive technology,True
+remote control,True
+computer architecture,True
+central processing unit,True
+stochastic optimization,True
+stochastic control,True
+personal computers,True
+nettop,True
+omics,True
+proteomics,True
+algorithms,True
+algorithmic trading,True
+computer vision,True
+photogrammetry,True
+concurrency control,True
+transactional memory,True
+computer memory,True
+transactional memory,True
+machine learning,True
+cluster analysis,True
+software documentation,True
+literate programming,True
+online services,True
+web fiction,True
+systems thinking,True
+theory of constraints,True
+coding theory,True
+character encoding,True
+authentication,True
+identification,True
+computer security software,True
+antivirus software,True
+machine learning,True
+artificial neural networks,True
+computational complexity theory,True
+quantum computing,True
+computer graphics,True
+texture filtering,True
+robotics,True
+machine vision,True
+transport layer security,True
+public key infrastructure,True
+wireless networking,True
+packet radio,True
+systems science,True
+cybernetics,True
+data security,True
+electronic waste,True
+smart devices,True
+internet of things,True
+computational mathematics,True
+computational number theory,True
+concurrent computing,True
+denotational semantics,True
+data mining,True
+cluster analysis,True
+information theory,True
+coding theory,True
+computer architecture,True
+network architecture,True
+computer graphics,True
+digital geometry,True
+cartography,True
+maps,True
+data security,True
+data protection,True
+temperature control,True
+thermoregulation,True
+concurrent computing,True
+parallel computing,True
+algorithmic art,True
+cellular automata,True
+digital forensics,True
+computer forensics,True
+identity management,True
+identity management systems,True
+firmware,True
+bios,True
+internet security,True
+transport layer security,True
+graph theory,True
+graph operations,True
+smartphones,True
+iphone,True
+method engineering,True
+fagan inspection,True
+backup,True
+backup software,True
+secure communication,True
+cryptography,True
+information theory,True
+units of information,True
+bioinformatics,True
+phylogenetics,True
+geolocation,True
+tracking,True
+web development,True
+web syndication,True
+omics,True
+phenomics,True
+functional groups,True
+esters,True
+artificial intelligence,True
+robotics,True
+data security,True
+backup,True
+smartphones,True
+smartphone patent wars,True
+identification,True
+biometrics,True
+digital rights management,True
+digital watermarking,True
+computational science,True
+numerical analysis,True
+computational physics,True
+computational fluid dynamics,True
+network service,True
+web services,True
+online services,True
+instant messaging,True
+theoretical computer science,True
+quantum information science,True
+anonymity,True
+anonymous social media,True
+cloud computing,True
+serverless computing,True
+identification,True
+anonymity,True
+concurrency control,True
+transaction processing,True
+artificial neural networks,True
+neural network software,True
+uncrewed spacecraft,True
+cargo spacecraft,True
+software engineering,True
+software development,True
+lexicography,True
+terminology,True
+identification,True
+identifiers,True
+robot control,True
+robot locomotion,True
+assistive technology,True
+computer accessibility,True
+computer graphics,True
+shading,True
+cryptocurrencies,True
+ethereum,True
+electronic waste,True
+computer recycling,True
+quantum information science,True
+quantum information theory,True
+philosophy of mind,True
+philosophy of psychology,True
+classes of computers,True
+reconfigurable computing,True
+computer data storage,True
+cloud storage,True
+computational statistics,True
+variance reduction,True
+computer graphics,True
+graphics software,True
+computational complexity theory,True
+circuit complexity,True
+image compression,True
+jpeg,True
+data modeling,True
+identification,True
+computer graphics,True
+video game graphics,True
+prisons,True
+prison food,True
+data security,True
+computer access control,True
+networking hardware,True
+netgear,True
+computer security,True
+computer surveillance,True
+formal methods,True
+program analysis,True
+artificial neural networks,True
+deep learning,True
+computer programming,True
+debugging,True
+ubiquitous computing,True
+tracking,True
+brand management,True
+trademarks,True
+signal processing,True
+geometry processing,True
+computer security software,True
+computer forensics,True
+security engineering,True
+access control,True
+national security agency,True
+venona project,True
+scientific visualization,True
+flow visualization,True
+computational statistics,True
+data mining,True
+assistive technology,True
+hearing aids,True
+machine learning,True
+unsupervised learning,True
+software quality,True
+software testing,True
+classes of computers,True
+supercomputers,True
+computer architecture,True
+classes of computers,True
+security engineering,True
+secure communication,True
+information privacy,True
+medical privacy,True
+classes of computers,True
+embedded systems,True
+internet fraud,True
+fake news,True
+robotics,True
+cloud robotics,True
+internet privacy,True
+email hacking,True
+robotics,True
+laws of robotics,True
+classes of computers,True
+analog computers,True
+coding theory,True
+neural coding,True
+digital signal processing,True
+image processing,True
+information theory,True
+network performance,True
+data compression,True
+video compression,True
+computer programming,True
+source code,True
+emergence,True
+complex dynamics,True
+graph theory,True
+graph rewriting,True
+computational science,True
+cheminformatics,True
+smart devices,True
+smartphones,True
+debian,True
+dpkg,True
+remote sensing,True
+remote sensing software,True
+control flow,True
+recursion,True
+model checking,True
+temporal logic,True
+artificial intelligence,True
+affective computing,True
+software development,True
+video game development,True
+reliability engineering,True
+human reliability,True
+smart devices,True
+smart grid,True
+enterprise architecture,True
+business architecture,True
+key management,True
+public key infrastructure,True
+graph theory,True
+algebraic graph theory,True
+computational mathematics,True
+computer algebra,True
+quantum information science,True
+quantum computing,True
+cartography,True
+aerial photography,True
+machine learning,True
+support vector machines,True
+web development,True
+automattic,True
+automated reasoning,True
+automated theorem proving,True
+ecosystems,True
+systems ecology,True
+computer architecture,True
+computer data storage,True
+graph theory,True
+mathematical chemistry,True
+wireless networking,True
+bluetooth,True
+computer networking,True
+smart devices,True
+artificial intelligence,True
+knowledge representation,True
+computational science,True
+computational linguistics,True
+software development,True
+software release,True
+computer networking,True
+network management,True
+resource description framework,True
+rss,True
+cryptography,True
+key management,True
+embedded systems,True
+robotics,True
+classes of computers,True
+military computers,True
+method engineering,True
+configuration management,True
+network architecture,True
+local loop,True
+missile guidance,True
+global positioning system,True
+booting,True
+network booting,True
+numerical linear algebra,True
+domain decomposition methods,True
+agile software development,True
+extreme programming,True
+functional groups,True
+ketones,True
+logic programming,True
+inductive logic programming,True
+identifiers,True
+names,True
+cryptography,True
+disk encryption,True
+mobile phones,True
+smartphones,True
+evolutionary algorithms,True
+genetic programming,True
+artificial intelligence,True
+cloud robotics,True
+computer architecture,True
+operating systems,True
+artificial intelligence,True
+knowledge engineering,True
+formal methods,True
+z notation,True
+robot control,True
+robotic sensing,True
+computational chemistry,True
+molecular dynamics,True
+information theory,True
+quantum information theory,True
+network performance,True
+forward proxy,True
+generic programming,True
+metaprogramming,True
+computer access control,True
+federated identity,True
+video game development,True
+video game localization,True
+digital photography,True
+digital cameras,True
+domain name system,True
+domain names,True
+computational statistics,True
+artificial neural networks,True
+web development,True
+html,True
+database theory,True
+database normalization,True
+ios,True
+iphone,True
+computational science,True
+computational biology,True
+software engineering,True
+software testing,True
+video game design,True
+video game graphics,True
+security engineering,True
+computer security,True
+operating systems,True
+computer networking,True
+computer access control,True
+identity management,True
+image processing,True
+image segmentation,True
+cryptography,True
+history of cryptography,True
+central processing unit,True
+microprocessors,True
+systems thinking,True
+business continuity,True
+declarative programming,True
+constraint programming,True
+theoretical computer science,True
+graph theory,True
+functional groups,True
+isocyanates,True
+computational science,True
+artificial life,True
+web development,True
+web design,True
+theoretical computer science,True
+theory of computation,True
+systems science,True
+operations research,True
+internationalization and localization,True
+internationalized domain names,True
+security engineering,True
+prisons,True
+theoretical computer science,True
+quantum computing,True
+phylogenetics,True
+evolution of tetrapods,True
+optical spectrum,True
+green,True
+computer networking,True
+network booting,True
+information governance,True
+information architecture,True
+theoretical computer science,True
+computational learning theory,True
+program analysis,True
+incremental computing,True
+machine learning,True
+inductive logic programming,True
+mobile phones,True
+mobile phone recycling,True
+analysis of algorithms,True
+parameterized complexity,True
+phylogenetics,True
+genealogy,True
+software architecture,True
+enterprise architecture,True
+hydrography,True
+oceanography,True
+ecosystems,True
+grasslands,True
+robotics,True
+physical computing,True
+computer programming,True
+data structures,True
+lexicography,True
+vocabulary,True
+algorithms,True
+signal processing,True
+automattic,True
+tumblr,True
+remote sensing,True
+telepresence,True
+image processing,True
+digital photography,True
+web services,True
+internet search,True
+computer security,True
+mobile security,True
+programming language implementation,True
+parsing,True
+static program analysis,True
+abstract interpretation,True
+lexicography,True
+glossaries,True
+identifiers,True
+call signs,True
+internet of things,True
+smart grid,True
+holography,True
+holonomic brain theory,True
+secure communication,True
+computer security,True
+collaborative mapping,True
+geosocial networking,True
+internet of things,True
+home automation,True
+online services,True
+electronic publishing,True
+computational mathematics,True
+numerical analysis,True
+cryptography,True
+ransomware,True
+smartphones,True
+maemo,True
+software architecture,True
+enterprise application integration,True
+firmware,True
+custom firmware,True
+evolutionary computation,True
+artificial life,True
+information theory,True
+data differencing,True
+internet safety,True
+internet fraud,True
+cloud computing,True
+cloud gaming,True
+security engineering,True
+perimeter security,True
+knowledge engineering,True
+knowledge representation,True
+emergence,True
+holism,True
+identity management,True
+federated identity,True
+brand management,True
+merchandise,True
+concurrent computing,True
+distributed computing,True
+programming language theory,True
+program analysis,True
+web services,True
+instant messaging,True
+systems science,True
+systems ecology,True
+calculus of variations,True
+morse theory,True
+wireless networking,True
+netgear,True
+network performance,True
+quality of service,True
+computational physics,True
+computational electromagnetics,True
+video game design,True
+procedural generation,True
+neurotechnology,True
+neuroprosthetics,True
+computational biology,True
+bioinformatics,True
+data security,True
+fault tolerance,True
+personal computers,True
+amiga,True
+computability theory,True
+combinatory logic,True
+procedural generation,True
+demoscene,True
+assistive technology,True
+home automation,True
+machine learning,True
+evolutionary algorithms,True
+assistive technology,True
+braille,True
+network architecture,True
+osi model,True
+computational neuroscience,True
+artificial neural networks,True
+classes of computers,True
+quantum computing,True
+programming language theory,True
+lambda calculus,True
+software engineering,True
+formal methods,True
+information privacy,True
+differential privacy,True
+formal methods,True
+automated theorem proving,True
+internet privacy,True
+geolocation,True
+remote sensing,True
+synthetic aperture radar,True
+software engineering,True
+software design,True
+compilers,True
+compiler construction,True
+digital signal processing,True
+geometry processing,True
+philosophy of mind,True
+intellectualism,True
+online services,True
+cloud computing,True
+machine learning,True
+reinforcement learning,True
+artificial life,True
+emergence,True
+computer access control,True
+smart cards,True
+image processing,True
+interpolation,True
+computability theory,True
+turing machine,True
+personal computers,True
+laptops,True
+computer vision,True
+image segmentation,True
+algorithms,True
+numerical analysis,True
+personal computers,True
+atari st,True
+network service,True
+email,True
+computational mathematics,True
+computational topology,True
+surveying,True
+home inspection,True
+internet privacy,True
+privacy software,True
+computer programming,True
+algorithms,True
+software quality,True
+reliability engineering,True
+key management,True
+secret sharing,True
+home automation,True
+smart devices,True
+supercomputers,True
+supercomputer operating systems,True
+signal processing,True
+detection theory,True
+group theory,True
+subgroup series,True
+mobile security,True
+mobile malware,True
+emergence,True
+emergent gameplay,True
+medical imaging,True
+radiology,True
+web development,True
+web analytics,True
+signal processing,True
+image processing,True
+mobile phones,True
+mobile device management,True
+computer networking,True
+wireless networking,True
+genetic algorithms,True
+gene expression programming,True
+cryptography,True
+cryptography law,True
+computer graphics,True
+geometry processing,True
+medical imaging,True
+medical ultrasonography,True
+computer networking,True
+online services,True
+radiology,True
+radiation therapy,True
+embedded systems,True
+robots,True
+graph theory,True
+network theory,True
+artificial intelligence,True
+computer vision,True
+information theory,True
+detection theory,True
+computer programming,True
+quantum programming,True
+software architecture,True
+interoperability,True
+operating systems,True
+operating system advocacy,True
+parallel computing,True
+cache coherency,True
+identity management,True
+access control,True
+maps,True
+globes,True
+computer programming,True
+concurrent computing,True
+software project management,True
+agile software development,True
+radiology,True
+radiography,True
+natural language processing,True
+corpus linguistics,True
+cryptography,True
+quantum cryptography,True
+systems science,True
+systems biology,True
+assistive technology,True
+prosthetics,True
+semantic web,True
+resource description framework,True
+information appliances,True
+smart tv,True
+dark web,True
+darknet markets,True
+tracking,True
+indoor positioning system,True
+computational neuroscience,True
+neurotechnology,True
+lexicography,True
+definition,True
+robotics,True
+adaptable robotics,True
+cybercrime,True
+darknet markets,True
+algorithms,True
+computational physics,True
+control flow,True
+subroutines,True
+cybercrime,True
+malware,True
+emergent gameplay,True
+machinima,True
+computational linguistics,True
+machine translation,True
+scientific classification,True
+biological classification,True
+online services,True
+web hosting,True
+graph theory,True
+topological graph theory,True
+computational complexity theory,True
+analysis of algorithms,True
+enterprise architecture,True
+enterprise modelling,True
+information theory,True
+information geometry,True
+build automation,True
+continuous integration,True
+ecosystems,True
+tropical rainforests,True
+embedded systems,True
+information appliances,True
+software quality,True
+formal methods,True
+natural language processing,True
+natural language generation,True
+numerical analysis,True
+numerical linear algebra,True
+signal processing,True
+digital signal processing,True
+computer security,True
+computational trust,True
+enterprise architecture,True
+information architecture,True
+web development,True
+web accessibility,True
+philosophy of mind,True
+phenomenology,True
+central processing unit,True
+cache coherency,True
+network architecture,True
+cyberinfrastructure,True
+cloud computing,True
+as a service,True
+security engineering,True
+locksmithing,True
+enterprise architecture,True
+architecture description language,True
+artificial intelligence,True
+machine learning,True
+systems science,True
+systems psychology,True
+logic programming,True
+constraint logic programming,True
+biometrics,True
+signature,True
+computational complexity theory,True
+parameterized complexity,True
+computer networking,True
+network architecture,True
+robotics,True
+home automation,True
+computer memory,True
+memory management,True
+computer networks,True
+internet culture,True
+assistive technology,True
+speech synthesis,True
+computer architecture,True
+heterogeneous computing,True
+structural analysis,True
+finite element method,True
+programming language implementation,True
+compiler construction,True
+philosophy of mind,True
+moral psychology,True
+computer graphics,True
+texture mapping,True
+key management,True
+digital signature,True
+web syndication,True
+podcasting,True
+belief revision,True
+cognitive inertia,True
+biometrics,True
+face recognition,True
+parallel computing,True
+domain decomposition methods,True
+web mapping,True
+google maps,True
+temperature control,True
+heat exchangers,True
+software engineering,True
+software requirements,True
+programming language theory,True
+programming languages,True
+information appliances,True
+smartphones,True
+quantum information science,True
+quantum complexity theory,True
+web design,True
+adaptive web design,True
+cybercrime,True
+internet safety,True
+computability theory,True
+hypercomputation,True
+web accessibility,True
+assistive technology,True
+web design,True
+url,True
+privacy law,True
+personality rights,True
+procedural generation,True
+algorithmic art,True
+signature,True
+digital signature,True
+finite element method,True
+mesh generation,True
+theoretical computer science,True
+formal methods,True
+software architecture,True
+architecture description language,True
+group theory,True
+moonshine theory,True
+software project management,True
+software development,True
+personal computers,True
+vaio,True
+software engineering,True
+software maintenance,True
+wireless networking,True
+mesh networking,True
+data security,True
+database security,True
+computational mathematics,True
+computational statistics,True
+medical imaging,True
+tomography,True
+finite element method,True
+domain decomposition methods,True
+cryptography,True
+steganography,True
+computational linguistics,True
+natural language processing,True
+access control,True
+computer access control,True
+maps,True
+web mapping,True
+systems science,True
+holism,True
+knowledge representation,True
+semantic web,True
+software testing,True
+software review,True
+assistive technology,True
+adaptive clothing,True
+logic programming,True
+automated theorem proving,True
+cascading style sheets,True
+responsive web design,True
+programming language implementation,True
+memory management,True
+cryptography,True
+cryptography standards,True
+numerical linear algebra,True
+least squares,True
+booting,True
+system image,True
+computer graphics,True
+vector graphics,True
+logic programming,True
+belief revision,True
+proxy servers,True
+forward proxy,True
+cartography,True
+surveying,True
+software design,True
+software architecture,True
+machine learning,True
+structured prediction,True
+live coding,True
+algorave,True
+online services,True
+video on demand,True
+backup,True
+disk cloning,True
+backup,True
+system image,True
+software engineering,True
+software quality,True
+image processing,True
+mathematical morphology,True
+evolutionary algorithms,True
+genetic algorithms,True
+evolutionary computation,True
+evolutionary algorithms,True
+theoretical computer science,True
+information theory,True
+reliability engineering,True
+fault tolerance,True
+ubiquitous computing,True
+indoor positioning system,True
+numerical analysis,True
+mathematical optimization,True
+algorithms,True
+computational statistics,True
+modal logic,True
+temporal logic,True
+internet fraud,True
+spamming,True
+data mining,True
+process mining,True
+cybercrime,True
+spamming,True
+machine learning,True
+bayesian networks,True
+character encoding,True
+unicode,True
+software engineering,True
+web development,True
+network service,True
+push technology,True
+programming language implementation,True
+compilers,True
+embedded systems,True
+smart devices,True
+cascading style sheets,True
+adaptive web design,True
+network performance,True
+queueing theory,True
+graph theory,True
+geometric graph theory,True
+tomography,True
+optical coherence tomography,True
+information theory,True
+algorithmic information theory,True
+audio electronics,True
+synchronization,True
+home automation,True
+temperature control,True
+mobile phones,True
+cat phone,True
+mathematical optimization,True
+stochastic optimization,True
+declarative programming,True
+functional programming,True
+theory of computation,True
+algorithmic information theory,True
+prisons,True
+prison healthcare,True
+instant messaging,True
+xmpp,True
+data erasure,True
+file deletion,True
+scientific classification,True
+morphology,True
+data security,True
+data erasure,True
+theoretical computer science,True
+pseudorandomness,True
+coding theory,True
+data differencing,True
+computer access control,True
+authentication,True
+linux,True
+ubuntu,True
+cybercrime,True
+internet fraud,True
+natural language processing,True
+machine translation,True
+algorithms,True
+digital signal processing,True
+modal logic,True
+provability logic,True
+denotational semantics,True
+domain theory,True
+maps,True
+indoor positioning system,True
+video game development,True
+video game design,True
+declarative programming,True
+logic programming,True
+computational physics,True
+molecular dynamics,True
+video game design,True
+game accessibility,True
+programming language theory,True
+program transformation,True
+data modeling,True
+relational algebra,True
+artificial intelligence,True
+logic programming,True
+demoscene,True
+demos,True
+convex analysis,True
+convex optimization,True
+mathematical optimization,True
+pareto efficiency,True
+personal computers,True
+tablet computers,True
+software engineering,True
+computer programming,True
+geolocation,True
+indoor positioning system,True
+cloud computing,True
+cloud storage,True
+biometrics,True
+anthropometry,True
+network topology,True
+mesh networking,True
+cybercrime,True
+internet vigilantism,True
+identification,True
+animal identification,True
+reliability engineering,True
+environmental testing,True
+robotics,True
+robots,True
+computer security,True
+cryptography,True
+combinatorial optimization,True
+travelling salesman problem,True
+online services,True
+internet radio,True
+cryptocurrencies,True
+bitcoin,True
+computer graphics,True
+image processing,True
+computational linguistics,True
+natural language generation,True
+digital rights management,True
+hardware restrictions,True
+cheminformatics,True
+combinatorial chemistry,True
+internet of things,True
+machine to machine,True
+numerical analysis,True
+finite differences,True
+type theory,True
+type inference,True
+optical spectrum,True
+shades of green,True
+computer graphics,True
+stereoscopy,True
+polyhedra,True
+tessellation,True
+tracking,True
+motion capture,True
+biometrics,True
+graphology,True
+computational science,True
+computational mathematics,True
+geolocation,True
+geosocial networking,True
+holography,True
+holography in fiction,True
+embedded systems,True
+avionics,True
+wikis,True
+wiki software,True
+theory of computation,True
+limits of computation,True
+emergence,True
+systems science,True
+smartphones,True
+blackberry,True
+character encoding,True
+collation,True
+omics,True
+genomics,True
+computer security,True
+computer security software,True
+cybercrime,True
+digital forensics,True
+surveying,True
+topography,True
+information theory,True
+quantum computing,True
+program analysis,True
+static program analysis,True
+graph theory,True
+extremal graph theory,True
+systems thinking,True
+futurology,True
+software design,True
+data modeling,True
+computational mathematics,True
+computational geometry,True
+data modeling,True
+building information modeling,True
+computability theory,True
+recursion,True
+computer networking,True
+networking hardware,True
+electrophysiology,True
+cardiac electrophysiology,True
+computer data storage,True
+backup,True
+hydrography,True
+limnology,True
+computer security,True
+data security,True
+algorithms,True
+evolutionary algorithms,True
+emergence,True
+reductionism,True
+lexicography,True
+dictionaries,True
+cybercrime,True
+online child abuse,True
+networking hardware,True
+fiber optics,True
+artificial intelligence,True
+evolutionary computation,True
+classes of computers,True
+smart devices,True
+middleware,True
+remote procedure call,True
+computational science,True
+computational physics,True
+embedded systems,True
+firmware,True
+computer vision,True
+machine vision,True
+medical imaging,True
+electrophysiology,True
+computer access control,True
+digital rights management,True
+internet of things,True
+smart tv,True
+computer graphics,True
+procedural generation,True
+automattic,True
+wordpress,True
+machine learning,True
+computational learning theory,True
+medical software,True
+medical simulation,True
+reductionism,True
+teleology,True
+systems thinking,True
+technology assessment,True
+medical imaging,True
+positron emission tomography,True
+computer security,True
+transport layer security,True
+neurotechnology,True
+neurostimulation,True
+recursion,True
+mathematical induction,True
+quantum information science,True
+quantum programming,True
+functional groups,True
+amines,True
+operating systems,True
+unix,True
+formal methods,True
+model checking,True
+software development,True
+internationalization and localization,True
+web design,True
+cascading style sheets,True
+algorithms,True
+computer algebra,True
+avionics,True
+radio direction finding,True
+ambient intelligence,True
+internet of things,True
+version control,True
+github,True
+radiology,True
+nuclear medicine,True
+access control,True
+authentication,True
+laptops,True
+dell laptops,True
+computer security,True
+access control,True
+data structures,True
+succinct data structure,True
+reductionism,True
+monism,True
+computational linguistics,True
+speech recognition,True
+ubiquitous computing,True
+ambient intelligence,True
+online services,True
+online journalism,True
+smartphones,True
+cat phone,True
+computer vision,True
+geometry processing,True
+javascript,True
+json,True
+software development,True
+software documentation,True
+web services,True
+enterprise application integration,True
+abstract data type,True
+abstract method,True
+abstraction,True
+agent architecture,True
+agent-based model,True
+aggregate function,True
+agile software development,True
+algorithm,True
+algorithm design,True
+algorithmic efficiency,True
+ascii,True
+application programming interface,True
+application software,True
+array data structure,True
+artifact,True
+artificial intelligence,True
+ascii,True
+assertion,True
+associative array,True
+automata theory,True
+automated reasoning,True
+bandwidth,True
+bayesian programming,True
+benchmark,True
+best, worst and average case,True
+big data,True
+big o notation,True
+binary number,True
+binary search algorithm,True
+binary tree,True
+bioinformatics,True
+bit,True
+bit rate,True
+blacklist,True
+bmp file format,True
+boolean data type,True
+boolean expression,True
+boolean algebra,True
+byte,True
+booting,True
+callback,True
+central processing unit,True
+character,True
+cipher,True
+class,True
+class-based programming,True
+class-orientation,True
+client,True
+cleanroom software engineering,True
+closure,True
+cloud computing,True
+code library,True
+coding,True
+coding theory,True
+cognitive science,True
+comma-separated values,True
+compiler,True
+compiler theory,True
+computability theory,True
+computation,True
+computational biology,True
+computational chemistry,True
+computational complexity theory,True
+computational model,True
+computational neuroscience,True
+computational physics,True
+computational science,True
+computational steering,True
+computer,True
+computer architecture,True
+computer data storage,True
+computer ethics,True
+computer graphics,True
+computer network,True
+computer programming,True
+computer science,True
+computer scientist,True
+computer security,True
+computer vision,True
+concatenation,True
+concurrency,True
+conditional,True
+continuation-passing style,True
+control flow,True
+creative commons,True
+cryptography,True
+csv,True
+cyberbullying,True
+cyberspace,True
+data center,True
+database,True
+data mining,True
+data science,True
+data structure,True
+data type,True
+debugging,True
+declaration,True
+digital data,True
+digital signal processing,True
+discrete event simulation,True
+disk storage,True
+distributed computing,True
+divide and conquer algorithm,True
+dns,True
+documentation,True
+domain name system,True
+double-precision floating-point format,True
+download,True
+edge device,True
+encryption,True
+event,True
+event-driven programming,True
+evolutionary computing,True
+executable,True
+exception handling,True
+expression,True
+fault-tolerant computer system,True
+feasibility study,True
+filename extension,True
+filter (software),True
+floating point arithmetic,True
+for loop,True
+formal methods,True
+formal verification,True
+functional programming,True
+game theory,True
+garbage in, garbage out,True
+gif,True
+gigabyte,True
+global variable,True
+graph theory,True
+hard problem,True
+hash function,True
+hash table,True
+heap,True
+heapsort,True
+human-computer interaction,True
+ide,True
+image processing,True
+imperative programming,True
+incremental build model,True
+information space analysis,True
+information visualization,True
+inheritance,True
+input/output,True
+insertion sort,True
+instruction cycle,True
+integer,True
+integrated development environment,True
+integration testing,True
+intellectual property,True
+intelligent agent,True
+interface,True
+internal documentation,True
+internet,True
+internet bot,True
+interpreter,True
+invariant,True
+iteration,True
+java,True
+kernel,True
+library (computing),True
+linear search,True
+linked list,True
+linker,True
+list,True
+loader,True
+logic error,True
+logic programming,True
+machine learning,True
+machine vision,True
+mathematical logic,True
+matrix,True
+memory,True
+merge sort,True
+method,True
+methodology,True
+modem,True
+natural language processing,True
+number theory,True
+numerical analysis,True
+numerical method,True
+object,True
+object code,True
+object-oriented analysis and design,True
+object oriented programming,True
+open-source software,True
+operating system,True
+optical fiber,True
+pair programming,True
+parallel computing,True
+parameter,True
+peripheral,True
+postcondition,True
+precondition,True
+primary storage,True
+primitive data type,True
+priority queue,True
+procedural programming,True
+program lifecycle phase,True
+programming language,True
+programming language implementation,True
+programming language theory,True
+prolog,True
+python,True
+quantum computing,True
+queue,True
+quicksort,True
+r programming language,True
+radix,True
+recursion,True
+reference counting,True
+relational database,True
+reliability engineering,True
+regression testing,True
+requirements analysis,True
+robotics,True
+round-off error,True
+router,True
+routing table,True
+run time,True
+run time error,True
+search algorithm,True
+secondary storage,True
+selection sort,True
+semantics,True
+sequence,True
+set,True
+soft computing,True
+software,True
+software agent,True
+software construction,True
+software deployment,True
+software design,True
+software development,True
+software development process,True
+software engineering,True
+software maintenance,True
+software prototyping,True
+software requirements specification,True
+software testing,True
+sorting algorithm,True
+source code,True
+spiral model,True
+stack,True
+storage,True
+string,True
+structured storage,True
+subroutine,True
+symbolic computation,True
+syntax,True
+syntax error,True
+system console,True
+technical documentation,True
+third-generation programming language,True
+top-down and bottom-up design,True
+tree,True
+type theory,True
+upload,True
+uniform resource locator,True
+url,True
+user agent,True
+user interface,True
+user interface design,True
+variable,True
+virtual machine,True
+v-model,True
+wav,True
+waterfall model,True
+waveform audio file format,True
+web crawler,True
+wi-fi,True
+xhtm,True
