@@ -35,9 +35,27 @@ def get_frequency(phrase, frequencies):
     return 0
 
 
-def get_concordance_score(phrase):
-    # TODO: complete implementation
-    pass
+def prefetch_concordance_scores(phrases):
+    concordance_scores = {}
+    phrases = set(phrases)
+    with open('data/whoosh/phrase_concordances.csv', 'r') as f:
+        f.readline()
+        line = f.readline()[:-1].strip().lower()
+        while line:
+            items = line.split(',')
+            phrase = items[0]
+            concordance_score = float(items[-1])
+            if phrase in phrases:
+                concordance_scores[phrase] = concordance_score
+            line = f.readline()[:-1].strip().lower()
+        f.close()
+    return concordance_scores
+
+
+def get_concordance_score(phrase, concordance_scores):
+    if phrase in concordance_scores:
+        return concordance_scores[phrase]
+    return 0.0
 
 
 def get_uniqueness(phrase):
@@ -70,9 +88,10 @@ def get_cs_context(phrase, suggested_queries):
     pass
 
 
-def get_phrase_features(phrase, frequencies, suggested_queries):
+def get_phrase_features(phrase, frequencies, concordance_scores,
+                        suggested_queries):
     frequency = get_frequency(phrase, frequencies)
-    concordance_score = get_concordance_score(phrase)
+    concordance_score = get_concordance_score(phrase, concordance_scores)
     uniqueness = get_uniqueness(phrase)
     wiki_score = get_wiki_score(phrase)
     # TODO: get popularity
@@ -100,6 +119,7 @@ def build_dataset():
     for labeled_phrase in labeled_phrases:
         phrases.append(labeled_phrase[0])
     frequencies = prefetch_frequencies(phrases)
+    concordance_scores = prefetch_concordance_scores(phrases)
     suggested_queries = prefetch_frequencies(phrases)
 
     with open('data/dataset.csv', 'w') as f:
@@ -108,13 +128,11 @@ def build_dataset():
             label = labeled_phrase[1]
             features = get_phrase_features(phrase,
                                            frequencies,
+                                           concordance_scores,
                                            suggested_queries)
             data_row = build_data_row(phrase, features, label)
             f.write(data_row)
         f.close()
-
-    # TODO: scale dataset features and write to file
-    # IDEA: scale features individually (in each get_FEATURE function)
 
 
 if __name__ == '__main__':
