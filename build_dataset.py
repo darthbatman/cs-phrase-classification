@@ -206,16 +206,21 @@ def build_data_row(phrase, features, label):
 
 
 def build_dataset():
+    print('Prefetching CS categories.')
     cs_categories = prefetch_cs_categories()
-
-    labeled_phrases = get_labeled_phrases()[:10]
+    print('Getting labeled phrases.')
+    labeled_phrases = get_labeled_phrases()
 
     phrases = []
     for labeled_phrase in labeled_phrases:
         phrases.append(labeled_phrase[0])
+    print('Prefetching frequencies.')
     frequencies = prefetch_frequencies(phrases)
+    print('Prefetching concordance scores.')
     concordance_scores = prefetch_concordance_scores(phrases)
+    print('Prefetching uniquenesses.')
     uniquenesses = prefetch_uniquenesses(phrases)
+    print('Prefetching suggested_queries.')
     suggested_queries = prefetch_suggested_queries(phrases)
 
     with open('data/dataset.csv', 'w') as f:
@@ -223,7 +228,9 @@ def build_dataset():
                     'wiki_score', 'popularity', 'purity',
                     'suggested_query_score', 'cs_context']
         f.write(build_data_row('phrase', features, 'label'))
-        for labeled_phrase in labeled_phrases:
+        for idx, labeled_phrase in enumerate(labeled_phrases):
+            print('Processing phrase ' + str(idx + 1) + ' of ' +
+                  str(len(labeled_phrases)))
             phrase = labeled_phrase[0]
             label = labeled_phrase[1]
             features = get_phrase_features(phrase,
