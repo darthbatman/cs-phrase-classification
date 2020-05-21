@@ -10,13 +10,13 @@ def get_dataset():
     X = []
     y = []
     feature_names = []
-    with open('data/combined_metric_dataset_50_50.csv', 'r') as f:
+    with open('../data/dataset_50_50.csv', 'r') as f:
         line = f.readline()[:-1]
         feature_names = line.split(',')[1:-1]
         line = f.readline()[:-1]
         while line:
             fields = line.split(',')
-            features = [float(x) for x in fields[1:-1]]
+            features = [(float(x) if x != '[]' else 0.0) for x in fields[1:-1]]
             if fields[-1] == 'True':
                 label = 1
             else:
