@@ -1,3 +1,4 @@
+import requests
 import wikipedia
 import wikipediaapi
 
@@ -118,14 +119,66 @@ def get_purity(phrase):
     pass
 
 
+def get_suggested_queries(phrase):
+    url = 'http://suggestqueries.google.com/complete/search?client=firefox&q='
+    formatted_query = phrase.replace(' ', '+')
+    res = requests.get(url + formatted_query)
+    return res.text.split('[')[2][:-2].replace('"', '').split(',')
+
+
+def prefetch_suggested_queries(phrases):
+    suggested_queries = {}
+    for phrase in phrases:
+        suggestions = get_suggested_queries(phrase)
+        suggested_queries[phrase] = suggestions
+    return suggested_queries
+
+
 def get_suggested_query_score(phrase, suggested_queries):
-    # TODO: complete implementation
-    pass
+    if phrase not in suggested_queries:
+        return 0.0
+
+    suggested_queries = suggested_queries[phrase]
+
+    cs_desribers = ['computer science', 'python', 'machine learning',
+                    'artificial intelligence', 'ai', 'deep learning',
+                    'algorithms', 'code', 'architecture', 'api',
+                    'software', 'framework', 'computer security',
+                    'computer system', 'computer systems']
+
+    prefix_count = 0
+    describer_score = 0
+    for query in suggested_queries:
+        if query[:len(phrase)] != phrase and \
+           query[:len(phrase)] != phrase.replace('-', ''):
+            prefix_count += 1
+        for cs_desriber in cs_desribers:
+            if ' ' + cs_desriber in query[len(phrase):] or ' ' + \
+               cs_desriber + ' ' in query[len(phrase):] or ' ' + \
+               cs_desriber + 's' in query[len(phrase):]:
+                describer_score += len(cs_desribers) - \
+                    cs_desribers.index(cs_desriber)
+    return (describer_score / len(suggested_queries)) - \
+        (prefix_count / len(suggested_queries))
 
 
 def get_cs_context(phrase, suggested_queries):
-    # TODO: complete implementation
-    pass
+    if phrase in suggested_queries:
+        context = []
+        cs_desribers = ['computer science', 'python', 'machine learning',
+                        'artificial intelligence', 'ai', 'deep learning',
+                        'algorithms', 'code', 'architecture', 'api',
+                        'software', 'framework', 'computer security',
+                        'computer system', 'computer systems']
+        suggested_queries = suggested_queries[phrase]
+        for query in suggested_queries:
+            for cs_desriber in cs_desribers:
+                if ' ' + cs_desriber in query[len(phrase):] or ' ' + \
+                   cs_desriber + ' ' in query[len(phrase):] or ' ' + \
+                   cs_desriber + 's' in query[len(phrase):]:
+                    context.append(cs_desriber)
+        return context
+    return []
 
 
 def get_phrase_features(phrase, frequencies, concordance_scores,
@@ -155,7 +208,6 @@ def build_data_row(phrase, features, label):
 def build_dataset():
     cs_categories = prefetch_cs_categories()
 
-    # TODO: remove [:4] to build dataset containing all phrases
     labeled_phrases = get_labeled_phrases()
 
     phrases = []
@@ -164,7 +216,7 @@ def build_dataset():
     frequencies = prefetch_frequencies(phrases)
     concordance_scores = prefetch_concordance_scores(phrases)
     uniquenesses = prefetch_uniquenesses(phrases)
-    suggested_queries = prefetch_frequencies(phrases)
+    suggested_queries = prefetch_suggested_queries(phrases)
 
     with open('data/dataset.csv', 'w') as f:
         features = ['frequency', 'concordance_score', 'uniqueness',

@@ -1,5 +1,11 @@
 phrase,frequency,concordance_score,uniqueness,wiki_score,popularity,purity,suggested_query_score,cs_context,label
-unlabeled data,19,100.0,0.99675,0.95,0.0,0.0,None,None,False
-congruential generator,2,100.0,0.873475,0.9,0.0,0.0,None,None,True
-human-robot interaction,46,85.71428571428571,0.906325,0.9,0.0,0.0,None,None,True
-role-based access,6,72.72727272727273,0.991925,0.9,0.0,0.0,None,None,True
+unlabeled data,19,100.0,0.99675,0.95,0.0,0.0,3.8333333333333335,['machine learning', 'deep learning'],False
+congruential generator,2,100.0,0.873475,0.9,0.0,0.0,0.0,[],True
+human-robot interaction,46,85.71428571428571,0.906325,0.9,0.0,0.0,0.0,[],True
+role-based access,6,72.72727272727273,0.991925,0.9,0.0,0.0,0.0,[],True
+socket layer,3,100.0,0.7988,0.8,0.0,0.0,0.0,[],True
+dimensionality reduction,101,80.0,0.9312750000000001,0.75,0.0,0.0,5.0,['python', 'algorithms', 'python', 'machine learning'],True
+data-flow analysis,3,75.0,0.984375,0.75,0.0,0.0,0.4,['software', 'code'],False
+botnet detection,7,66.66666666666666,0.89855,0.85,0.0,0.0,1.8,['machine learning', 'software'],True
+floating point,3,75.0,0.814575,0.85,0.0,0.0,0.0,[],False
+semistructured data,10,100.0,0.99675,0.4,0.0,0.0,-0.6,[],False
