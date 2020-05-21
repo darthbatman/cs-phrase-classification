@@ -228,6 +228,7 @@ def build_dataset():
     print('Prefetching uniquenesses.')
     uniquenesses = prefetch_uniquenesses(phrases)
     # TODO: get suggested queries
+    suggested_queries = {}
     # print('Prefetching suggested queries.')
     # suggested_queries = prefetch_suggested_queries(phrases)
 
