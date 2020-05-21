@@ -208,7 +208,7 @@ def build_data_row(phrase, features, label):
 def build_dataset():
     cs_categories = prefetch_cs_categories()
 
-    labeled_phrases = get_labeled_phrases()
+    labeled_phrases = get_labeled_phrases()[:10]
 
     phrases = []
     for labeled_phrase in labeled_phrases:
