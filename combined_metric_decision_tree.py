@@ -9,7 +9,7 @@ def read_dataset():
     x = []
     y = []
     feature_names = []
-    with open('data/combined_metric_dataset_50_50.csv', 'r') as f:
+    with open('data/model/dataset_50_50.csv', 'r') as f:
         feature_names = f.readline()[:-1].split(',')[1:-1]
         line = f.readline()[:-1]
         while line:
@@ -39,7 +39,7 @@ def generate_visualization(classifier_with_feature_names):
         classifier,
         out_file=dot_data,
         feature_names=feature_names,
-        class_names=["Bad", "Good"],
+        class_names=['Bad', 'Good'],
         filled=True,
         rounded=True,
         special_characters=True)

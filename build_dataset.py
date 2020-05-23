@@ -2,10 +2,12 @@ import requests
 import wikipedia
 import wikipediaapi
 
+from credentials import api_key, search_engine_id
+
 
 def get_labeled_phrases():
     labeled_phrases = []
-    with open('data/labeled_phrases.csv', 'r') as f:
+    with open('data/model/labeled_phrases.csv', 'r') as f:
         f.readline()
         line = f.readline()[:-1]
         while line:
@@ -65,17 +67,25 @@ def get_concordance_score(phrase, concordance_scores):
 
 def prefetch_uniquenesses(phrases):
     uniquenesses = {}
-    phrases = set(phrases)
-    with open('data/noun_phrase_uniquenesses.csv', 'r') as f:
-        f.readline()
-        line = f.readline()[:-1].strip().lower()
-        while line:
-            items = line.split(',')
-            phrase = items[0]
-            uniqueness = float(items[-1])
-            if phrase in phrases:
-                uniquenesses[phrase] = uniqueness
-            line = f.readline()[:-1].strip().lower()
+
+    common_word_uniquenesses = {}
+    with open('data/google-trillion-words/most_common_words_20k.txt') as f:
+        common_words = f.readlines()
+    common_word_uniquenesses = {v.strip().lower():
+                                (len(common_words) - i) / len(common_words)
+                                for i, v in enumerate(common_words)}
+    for phrase in phrases:
+        phrase_word_count = 0
+        total_uniqueness = 0
+        for word in phrase.split(' '):
+            if len(word) > 0:
+                phrase_word_count += 1
+                if word in common_word_uniquenesses:
+                    total_uniqueness += common_word_uniquenesses[word]
+                else:
+                    total_uniqueness += 1
+        uniquenesses[phrase] = total_uniqueness / phrase_word_count
+
     return uniquenesses
 
 
@@ -109,14 +119,40 @@ def get_wiki_score(phrase, cs_categories):
     return (len(relevant_pages) / num_results)
 
 
-def get_popularity(phrase):
-    # TODO: complete implementation
-    pass
+def get_num_google_results(query):
+    url = 'https://www.googleapis.com/customsearch/v1?'
+    params = {'key': api_key, 'cx': search_engine_id, 'q': query}
+    r = requests.get(url=url, params=params)
+    data = r.json()
+    if 'searchInformation' in data:
+        if 'totalResults' in data['searchInformation']:
+            return int(data['searchInformation']['totalResults'])
+    return -1
+
+
+def format_query(noun_phrase, domain):
+    return '"{}" AND "{}"'.format(noun_phrase, domain)
+
+
+def get_popularity(phrase, num_domain_results):
+    query = format_query(phrase, domain)
+    num_results = get_num_google_results(query)
+    if num_results == -1:
+        print('Error: Query: \'{}\' failed.'.format(query))
+    return num_results / num_domain_results
 
 
 def get_purity(phrase):
-    # TODO: complete implementation
-    pass
+    domain = 'computer science'
+    first_query = format_query(noun_phrase, domain)
+    first_num_results = get_num_google_results(first_query)
+    if first_num_results == -1:
+        print('Error: Query: \'{}\' failed.'.format(first_query))
+    second_query = '\"{}\"'.format(noun_phrase)
+    second_num_results = get_num_google_results(first_query)
+    if second_num_results == -1:
+        print('Error: Query: \'{}\' failed.'.format(second_query))
+    return first_num_results / second_num_results
 
 
 def get_suggested_queries(phrase):
@@ -190,17 +226,20 @@ def get_phrase_features(phrase, frequencies, concordance_scores,
     concordance_score = get_concordance_score(phrase, concordance_scores)
     uniqueness = get_uniqueness(phrase, uniquenesses)
     wiki_score = get_wiki_score(phrase, cs_categories)
-    # TODO: get popularity
+    # TODO: get popularity (WAITING ON GOOGLE API CREDENTIALS)
+    # num_results = get_num_google_results('computer science')
+    # popularity = get_popularity(phrase, num_results)
     popularity = 0.0
-    # TODO: get purity
+    # TODO: get purity (WAITING ON GOOGLE API CREDENTIALS)
+    # purity = get_purity(phrase)
     purity = 0.0
-    # TODO: get suggested_query_score
-    suggested_query_score = 0.0
-    # TODO: get cs_context
-    cs_context = []
+    # TODO: get suggested_query_score (WAITING ON GOOGLE API CREDENTIALS)
     # suggested_query_score = get_suggested_query_score(phrase,
     #                                                   suggested_queries)
+    suggested_query_score = 0.0
+    # TODO: get cs_context (WAITING ON GOOGLE API CREDENTIALS)
     # cs_context = get_cs_context(phrase, suggested_queries)
+    cs_context = []
     return [frequency, concordance_score, uniqueness, wiki_score,
             popularity, purity, suggested_query_score, cs_context]
 
@@ -227,19 +266,19 @@ def build_dataset():
     concordance_scores = prefetch_concordance_scores(phrases)
     print('Prefetching uniquenesses.')
     uniquenesses = prefetch_uniquenesses(phrases)
-    # TODO: get suggested queries
-    suggested_queries = {}
+    # TODO: prefetch suggested queries (WAITING ON GOOGLE API CREDENTIALS)
     # print('Prefetching suggested queries.')
     # suggested_queries = prefetch_suggested_queries(phrases)
+    suggested_queries = {}
 
-    with open('data/dataset.csv', 'w') as f:
+    with open('data/model/dataset.csv', 'w') as f:
         features = ['frequency', 'concordance_score', 'uniqueness',
                     'wiki_score', 'popularity', 'purity',
                     'suggested_query_score', 'cs_context']
         f.write(build_data_row('phrase', features, 'label'))
         for idx, labeled_phrase in enumerate(labeled_phrases):
             print('Processing phrase ' + str(idx + 1) + ' of ' +
-                  str(len(labeled_phrases)))
+                  str(len(labeled_phrases)) + '.')
             phrase = labeled_phrase[0]
             label = labeled_phrase[1]
             features = get_phrase_features(phrase,
@@ -251,6 +290,7 @@ def build_dataset():
             data_row = build_data_row(phrase, features, label)
             f.write(data_row)
         f.close()
+        print('Dataset written to file: data/model/dataset.csv.')
 
 
 if __name__ == '__main__':

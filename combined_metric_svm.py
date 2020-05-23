@@ -7,7 +7,7 @@ import numpy as np
 def read_dataset():
     x = []
     y = []
-    with open('../data/dataset_50_50.csv', 'r') as f:
+    with open('data/model/dataset_50_50.csv', 'r') as f:
         f.readline()
         line = f.readline()[:-1]
         while line:
