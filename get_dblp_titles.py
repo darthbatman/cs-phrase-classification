@@ -1,6 +1,6 @@
 def get_dblp_titles():
-    with open('data/dblp_titles.txt', 'w') as fw:
-        with open('data/dblp.xml', 'r') as fr:
+    with open('data/dblp/dblp_titles.txt', 'w') as fw:
+        with open('data/dblp/dblp.xml', 'r') as fr:
             line = fr.readline()
             while line:
                 if '<title>' in line and '</title>' in line:

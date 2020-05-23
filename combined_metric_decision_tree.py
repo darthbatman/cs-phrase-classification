@@ -1,3 +1,4 @@
+import numpy as np
 import pydotplus
 from sklearn import tree
 from sklearn.externals.six import StringIO
@@ -13,7 +14,9 @@ def read_dataset():
         feature_names = f.readline()[:-1].split(',')[1:-1]
         line = f.readline()[:-1]
         while line:
-            x.append(line.split(',')[1:-1])
+            x.append([line.split(',')[0]] +
+                     [(str(float(v)) if v != '[]' else '0.0')
+                     for v in line.split(',')[1:-1]])
             y.append(line.split(',')[-1])
             line = f.readline()[:-1]
         f.close()
@@ -24,11 +27,13 @@ def train_classifier(dataset):
     x = dataset[0]
     y = dataset[1]
     feature_names = dataset[2]
-
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.1)
+    test_phrases = np.array(x_test)[:, 0]
+    x_train = np.array(x_train)[:, 1:]
+    x_test = np.array(x_test)[:, 1:]
     classifier = tree.DecisionTreeClassifier(max_depth=3, min_samples_leaf=10)
     classifier.fit(x_train, y_train)
-    return (classifier, x_test, y_test, feature_names)
+    return (classifier, x_test, y_test, feature_names, test_phrases)
 
 
 def generate_visualization(classifier_with_feature_names):

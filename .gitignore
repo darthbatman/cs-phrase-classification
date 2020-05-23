@@ -1,6 +1,6 @@
 .DS_Store
 __pycache__
-data/dblp-raw/*
+data/dblp/*
 data/stanford-core-nlp/stanford-corenlp-full-2018-10-05
 visualization.pdf
 credentials.py

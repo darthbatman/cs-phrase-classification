@@ -11,7 +11,9 @@ def read_dataset():
         f.readline()
         line = f.readline()[:-1]
         while line:
-            x.append(line.split(',')[0:3] + line.split(',')[4:6])
+            x.append([line.split(',')[0]] +
+                     [(str(float(v)) if v != '[]' else '0.0')
+                     for v in line.split(',')[1:-1]])
             y.append(line.split(',')[-1])
             line = f.readline()[:-1]
         f.close()
@@ -38,13 +40,10 @@ def evaluate_classifier(trained):
     test_phrases = trained[3]
     predictions = classifier.predict(x_test)
     print('Accuracy: ' + str(accuracy_score(y_test, predictions)))
-    print('Precision: ' + str(precision_score(y_test, predictions, pos_label='True')))
-    print('Recall: ' + str(recall_score(y_test, predictions, pos_label='True')))
-    # uncomment to show misclassified terms
-    # y_test = np.asarray(y_test)
-    # misclassified = np.where(y_test != predictions)[0]
-    # for mis in misclassified:
-    #     print(test_phrases[mis] + ': ' + str(y_test[mis]))
+    print('Precision: ' + str(precision_score(y_test, predictions,
+                              pos_label='True')))
+    print('Recall: ' + str(recall_score(y_test, predictions,
+                           pos_label='True')))
 
 
 def build_model():
