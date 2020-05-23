@@ -19,7 +19,7 @@ def get_noun_phrases():
             'data/stanford-core-nlp/stanford-corenlp-full-2018-10-05')
     with open('data/stanford-core-nlp/dblp_titles_noun_phrases.txt',
               'w') as wf:
-        with open('data/dblp-raw/dblp_titles.txt', 'r') as rf:
+        with open('data/dblp/dblp_titles.txt', 'r') as rf:
             line = rf.readline()
             while line:
                 tree_str = nlp.parse(line)
