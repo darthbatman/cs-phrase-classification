@@ -163,6 +163,8 @@ def get_suggested_queries(phrase):
     try:
         return res.text.split('[')[2][:-2].replace('"', '').split(',')
     except Exception:
+        print('Google stopped returning suggested queries ' +
+              'due to automated query detection.')
         return []
 
 
@@ -264,10 +266,8 @@ def build_dataset():
     concordance_scores = prefetch_concordance_scores(phrases)
     print('Prefetching uniquenesses.')
     uniquenesses = prefetch_uniquenesses(phrases)
-    # TODO: prefetch suggested queries (WAITING ON GOOGLE API CREDENTIALS)
-    # print('Prefetching suggested queries.')
-    # suggested_queries = prefetch_suggested_queries(phrases)
-    suggested_queries = {}
+    print('Prefetching suggested queries.')
+    suggested_queries = prefetch_suggested_queries(phrases)
 
     with open('data/model/dataset.csv', 'w') as f:
         features = ['frequency', 'concordance_score', 'uniqueness',
