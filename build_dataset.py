@@ -135,6 +135,7 @@ def format_query(noun_phrase, domain):
 
 
 def get_popularity(phrase, num_domain_results):
+    domain = 'computer science'
     query = format_query(phrase, domain)
     num_results = get_num_google_results(query)
     if num_results == -1:
@@ -144,11 +145,11 @@ def get_popularity(phrase, num_domain_results):
 
 def get_purity(phrase):
     domain = 'computer science'
-    first_query = format_query(noun_phrase, domain)
+    first_query = format_query(phrase, domain)
     first_num_results = get_num_google_results(first_query)
     if first_num_results == -1:
         print('Error: Query: \'{}\' failed.'.format(first_query))
-    second_query = '\"{}\"'.format(noun_phrase)
+    second_query = '\"{}\"'.format(phrase)
     second_num_results = get_num_google_results(first_query)
     if second_num_results == -1:
         print('Error: Query: \'{}\' failed.'.format(second_query))
@@ -226,12 +227,9 @@ def get_phrase_features(phrase, frequencies, concordance_scores,
     concordance_score = get_concordance_score(phrase, concordance_scores)
     uniqueness = get_uniqueness(phrase, uniquenesses)
     wiki_score = get_wiki_score(phrase, cs_categories)
-    # TODO: get popularity (WAITING ON GOOGLE API CREDENTIALS)
-    # num_results = get_num_google_results('computer science')
-    # popularity = get_popularity(phrase, num_results)
-    popularity = 0.0
-    # TODO: get purity (WAITING ON GOOGLE API CREDENTIALS)
-    # purity = get_purity(phrase)
+    num_results = get_num_google_results('computer science')
+    popularity = get_popularity(phrase, num_results)
+    purity = get_purity(phrase)
     purity = 0.0
     # TODO: get suggested_query_score (WAITING ON GOOGLE API CREDENTIALS)
     # suggested_query_score = get_suggested_query_score(phrase,
