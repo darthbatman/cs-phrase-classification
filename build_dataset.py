@@ -250,7 +250,7 @@ def build_dataset():
     print('Prefetching CS categories.')
     cs_categories = prefetch_cs_categories()
     print('Getting labeled phrases.')
-    labeled_phrases = get_labeled_phrases()[:4]
+    labeled_phrases = get_labeled_phrases()
 
     phrases = []
     for labeled_phrase in labeled_phrases:
