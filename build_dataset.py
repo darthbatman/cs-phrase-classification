@@ -1,4 +1,5 @@
 import requests
+import time
 import wikipedia
 import wikipediaapi
 
@@ -123,6 +124,7 @@ def get_num_google_results(query):
     url = 'https://www.googleapis.com/customsearch/v1?'
     params = {'key': api_key, 'cx': search_engine_id, 'q': query}
     r = requests.get(url=url, params=params)
+    time.sleep(1)
     data = r.json()
     if 'searchInformation' in data:
         if 'totalResults' in data['searchInformation']:
