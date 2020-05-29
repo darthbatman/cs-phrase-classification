@@ -173,6 +173,7 @@ def prefetch_suggested_queries(phrases):
     for phrase in phrases:
         suggestions = get_suggested_queries(phrase)
         suggested_queries[phrase] = suggestions
+    print(suggested_queries)
     return suggested_queries
 
 

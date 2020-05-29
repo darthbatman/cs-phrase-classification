@@ -12,7 +12,7 @@ Classification of phrases as phrases inside or outside the domain of computer sc
 
 Install the dependencies with the following command.
 
-`pip install -r requirements.txt'`
+`pip install -r requirements.txt`
 
 ### Execution
 
