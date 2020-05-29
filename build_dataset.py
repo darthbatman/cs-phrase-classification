@@ -173,7 +173,6 @@ def prefetch_suggested_queries(phrases):
     for phrase in phrases:
         suggestions = get_suggested_queries(phrase)
         suggested_queries[phrase] = suggestions
-    print(suggested_queries)
     return suggested_queries
 
 
@@ -233,14 +232,9 @@ def get_phrase_features(phrase, frequencies, concordance_scores,
     num_results = get_num_google_results('computer science')
     popularity = get_popularity(phrase, num_results)
     purity = get_purity(phrase)
-    purity = 0.0
-    # TODO: get suggested_query_score (WAITING ON GOOGLE API CREDENTIALS)
-    # suggested_query_score = get_suggested_query_score(phrase,
-    #                                                   suggested_queries)
-    suggested_query_score = 0.0
-    # TODO: get cs_context (WAITING ON GOOGLE API CREDENTIALS)
-    # cs_context = get_cs_context(phrase, suggested_queries)
-    cs_context = []
+    suggested_query_score = get_suggested_query_score(phrase,
+                                                      suggested_queries)
+    cs_context = get_cs_context(phrase, suggested_queries)
     return [frequency, concordance_score, uniqueness, wiki_score,
             popularity, purity, suggested_query_score, cs_context]
 
@@ -256,7 +250,7 @@ def build_dataset():
     print('Prefetching CS categories.')
     cs_categories = prefetch_cs_categories()
     print('Getting labeled phrases.')
-    labeled_phrases = get_labeled_phrases()
+    labeled_phrases = get_labeled_phrases()[:4]
 
     phrases = []
     for labeled_phrase in labeled_phrases:
