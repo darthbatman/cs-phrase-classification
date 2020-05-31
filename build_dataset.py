@@ -206,6 +206,22 @@ def get_suggested_query_score(phrase, suggested_queries):
         (prefix_count / len(suggested_queries))
 
 
+def n_hot_encode_cs_context(cs_context):
+    cs_desribers = ['computer science', 'python', 'machine learning',
+                    'artificial intelligence', 'ai', 'deep learning',
+                    'algorithms', 'code', 'architecture', 'api',
+                    'software', 'framework', 'computer security',
+                    'computer system', 'computer systems']
+    describer_counts = {}
+    for describer in cs_desribers:
+        describer_counts[describer] = 0
+    for describer in cs_context:
+        describer_counts[describer] += 1
+    count_str = ','.join([str(describer_counts[describer])
+                          for describer in cs_desribers])
+    return count_str
+
+
 def get_cs_context(phrase, suggested_queries):
     if phrase in suggested_queries:
         context = []
@@ -221,8 +237,8 @@ def get_cs_context(phrase, suggested_queries):
                    cs_desriber + ' ' in query[len(phrase):] or ' ' + \
                    cs_desriber + 's' in query[len(phrase):]:
                     context.append(cs_desriber)
-        return context
-    return []
+        return n_hot_encode_cs_context(context)
+    return n_hot_encode_cs_context([])
 
 
 def get_phrase_features(phrase, frequencies, concordance_scores,
@@ -270,6 +286,12 @@ def build_dataset():
         features = ['frequency', 'concordance_score', 'uniqueness',
                     'wiki_score', 'popularity', 'purity',
                     'suggested_query_score', 'cs_context']
+        cs_desribers = ['computer science', 'python', 'machine learning',
+                        'artificial intelligence', 'ai', 'deep learning',
+                        'algorithms', 'code', 'architecture', 'api',
+                        'software', 'framework', 'computer security',
+                        'computer system', 'computer systems']
+        features = features[:-1] + cs_desribers
         f.write(build_data_row('phrase', features, 'label'))
         for idx, labeled_phrase in enumerate(labeled_phrases):
             print('Processing phrase ' + str(idx + 1) + ' of ' +
