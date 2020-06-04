@@ -1,4 +1,6 @@
+import random
 import requests
+import sys
 import time
 import wikipedia
 import wikipediaapi
@@ -310,5 +312,54 @@ def build_dataset():
         print('Dataset written to file: data/model/dataset.csv.')
 
 
+def sanitize_dataset(file):
+    features = ['frequency', 'concordance_score', 'uniqueness',
+                'wiki_score', 'popularity', 'purity',
+                'suggested_query_score', 'cs_context']
+    cs_desribers = ['computer science', 'python', 'machine learning',
+                    'artificial intelligence', 'ai', 'deep learning',
+                    'algorithms', 'code', 'architecture', 'api',
+                    'software', 'framework', 'computer security',
+                    'computer system', 'computer systems']
+    pop_idx = features.index('popularity') + 1
+    pur_idx = features.index('purity') + 1
+
+    good_phrases = []
+    bad_phrases = []
+    with open(file, 'r') as f:
+        f.readline()
+        line = f.readline()[:-1]
+        while line:
+            features = line.split(',')
+            if float(features[pop_idx]) != 1.0 and \
+               float(features[pur_idx]) != 1.0:
+                if features[-1] == 'True':
+                    good_phrases.append(features)
+                else:
+                    bad_phrases.append(features)
+            line = f.readline()[:-1]
+        f.close()
+
+    num_good = len(good_phrases)
+    num_bad = len(bad_phrases)
+    good_phrases = good_phrases[:min(num_good, num_bad)]
+    bad_phrases = bad_phrases[:min(num_good, num_bad)]
+
+    phrases = []
+    phrases.extend(good_phrases)
+    phrases.extend(bad_phrases)
+    random.shuffle(phrases)
+
+    with open(file.replace('.csv', '_sanitized.csv'), 'w') as f:
+        features = features[:-1] + cs_desribers
+        f.write(build_data_row('phrase', features, 'label'))
+        for phrase in phrases:
+            f.write(build_data_row(phrase[0], phrase[1:-1], phrase[-1]))
+        f.close()
+
+
 if __name__ == '__main__':
-    build_dataset()
+    if len(sys.argv) == 3 and sys.argv[1] == '-s':
+        sanitize_dataset(sys.argv[2])
+    else:
+        build_dataset()
