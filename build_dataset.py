@@ -330,13 +330,13 @@ def sanitize_dataset(file):
         f.readline()
         line = f.readline()[:-1]
         while line:
-            features = line.split(',')
-            if float(features[pop_idx]) != 1.0 and \
-               float(features[pur_idx]) != 1.0:
-                if features[-1] == 'True':
-                    good_phrases.append(features)
+            fields = line.split(',')
+            if float(fields[pop_idx]) != 1.0 and \
+               float(fields[pur_idx]) != 1.0:
+                if fields[-1] == 'True':
+                    good_phrases.append(fields)
                 else:
-                    bad_phrases.append(features)
+                    bad_phrases.append(fields)
             line = f.readline()[:-1]
         f.close()
 

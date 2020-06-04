@@ -10,7 +10,7 @@ def read_dataset():
     x = []
     y = []
     feature_names = []
-    with open('data/model/dataset_50_50.csv', 'r') as f:
+    with open('data/model/dataset_sanitized.csv', 'r') as f:
         feature_names = f.readline()[:-1].split(',')[1:-1]
         line = f.readline()[:-1]
         while line:
