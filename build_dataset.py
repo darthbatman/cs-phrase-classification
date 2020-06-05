@@ -321,6 +321,7 @@ def sanitize_dataset(file):
                     'algorithms', 'code', 'architecture', 'api',
                     'software', 'framework', 'computer security',
                     'computer system', 'computer systems']
+    freq_idx = features.index('frequency') + 1
     pop_idx = features.index('popularity') + 1
     pur_idx = features.index('purity') + 1
 
@@ -331,7 +332,8 @@ def sanitize_dataset(file):
         line = f.readline()[:-1]
         while line:
             fields = line.split(',')
-            if float(fields[pop_idx]) != 1.0 and \
+            if int(fields[freq_idx]) != 0 and \
+               float(fields[pop_idx]) != 1.0 and \
                float(fields[pur_idx]) != 1.0:
                 if fields[-1] == 'True':
                     good_phrases.append(fields)
